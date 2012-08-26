@@ -1,4 +1,4 @@
-/*Parsed 204 emote aliases.*/
+/*Parsed 206 emote aliases.*/
 .G_s_{color:#222222;background:#CCCCCC;background-image:url(http://f.thumbs.redditmedia.com/1ziUG2TkCnT_n-2M.png);background-repeat:no-repeat;padding:0px 0px 0px 20px;cursor:text}
 .G_s_:hover{color:#8F8F8F}
 .G_s_::after{content:attr(title);background:#CCCCCC;color:#CCCCCC;padding:0px 10px 0px 10px}
@@ -62,3 +62,5 @@
 .G_foe25_,.G_lpsad_{background-position:0px -2060px;width:70px;height:70px}
 .G_bjbubbles_{display:block;clear:none;float:left;width:134px;height:150px;background-image:url(http://b.thumbs.redditmedia.com/gl_SLn2lr4xGFbjO.png)}
 .G_bjbubbles_{background-position:0px 0px}
+.G_lpnotsure_{display:block;clear:none;float:left;width:150px;height:150px;background-image:url(http://a.thumbs.redditmedia.com/qtljMMIXmsiQfmBf.png)}
+.G_lpnotsure_{background-position:0px 0px}
