@@ -1,8 +1,4 @@
-/*Parsed 19 emote aliases.*/
-span.domain a.convertedEmote_[href*="/deviantart.com/"]:after,span.domain a.convertedEmote_[href*="/i.imgur.com/"]:after,span.domain a.convertedEmote_[href*="/imgur.com/"]:after,span.domain a.convertedEmote_[href*="/m.youtube.com/"]:after,span.domain a.convertedEmote_[href*="/reddit.com/"]:after,span.domain a.convertedEmote_[href*="/wikipedia.org/"]:after,span.domain a.convertedEmote_[href*="/youtube.com/"]:after{color:green;content:" - innocuous"}
-span.domain a.convertedEmote_[href*="/bangedup.net/"]:after,span.domain a.convertedEmote_[href*="/eye.swfchan.com/"]:after,span.domain a.convertedEmote_[href*="/spankbang.com/"]:after,span.domain a.convertedEmote_[href*="/swfchan.com/"]:after{color:darkgreen;content:" - like enough innocuous"}
-span.domain a.convertedEmote_[href*="/domain/"]:after{color:darkslategray;content:" - innocuousness undetermined"}
-span.domain a.convertedEmote_[href*="/images.4chan.org/"]:after,span.domain a.convertedEmote_[href*="/motherless.com/"]:after,span.domain a.convertedEmote_[href*="/ponibooru.org/"]:after{color:gray;content:" - relocation advised; inclined to evanesce"}
+/*Parsed 4 emote aliases.*/
 .G_sandwich_{display:block;clear:none;float:none;width:258px;height:212px;background-position:-0px -0px;background-image:url(http://a.thumbs.redditmedia.com/xqcT95cAGpl1Xmdf.png)}
 .G_angel_{display:block;clear:none;float:left;width:70px;height:70px;background-position:-140px -560px;background-image:url(http://d.thumbs.redditmedia.com/YKSDpjdgMQmII9YE.png)}
 .G_swh7s_{display:block;clear:none;float:none;width:300px;height:263px;background-position:-0px -0px;background-image:url(http://e.thumbs.redditmedia.com/XqDfRoy7kKraBSCL.png)}
