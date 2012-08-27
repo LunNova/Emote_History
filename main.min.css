@@ -1,4 +1,4 @@
-/*Parsed 12799 emote aliases.*/
+/*Parsed 12797 emote aliases.*/
 .G_today_{display:block;float:left;background-image:url(http://d.thumbs.redditmedia.com/dN7SE1I0H0ul7jP-.png);width:500px;height:270px}
 .G_imamakethisanemoterealquick_{display:block;float:left;background-image:url(http://e.thumbs.redditmedia.com/reUrhLuICVFtwobp.png);width:456px;height:304px}
 .G_lunafilly_{display:block;float:left;background-image:url(http://b.thumbs.redditmedia.com/z-06hS5Md37RrzKy.png)}
@@ -1020,8 +1020,6 @@
 .G_ppsteamingmad_{width:351px;height:200px;background-position:-106px -356px}
 .G_ppstrut_{width:149px;height:150px;background-position:-2px -558px}
 .G_ppwhy_{width:103px;height:125px;background-position:-153px -558px}
-.md a[href*="/yqm7o/"][class~="thumbnail"]{display:none}
-.md a[href*="/yqm7o/"].title{color:red}
 .G_shuffle_{display:block;float:left;width:225px;height:300px;background-image:url(http://c.thumbs.redditmedia.com/DO1kW--Q7aOtgd7J.png)}
 .G_shuffle_{background-position:-0px -0px}
 .G_nopespin_{display:block;float:left;width:300px;height:301px;background-image:url(http://e.thumbs.redditmedia.com/n-BFOLNGx0d2K49v.png)}
@@ -4024,13 +4022,13 @@
 .G_giomount_{background-position:-0px -1830px}
 .G_emptytable_{display:block;float:left;background-image:url(http://c.thumbs.redditmedia.com/9U_7-tDvpDULG6S8.png);width:204px;height:139px}
 .G_lickiepie_[href*="-combine"] + a{position:relative;left:-220px;top:127px;margin-right:-220px}
-.G_giomount-combine_:after,.G_giomount-combine_:before{background-position:-0px -1830px}
-.G_bmmount-combine_:after,.G_bmmount-combine_:before{background-position:-0px -1220px}
-.G_fpmount-combine_:after,.G_fpmount-combine_:before{background-position:-0px -1525px}
-.G_soarinmount-combine_:after,.G_soarinmount-combine_:before{background-position:-0px -915px}
-.G_stmount-combine_:after,.G_stmount-combine_:before{background-position:-0px -610px}
-.G_whoovesmount-combine_:after,.G_whoovesmount-combine_:before{background-position:-0px -305px}
-.G_fpnmount-combine_:after,.G_fpnmount-combine_:before{background-position:-0px -0px}
+.md a[href|="/giomount-combine"]:after,.md a[href|="/giomount-combine"]:before{background-position:-0px -1830px}
+.md a[href|="/bmmount-combine"]:after,.md a[href|="/bmmount-combine"]:before{background-position:-0px -1220px}
+.md a[href|="/fpmount-combine"]:after,.md a[href|="/fpmount-combine"]:before{background-position:-0px -1525px}
+.md a[href|="/soarinmount-combine"]:after,.md a[href|="/soarinmount-combine"]:before{background-position:-0px -915px}
+.md a[href|="/stmount-combine"]:after,.md a[href|="/stmount-combine"]:before{background-position:-0px -610px}
+.md a[href|="/whoovesmount-combine"]:after,.md a[href|="/whoovesmount-combine"]:before{background-position:-0px -305px}
+.md a[href|="/fpnmount-combine"]:after,.md a[href|="/fpnmount-combine"]:before{background-position:-0px -0px}
 .md a[href*="mount-combine"] + .md a[href^="/ajfun"]{margin-left:0px}
 .md a[href*="mount-combine"] + .md a[href^="/darklefun"],.md a[href*="mount-combine"] + .md a[href^="/dashfun"],.md a[href*="mount-combine"] + .md a[href^="/twifun"]{margin-left:-26px}
 .md a[href*="mount-combine"] + .md a[href^="/shyfun"]{margin-left:-18px}

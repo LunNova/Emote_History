@@ -11,13 +11,13 @@
 .G_lickiepie_[href*="-combine"] + a{position:relative;left:-220px;top:127px;margin-right:-220px}
 .G_jizz_[href*="-combine"]{z-index:2;position:relative}
 .G_jizz_[href*="-combine"] + a{z-index:1;position:relative;left:-110px;top:-5px;margin-right:0px;margin-bottom:0px}
-.G_giomount-combine_:after,.G_giomount-combine_:before{background-position:-0px -1830px}
-.G_bmmount-combine_:after,.G_bmmount-combine_:before{background-position:-0px -1220px}
-.G_fpmount-combine_:after,.G_fpmount-combine_:before{background-position:-0px -1525px}
-.G_soarinmount-combine_:after,.G_soarinmount-combine_:before{background-position:-0px -915px}
-.G_stmount-combine_:after,.G_stmount-combine_:before{background-position:-0px -610px}
-.G_whoovesmount-combine_:after,.G_whoovesmount-combine_:before{background-position:-0px -305px}
-.G_fpnmount-combine_:after,.G_fpnmount-combine_:before{background-position:-0px -0px}
+.md a[href|="/giomount-combine"]:after,.md a[href|="/giomount-combine"]:before{background-position:-0px -1830px}
+.md a[href|="/bmmount-combine"]:after,.md a[href|="/bmmount-combine"]:before{background-position:-0px -1220px}
+.md a[href|="/fpmount-combine"]:after,.md a[href|="/fpmount-combine"]:before{background-position:-0px -1525px}
+.md a[href|="/soarinmount-combine"]:after,.md a[href|="/soarinmount-combine"]:before{background-position:-0px -915px}
+.md a[href|="/stmount-combine"]:after,.md a[href|="/stmount-combine"]:before{background-position:-0px -610px}
+.md a[href|="/whoovesmount-combine"]:after,.md a[href|="/whoovesmount-combine"]:before{background-position:-0px -305px}
+.md a[href|="/fpnmount-combine"]:after,.md a[href|="/fpnmount-combine"]:before{background-position:-0px -0px}
 .md a[href*="mount-combine"] + .md a[href^="/ajfun"]{margin-left:0px}
 .md a[href*="mount-combine"] + .md a[href^="/darklefun"],.md a[href*="mount-combine"] + .md a[href^="/dashfun"],.md a[href*="mount-combine"] + .md a[href^="/twifun"]{margin-left:-26px}
 .md a[href*="mount-combine"] + .md a[href^="/shyfun"]{margin-left:-18px}
