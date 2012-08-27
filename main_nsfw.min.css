@@ -1,4 +1,4 @@
-/*Parsed 1477 emote aliases.*/
+/*Parsed 1549 emote aliases.*/
 .G_chaos00_,.G_chaos01_,.G_chaos02_,.G_chaos10_,.G_chaos10e_,.G_chaos11_,.G_chaos12_,.G_sayno_,.G_saynoe_{display:block;float:left;background-image:url(http://f.thumbs.redditmedia.com/DzeuoOHG6Fujg_CA.png)}
 .G_chaos00_{width:133px;height:150px;background-position:-0px -0px}
 .G_chaos01_{width:110px;height:150px;background-position:-133px -0px}
@@ -52,6 +52,62 @@ a.convertedEmote_[href|="/tinytxt!"]{font-family:"monospace", "Courier";color:in
 a.convertedEmote_[href|="/pinkhover!"]{color:#000000;cursor:text}
 .G_catleaves_{display:block;float:left;width:320px;height:199px;background-image:url(http://a.thumbs.redditmedia.com/uNKkT1pi0XDmD_nZ.png)}
 .G_catleaves_{background-position:0px 0px}
+a.md[href="//#advicecmc"],a.md[href="//#advicedash"],a.md[href="//#advicederp"],a.md[href="//#advicegummy"],a.md[href="//#advicehoers"],a.md[href="//#adviceluna"],a.md[href="//#adviceoct"],a.md[href="//#advicepbb"],a.md[href="//#advicepinkamina"],a.md[href="//#advicescoot"],a.md[href="//#advicescratch"],a.md[href="//#advicescrew"],a.md[href="//#adviceshy"]{width:300px;height:300px;cursor:default;display:inline-block;background-image:url(http://f.thumbs.redditmedia.com/CRUrOZBk1L-y-b7k.png);background-repeat:no-repeat;text-align:center;color:white;font-family:Impact, sans-serif;font-size:25px;line-height:24px;text-shadow:2px 2px 2px black, -2px -2px 2px black, -2px 2px 2px black, 2px -2px 2px black;overflow:hidden;position:relative;text-transform:uppercase}
+a.md[href="//#advicepbb"]{width:300px;height:300px;background-position:-2px -2px}
+a.md[href="//#advicecmc"]{width:300px;height:300px;background-position:-304px -2px}
+a.md[href="//#advicedash"]{width:300px;height:300px;background-position:-606px -2px}
+a.md[href="//#advicederp"]{width:300px;height:300px;background-position:-2px -304px}
+a.md[href="//#advicegummy"]{width:300px;height:300px;background-position:-304px -304px}
+a.md[href="//#advicehoers"]{width:300px;height:300px;background-position:-606px -304px}
+a.md[href="//#adviceluna"]{width:300px;height:300px;background-position:-2px -606px}
+a.md[href="//#adviceoct"]{width:300px;height:300px;background-position:-304px -606px}
+a.md[href="//#advicepinkamina"]{width:300px;height:300px;background-position:-606px -606px}
+a.md[href="//#advicescoot"]{width:300px;height:300px;background-position:-2px -908px}
+a.md[href="//#advicescratch"]{width:300px;height:300px;background-position:-304px -908px}
+a.md[href="//#advicescrew"]{width:300px;height:300px;background-position:-606px -908px}
+a.md[href="//#adviceshy"]{width:300px;height:300px;background-position:-2px -1210px}
+a.md[href="//#advicepbb"] em{font-style:normal;position:absolute;top:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#advicepbb"] strong{font-weight:normal;position:absolute;bottom:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#advicecmc"] em{font-style:normal;position:absolute;top:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#advicecmc"] strong{font-weight:normal;position:absolute;bottom:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#advicedash"] em{font-style:normal;position:absolute;top:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#advicedash"] strong{font-weight:normal;position:absolute;bottom:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#advicederp"] em{font-style:normal;position:absolute;top:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#advicederp"] strong{font-weight:normal;position:absolute;bottom:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#advicegummy"] em{font-style:normal;position:absolute;top:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#advicegummy"] strong{font-weight:normal;position:absolute;bottom:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#advicehoers"] em{font-style:normal;position:absolute;top:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#advicehoers"] strong{font-weight:normal;position:absolute;bottom:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#adviceluna"] em{font-style:normal;position:absolute;top:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#adviceluna"] strong{font-weight:normal;position:absolute;bottom:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#adviceoct"] em{font-style:normal;position:absolute;top:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#adviceoct"] strong{font-weight:normal;position:absolute;bottom:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#advicepinkamina"] em{font-style:normal;position:absolute;top:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#advicepinkamina"] strong{font-weight:normal;position:absolute;bottom:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#advicescoot"] em{font-style:normal;position:absolute;top:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#advicescoot"] strong{font-weight:normal;position:absolute;bottom:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#advicescratch"] em{font-style:normal;position:absolute;top:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#advicescratch"] strong{font-weight:normal;position:absolute;bottom:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#advicescrew"] em{font-style:normal;position:absolute;top:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#advicescrew"] strong{font-weight:normal;position:absolute;bottom:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#adviceshy"] em{font-style:normal;position:absolute;top:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#adviceshy"] strong{font-weight:normal;position:absolute;bottom:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#adviceajlie"],a.md[href="//#adviceberry"],a.md[href="//#advicepp"],a.md[href="//#advicetia"],a.md[href="//#philosopie"]{width:300px;height:300px;cursor:default;display:inline-block;background-image:url(http://f.thumbs.redditmedia.com/fhm1mn0i0O8jchT5.png);background-repeat:no-repeat;text-align:center;color:white;font-family:Impact, sans-serif;font-size:25px;line-height:24px;text-shadow:1px 1px 1px black, -1px -1px 1px black, -1px 1px 1px black, 1px -1px 1px black;overflow:hidden;position:relative;text-transform:uppercase}
+a.md[href="//#adviceajlie"]{width:300px;height:300px;background-position:-2px -2px}
+a.md[href="//#adviceberry"]{width:300px;height:300px;background-position:-304px -2px}
+a.md[href="//#advicepp"]{width:300px;height:300px;background-position:-606px -2px}
+a.md[href="//#advicetia"]{width:300px;height:300px;background-position:-2px -304px}
+a.md[href="//#philosopie"]{width:300px;height:300px;background-position:-304px -304px}
+a.md[href="//#adviceaajlie"] em{font-style:normal;position:absolute;top:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#adviceajlie"] strong{font-weight:normal;position:absolute;bottom:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#adviceberry"] em{font-style:normal;position:absolute;top:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#adviceberry"] strong{font-weight:normal;position:absolute;bottom:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#advicetia"] em{font-style:normal;position:absolute;top:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#advicetia"] strong{font-weight:normal;position:absolute;bottom:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#philosopie"] em{font-style:normal;position:absolute;top:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#philosopie"] strong{font-weight:normal;position:absolute;bottom:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#advicepp"] em{font-style:normal;position:absolute;top:12px;width:280px;left:50%;margin-left:-140px}
+a.md[href="//#advicepp"] strong{font-weight:normal;position:absolute;bottom:12px;width:280px;left:50%;margin-left:-140px}
 .G_bigenough_{display:block;float:left;width:1128px;height:1250px;background-image:url(http://c.thumbs.redditmedia.com/lfTijbZZCPlbHbYh.png)}
 .G_hugehorsedick_{display:block;float:left;width:1588px;height:2338px;background-image:url(http://f.thumbs.redditmedia.com/c5K0xsvBeSKZ3Yow.png)}
 .G_rdblush_,.G_rdexcite_,.G_rdready_,.G_rdroll_,.G_rdsit_,.G_rdsnuff_,.G_rdspy_,.G_rdtrumpet_,.G_rdwin_{display:block;float:left;background-image:url(http://e.thumbs.redditmedia.com/2fFNBfJc4OHjP1EL.png)}
