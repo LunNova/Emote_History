@@ -188,6 +188,6 @@
 .G_e08_,.G_re08_,.G_rtwiponder_,.G_twiponder_{background-position:-0px -560px}
 .G_e18_,.G_re18_,.G_rspikewtf_,.G_spikewtf_{background-position:-70px -560px}
 .G_awwyeah_,.G_e28_,.G_rawwyeah_,.G_re28_{background-position:-140px -560px}
-a.convertedEmote_[href^="/smooze"]{background-position:0px 0px;display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://c.thumbs.redditmedia.com/5wA7HWAl2WD-UzA8.png)}
-a.convertedEmote_[href^="/rsmooze"]{background-position:-0px -70px;display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://c.thumbs.redditmedia.com/5wA7HWAl2WD-UzA8.png)}
+.md a[href^="/smooze"]{background-position:0px 0px;display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://c.thumbs.redditmedia.com/5wA7HWAl2WD-UzA8.png)}
+.md a[href^="/rsmooze"]{background-position:-0px -70px;display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://c.thumbs.redditmedia.com/5wA7HWAl2WD-UzA8.png)}
 .G_sp_{display:inline-block;padding-right:100%}

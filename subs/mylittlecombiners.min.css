@@ -18,12 +18,12 @@
 .G_stmount-combine_:after,.G_stmount-combine_:before{background-position:-0px -610px}
 .G_whoovesmount-combine_:after,.G_whoovesmount-combine_:before{background-position:-0px -305px}
 .G_fpnmount-combine_:after,.G_fpnmount-combine_:before{background-position:-0px -0px}
-a.convertedEmote_[href*="mount-combine"] + a.convertedEmote_[href^="/ajfun"]{margin-left:0px}
-a.convertedEmote_[href*="mount-combine"] + a.convertedEmote_[href^="/darklefun"],a.convertedEmote_[href*="mount-combine"] + a.convertedEmote_[href^="/dashfun"],a.convertedEmote_[href*="mount-combine"] + a.convertedEmote_[href^="/twifun"]{margin-left:-26px}
-a.convertedEmote_[href*="mount-combine"] + a.convertedEmote_[href^="/shyfun"]{margin-left:-18px}
-a.convertedEmote_[href*="mount-combine"] + a.convertedEmote_[href^="/rarfun"]{margin-left:-34px}
-a.convertedEmote_[href*="mount-combine"] + a.convertedEmote_[href^="/ppfun"]{margin-left:-10px}
-a.convertedEmote_[href*="mount-combine"] + a.convertedEmote_[href^="/pp"][href*="-combine"] + a{width:150px;position:relative;left:-70px;top:135px;z-index:4}
-a.convertedEmote_[href^="/emptytable"][href*="-combine"]{z-index:2;position:relative}
-a.convertedEmote_[href^="/emptytable"][href*="-combine"] + a{z-index:1;position:relative;margin-right:-999px;margin-bottom:-999px;left:-120px;top:20px;max-height:119px}
-a.convertedEmote_[href^="/emptytable"][href*="-combine"] + a.convertedEmote_[href^="/pp"][href*="-combine"] + a{width:150px;position:relative;left:14px;top:5px}
+.md a[href*="mount-combine"] + .md a[href^="/ajfun"]{margin-left:0px}
+.md a[href*="mount-combine"] + .md a[href^="/darklefun"],.md a[href*="mount-combine"] + .md a[href^="/dashfun"],.md a[href*="mount-combine"] + .md a[href^="/twifun"]{margin-left:-26px}
+.md a[href*="mount-combine"] + .md a[href^="/shyfun"]{margin-left:-18px}
+.md a[href*="mount-combine"] + .md a[href^="/rarfun"]{margin-left:-34px}
+.md a[href*="mount-combine"] + .md a[href^="/ppfun"]{margin-left:-10px}
+.md a[href*="mount-combine"] + .md a[href^="/pp"][href*="-combine"] + a{width:150px;position:relative;left:-70px;top:135px;z-index:4}
+.md a[href^="/emptytable"][href*="-combine"]{z-index:2;position:relative}
+.md a[href^="/emptytable"][href*="-combine"] + a{z-index:1;position:relative;margin-right:-999px;margin-bottom:-999px;left:-120px;top:20px;max-height:119px}
+.md a[href^="/emptytable"][href*="-combine"] + .md a[href^="/pp"][href*="-combine"] + a{width:150px;position:relative;left:14px;top:5px}

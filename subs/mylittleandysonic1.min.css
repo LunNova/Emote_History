@@ -650,23 +650,23 @@
 .G_artfun_{background-position:-2px -2px}
 .G_pixelfun_{background-position:-2px -338px}
 .G_sp_{display:inline-block;padding-right:100%}
-a.convertedEmote_[href|="/white!"]:nth-of-type(n){color:white;cursor:text;background-color:black}
-a.convertedEmote_[href|="/orange!"]:nth-of-type(n){color:orange;cursor:text}
-a.convertedEmote_[href|="/green!"]:nth-of-type(n){color:green;cursor:text}
-a.convertedEmote_[href|="/greentext!"]:nth-of-type(n){color:rgb(120,153,34);cursor:text}
-a.convertedEmote_[href|="/purple!"]:nth-of-type(n){color:purple;cursor:text}
-a.convertedEmote_[href|="/yellow!"]:nth-of-type(n){color:gold;cursor:text}
-a.convertedEmote_[href|="/pink!"]:nth-of-type(n){color:fuchsia;cursor:text}
-a.convertedEmote_[href|="/blue!"]:nth-of-type(n){color:blue;cursor:text}
-a.convertedEmote_[href|="/red!"]:nth-of-type(n){color:red;cursor:text}
-a.convertedEmote_[href|="/big!"]:nth-of-type(n){color:red;font-size:50px;font-weight:bold;cursor:text}
-a.convertedEmote_[href|="/txt!"]:nth-of-type(n){color:inherit;cursor:text}
-a.convertedEmote_[href|="/zecora!"]:nth-of-type(n){color:rgb(255,255,255);cursor:text;background-color:rgb(105,105,120)}
-a.convertedEmote_[href|="/applejack!"]:nth-of-type(n){color:#e56522;cursor:text;background-color:#ffc97b}
-a.convertedEmote_[href|="/pinkie!"]:nth-of-type(n){color:#c10064;cursor:text;background-color:#f8c0ce}
-a.convertedEmote_[href|="/rainbow!"]:nth-of-type(n){color:#971757;cursor:text;background-color:#97d6f9}
-a.convertedEmote_[href|="/rarity!"]:nth-of-type(n){color:#eef1f3;cursor:text;background-color:#49176d}
-a.convertedEmote_[href|="/twilight!"]:nth-of-type(n){color:#363b74;cursor:text;background-color:#caaad1}
-a.convertedEmote_[href|="/fluttershy!"]:nth-of-type(n){color:#e57eb3;cursor:text;background-color:#fff797}
-a.convertedEmote_[href|="/luna!"]:nth-of-type(n){font-size:18px;font-variant:small-caps;cursor:text;color:#72b4ff;background-color:#18113b}
+.md a[href|="/white!"]:nth-of-type(n){color:white;cursor:text;background-color:black}
+.md a[href|="/orange!"]:nth-of-type(n){color:orange;cursor:text}
+.md a[href|="/green!"]:nth-of-type(n){color:green;cursor:text}
+.md a[href|="/greentext!"]:nth-of-type(n){color:rgb(120,153,34);cursor:text}
+.md a[href|="/purple!"]:nth-of-type(n){color:purple;cursor:text}
+.md a[href|="/yellow!"]:nth-of-type(n){color:gold;cursor:text}
+.md a[href|="/pink!"]:nth-of-type(n){color:fuchsia;cursor:text}
+.md a[href|="/blue!"]:nth-of-type(n){color:blue;cursor:text}
+.md a[href|="/red!"]:nth-of-type(n){color:red;cursor:text}
+.md a[href|="/big!"]:nth-of-type(n){color:red;font-size:50px;font-weight:bold;cursor:text}
+.md a[href|="/txt!"]:nth-of-type(n){color:inherit;cursor:text}
+.md a[href|="/zecora!"]:nth-of-type(n){color:rgb(255,255,255);cursor:text;background-color:rgb(105,105,120)}
+.md a[href|="/applejack!"]:nth-of-type(n){color:#e56522;cursor:text;background-color:#ffc97b}
+.md a[href|="/pinkie!"]:nth-of-type(n){color:#c10064;cursor:text;background-color:#f8c0ce}
+.md a[href|="/rainbow!"]:nth-of-type(n){color:#971757;cursor:text;background-color:#97d6f9}
+.md a[href|="/rarity!"]:nth-of-type(n){color:#eef1f3;cursor:text;background-color:#49176d}
+.md a[href|="/twilight!"]:nth-of-type(n){color:#363b74;cursor:text;background-color:#caaad1}
+.md a[href|="/fluttershy!"]:nth-of-type(n){color:#e57eb3;cursor:text;background-color:#fff797}
+.md a[href|="/luna!"]:nth-of-type(n){font-size:18px;font-variant:small-caps;cursor:text;color:#72b4ff;background-color:#18113b}
 .G_hoppy_{display:block;clear:none;float:left;background-image:url(http://f.thumbs.redditmedia.com/yncP92ucLKCxJ1t_.png);width:105px;height:157px;background-position:-0px -0px}

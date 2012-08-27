@@ -88,4 +88,4 @@
 .G_seriouslytwilight_{display:block;clear:none;float:left;width:115px;height:130px;background-image:url(http://c.thumbs.redditmedia.com/2TT5_9zjSdFyvYin.png)}
 .G_seriouslydash_{display:block;clear:none;float:left;width:119px;height:130px;background-image:url(http://b.thumbs.redditmedia.com/L24YMcnUu5ZqQQ-m.png)}
 .G_seriouslypie_{display:block;clear:none;float:left;width:120px;height:130px;background-image:url(http://d.thumbs.redditmedia.com/IRYbSDxw3sa1ef_i.png)}
-a.convertedEmote_[href|="/luna!"]:nth-of-type(n){font-size:20px;font-variant:small-caps;cursor:text;color:#72b4ff}
+.md a[href|="/luna!"]:nth-of-type(n){font-size:20px;font-variant:small-caps;cursor:text;color:#72b4ff}

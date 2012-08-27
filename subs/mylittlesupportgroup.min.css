@@ -1,10 +1,10 @@
 /*Parsed 1276 emote aliases.*/
-a.convertedEmote_[href|="/applejack!"]{color:#e56522;cursor:text;background-color:#ffc97b}
-a.convertedEmote_[href|="/pinkie!"]{color:#c10064;cursor:text;background-color:#f8c0ce}
-a.convertedEmote_[href|="/rainbow!"]{color:#971757;cursor:text;background-color:#97d6f9}
-a.convertedEmote_[href|="/rarity!"]{color:#eef1f3;cursor:text;background-color:#49176d}
-a.convertedEmote_[href|="/twilight!"]{color:#363b74;cursor:text;background-color:#caaad1}
-a.convertedEmote_[href|="/fluttershy!"]{color:#e57eb3;cursor:text;background-color:#fff797}
+.md a[href|="/applejack!"]{color:#e56522;cursor:text;background-color:#ffc97b}
+.md a[href|="/pinkie!"]{color:#c10064;cursor:text;background-color:#f8c0ce}
+.md a[href|="/rainbow!"]{color:#971757;cursor:text;background-color:#97d6f9}
+.md a[href|="/rarity!"]{color:#eef1f3;cursor:text;background-color:#49176d}
+.md a[href|="/twilight!"]{color:#363b74;cursor:text;background-color:#caaad1}
+.md a[href|="/fluttershy!"]{color:#e57eb3;cursor:text;background-color:#fff797}
 .G_hi00_,.G_hi01_,.G_hi02_,.G_hi03_,.G_hi10_,.G_hi11_,.G_hi12_,.G_hi13_,.G_hiaj_,.G_hiapplejack_,.G_hibestpony_,.G_hidashie_,.G_hiderpy_,.G_hiflutters_,.G_hifluttershy_,.G_hiluna_,.G_hipinkie_,.G_hipinkiepie_,.G_hirainbow_,.G_hirainbowdash_,.G_hirarity_,.G_hitwi_,.G_hitwilight_,.G_hiwoona_,.G_muffin_,.G_muffins_,.G_woona_{display:block;clear:none;float:left;width:100px;height:120px;background-image:url(http://f.thumbs.redditmedia.com/oNae3rIqEPA1Kq7M.png)}
 .G_hi00_,.G_hibestpony_,.G_hitwi_,.G_hitwilight_{background-position:-0px -0px}
 .G_hi11_,.G_hidash_,.G_hirainbow_,.G_hirainbowdash_{background-position:-100px -0px}
@@ -159,6 +159,6 @@ a.convertedEmote_[href|="/fluttershy!"]{color:#e57eb3;cursor:text;background-col
 .G_e08_,.G_re08_,.G_rtwiponder_,.G_twiponder_{background-position:-0px -560px}
 .G_e18_,.G_re18_,.G_rspikewtf_,.G_spikewtf_{background-position:-70px -560px}
 .G_awwyeah_,.G_e28_,.G_rawwyeah_,.G_re28_{background-position:-140px -560px}
-a.convertedEmote_[href^="/smooze"]{background-position:0px 0px;display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://c.thumbs.redditmedia.com/5wA7HWAl2WD-UzA8.png)}
-a.convertedEmote_[href^="/rsmooze"]{background-position:-0px -70px;display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://c.thumbs.redditmedia.com/5wA7HWAl2WD-UzA8.png)}
+.md a[href^="/smooze"]{background-position:0px 0px;display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://c.thumbs.redditmedia.com/5wA7HWAl2WD-UzA8.png)}
+.md a[href^="/rsmooze"]{background-position:-0px -70px;display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://c.thumbs.redditmedia.com/5wA7HWAl2WD-UzA8.png)}
 .G_sp_{display:inline-block;padding-right:100%}
