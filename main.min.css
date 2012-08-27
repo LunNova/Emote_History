@@ -1,4 +1,4 @@
-/*Parsed 12794 emote aliases.*/
+/*Parsed 12799 emote aliases.*/
 .G_today_{display:block;float:left;background-image:url(http://d.thumbs.redditmedia.com/dN7SE1I0H0ul7jP-.png);width:500px;height:270px}
 .G_imamakethisanemoterealquick_{display:block;float:left;background-image:url(http://e.thumbs.redditmedia.com/reUrhLuICVFtwobp.png);width:456px;height:304px}
 .G_lunafilly_{display:block;float:left;background-image:url(http://b.thumbs.redditmedia.com/z-06hS5Md37RrzKy.png)}
@@ -1035,7 +1035,7 @@ a.convertedEmote_[href*="/yqm7o/"].title{color:red}
 .G_thefack_{background-position:-0px -0px}
 .G_orschemote_{display:block;float:left;width:300px;height:400px;background-image:url(http://b.thumbs.redditmedia.com/2Tde7I6xFl9W0aoI.png)}
 .G_orschemote_{background-position:-0px -0px}
-.G_1a_,.G_1b_,.G_1c_,.G_1d_,.G_1e_,.G_1f_,.G_1g_,.G_1h_,.G_1i_,.G_1j_,.G_1k_,.G_2a_,.G_2b_,.G_2c_,.G_2d_,.G_2e_,.G_2f_,.G_2g_,.G_2h_,.G_2i_,.G_2j_,.G_2k_,.G_335_,.G_3a_,.G_3b_,.G_3c_,.G_3d_,.G_3e_,.G_3f_,.G_3g_,.G_3h_,.G_3i_,.G_3j_,.G_3k_,.G_ajraep_,.G_dashraep_,.G_flutterbucket_,.G_grumpytwi_,.G_ioi_,.G_ioib_,.G_pieraep_,.G_pptoothover_,.G_rarraep_,.G_rpptoothover_:hover,.G_shyraep_,.G_twiraep_,.G_yourface_{display:block;float:left;background-image:url(http://b.thumbs.redditmedia.com/TiiUeMVjYgIblgg1.png)}
+.G_1a_,.G_1b_,.G_1c_,.G_1d_,.G_1e_,.G_1f_,.G_1g_,.G_1h_,.G_1i_,.G_1j_,.G_1k_,.G_2a_,.G_2b_,.G_2c_,.G_2d_,.G_2e_,.G_2f_,.G_2g_,.G_2h_,.G_2i_,.G_2j_,.G_2k_,.G_335_,.G_3a_,.G_3b_,.G_3c_,.G_3d_,.G_3e_,.G_3f_,.G_3g_,.G_3h_,.G_3i_,.G_3j_,.G_3k_,.G_ajraep_,.G_dashraep_,.G_flutterbucket_,.G_grumpytwi_,.G_ioi_,.G_ioib_,.G_ioib_,.G_pieraep_,.G_pptoothover_,.G_rarraep_,.G_rpptoothover_:hover,.G_shyraep_,.G_twiraep_,.G_yourface_{display:block;float:left;background-image:url(http://b.thumbs.redditmedia.com/TiiUeMVjYgIblgg1.png)}
 .G_1a_{width:76px;height:139px;background-position:-2px -211px}
 .G_1b_{width:134px;height:103px;background-position:-758px -104px}
 .G_1c_{width:102px;height:150px;background-position:-601px -211px}
@@ -1066,7 +1066,7 @@ a.convertedEmote_[href*="/yqm7o/"].title{color:red}
 .G_3f_{width:76px;height:150px;background-position:-680px -363px}
 .G_3g_{width:95px;height:100px;background-position:-748px -2px}
 .G_3h_{width:88px;height:100px;background-position:-658px -2px}
-.G_3i_{width:140px;height:150px;background-position:-114px -363px}
+.G_3i_,.G_ioib_{width:140px;height:150px;background-position:-114px -363px}
 .G_3j_{width:110px;height:150px;background-position:-2px -363px}
 .G_3k_{width:135px;height:150px;background-position:-776px -211px}
 .G_ajraep_{width:80px;height:100px;background-position:-2px -104px}
@@ -1187,7 +1187,7 @@ a.convertedEmote_[href*="/yqm7o/"].title{color:red}
 .G_ppshiteater_{width:134px;height:150px;background-position:-2px -384px}
 .G_rarsalute_{width:176px;height:149px;background-position:-138px -384px}
 .G_rartears_{width:106px;height:100px;background-position:-316px -384px}
-.G_rflutterbucket_{width:154px;height:152px;background-position:-424px -384px}
+.G_rflutterbucket_,.G_ryourface_{width:154px;height:152px;background-position:-424px -384px}
 .G_rosesmug_{width:149px;height:150px;background-position:-580px -384px}
 .G_rosewat_{width:203px;height:150px;background-position:-731px -384px}
 .G_shydaw_{width:96px;height:175px;background-position:-2px -538px}
@@ -3195,6 +3195,8 @@ a.convertedEmote_[href|="/surprise!"]{color:#cdcd00;cursor:text;background-color
 .G_cowpony_,.G_creamsicle_{display:block;float:left;background-image:url(http://b.thumbs.redditmedia.com/JUXYkoUgMKRqf1lI.png)}
 .G_cowpony_{width:147px;height:177px;background-position:-0px -0px}
 .G_creamsicle_{width:127px;height:163px;background-position:-0px -177px}
+.G_crunchy_{display:block;float:left;background-image:url(http://c.thumbs.redditmedia.com/KTO2hH2v4Pm7JmNJ.png)}
+.G_crunchy_{width:76px;height:76px;background-position:-429px -753px}
 .G_clop00_,.G_clop01_,.G_clop02_,.G_clop03_,.G_clop04_,.G_clop10_,.G_clop11_,.G_clop12_,.G_clop13_,.G_clop14_,.G_clop20_,.G_clop21_,.G_clop22_,.G_clop23_,.G_clop24_,.G_clop30_,.G_clop31_,.G_clop32_,.G_clop33_,.G_clop34_,.G_clop40_,.G_clop41_,.G_clop42_,.G_clop43_,.G_clop44_,.G_clop45_,.G_clop46_,.G_rsur26_,.G_sur26_{display:block;float:left;background-image:url(http://b.thumbs.redditmedia.com/fbgZb0jhgTvSQMWC.png)}
 .G_clop00_{width:67px;height:73px;background-position:-4px -2px}
 .G_clop01_{width:64px;height:76px;background-position:-2px -75px}
