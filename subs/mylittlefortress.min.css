@@ -2,8 +2,8 @@
 .G_spoiler_{background:black;color:black}
 .G_spoiler_:hover{color:white}
 .G_00_,.G_000_,.G_001_,.G_002_,.G_003_,.G_01_,.G_02_,.G_03_,.G_04_,.G_05_,.G_06_,.G_07_,.G_08_,.G_09_,.G_10_,.G_100_,.G_101_,.G_102_,.G_103_,.G_11_,.G_12_,.G_13_,.G_14_,.G_15_,.G_16_,.G_17_,.G_18_,.G_19_,.G_20_,.G_200_,.G_201_,.G_202_,.G_203_,.G_21_,.G_22_,.G_23_,.G_24_,.G_25_,.G_26_,.G_27_,.G_28_,.G_29_,.G_cheerilee_,.G_demopunch_,.G_rainbonkdash_,.G_rainderp_,.G_rarispy_,.G_sbsmug_,.G_smugtrixie_{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://d.thumbs.redditmedia.com/RetlNdkigxE-c7R9.png)}
-.G_00_,.G_004_,.G_flutterstones_{background-position:-0px -0px}
-.G_01_,.G_005_{background-position:-0px -70px}
+.G_00_{background-position:-0px -0px}
+.G_01_{background-position:-0px -70px}
 .G_02_{background-position:-0px -140px}
 .G_03_{background-position:-0px -210px}
 .G_04_{background-position:-0px -280px}
@@ -13,20 +13,22 @@
 .G_demopunch_{background-position:0px -490px}
 .G_08_{background-position:-0px -560px}
 .G_09_{background-position:-0px -630px}
-.G_10_,.G_gottagofast_,.G_sanic_{background-position:-70px -0px}
-.G_11_,.G_105_{background-position:-70px -70px}
+.G_10_{background-position:-70px -0px}
+.G_11_{background-position:-70px -70px}
 .G_12_{background-position:-70px -140px}
 .G_13_{background-position:-70px -210px}
 .G_14_{background-position:-70px -280px}
 .G_15_{background-position:-70px -350px}
 .G_16_{background-position:-70px -420px}
-.G_17_,.G_smugtrixie_{background-position:-70px -490px}
+.G_17_{background-position:-70px -490px}
+.G_smugtrixie_{background-position:-70px -490px}
 .G_18_{background-position:-70px -560px}
 .G_19_{background-position:-70px -630px}
-.G_20_,.G_204_,.G_durrainbow_{background-position:-140px -0px}
-.G_21_,.G_205_{background-position:-140px -70px}
+.G_20_{background-position:-140px -0px}
+.G_21_{background-position:-140px -70px}
 .G_22_{background-position:-140px -140px}
-.G_23_,.G_rainbonkdash_{background-position:-140px -210px}
+.G_23_{background-position:-140px -210px}
+.G_rainbonkdash_{background-position:-140px -210px}
 .G_24_{background-position:-140px -280px}
 .G_25_{background-position:-140px -350px}
 .G_26_{background-position:-140px -420px}
@@ -34,19 +36,31 @@
 .G_28_{background-position:-140px -560px}
 .G_29_{background-position:-140px -630px}
 .G_000_{background-position:-0px -700px}
-.G_100_,.G_rarispy_{background-position:-70px -700px}
-.G_200_,.G_cheerilee_{background-position:-140px -700px}
+.G_100_{background-position:-70px -700px}
+.G_rarispy_{background-position:-70px -700px}
+.G_200_{background-position:-140px -700px}
+.G_cheerilee_{background-position:-140px -700px}
 .G_001_{background-position:-0px -770px}
-.G_101_,.G_sbsmug_{background-position:-70px -770px}
+.G_101_{background-position:-70px -770px}
+.G_sbsmug_{background-position:-70px -770px}
 .G_201_{background-position:-140px -770px}
 .G_002_{background-position:-0px -840px}
 .G_102_{background-position:-70px -840px}
 .G_202_{background-position:-140px -840px}
 .G_003_{background-position:-0px -910px}
 .G_103_{background-position:-70px -910px}
-.G_203_,.G_rainderp_{background-position:-140px -910px}
+.G_203_{background-position:-140px -910px}
+.G_rainderp_{background-position:-140px -910px}
 .G_004_,.G_005_,.G_104_,.G_105_,.G_204_,.G_205_{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://c.thumbs.redditmedia.com/ZaP3VLIf8NJa96lV.png)}
+.G_004_{background-position:-0px -0px}
 .G_104_{background-position:-67px -0px}
+.G_204_{background-position:-140px -0px}
+.G_005_{background-position:-0px -70px}
+.G_105_{background-position:-70px -70px}
+.G_205_{background-position:-140px -70px}
 .G_durrainbow_,.G_flutterstones_,.G_gottagofast_,.G_sanic_{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://b.thumbs.redditmedia.com/G65xzhgThYETzLyg.png)}
+.G_flutterstones_{background-position:-0px -0px}
+.G_gottagofast_,.G_sanic_{background-position:-70px -0px}
+.G_durrainbow_{background-position:-140px -0px}
 .G_freakout_{display:block;clear:none;float:left;width:86px;height:71px;background-image:url(http://c.thumbs.redditmedia.com/BotV8svlLahjLKxP.png)}
 .G_freakout_:hover:after{display:block;height:71px;z-index:999;position:absolute;content:url(http://c.thumbs.redditmedia.com/BotV8svlLahjLKxP.png) url(http://c.thumbs.redditmedia.com/BotV8svlLahjLKxP.png) url(http://c.thumbs.redditmedia.com/BotV8svlLahjLKxP.png)}

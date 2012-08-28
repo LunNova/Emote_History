@@ -2,24 +2,40 @@
 .G_spoiler_{background:black;color:black}
 .G_spoiler_:hover{color:white}
 .G_vsf_,.G_vsfilly_,.G_vswhatthefuck_,.G_vswtf_,.G_vsyds_,.G_vsyoudontsay_{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://f.thumbs.redditmedia.com/48dqKntrMUv99RoA.png)}
-.G_vsyds_,.G_vsyoudontsay_,.G_vs01_,.G_vsdeal_ .G_rvs01_,.G_rvs12_,.G_vs12_,.G_vshey_,.G_vs00_,.G_vsohyou_,.G_vs14_,.G_vshappy_,.G_hnnng_,.G_vshnnng_,.G_shrug_,.G_vsshrug_,.G_tableflip_,.G_vstableflip_,.G_laying_,.G_vslaying_{background-position:-0px -0px}
-.G_vswhatthefuck_,.G_vswtf_,.G_vs20_,.G_vshair_,.G_vs24_,.G_vssup_{background-position:70px -0px}
-.G_vsf_,.G_vsfilly_,.G_vs10_,.G_vssad_,.G_vs05_,.G_vslook_{background-position:140px -0px}
+.G_vsyds_,.G_vsyoudontsay_{background-position:-0px -0px}
+.G_vswhatthefuck_,.G_vswtf_{background-position:70px -0px}
+.G_vsf_,.G_vsfilly_{background-position:140px -0px}
 .G_rvs03_,.G_rvs11_,.G_rvs12_,.G_vs01_,.G_vs02_,.G_vs03_,.G_vs11_,.G_vs12_,.G_vs13_,.G_vscurious_,.G_vsdeal_,.G_vsderp_,.G_vshey_,.G_vslying_,.G_vstear_{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://d.thumbs.redditmedia.com/6IUb7mOhEqfbFO1i.png)}
-.G_rvs02_,.G_vs02_,.G_vsderp_,.G_rvs13_,.G_vs13_,.G_vscurious_{background-position:-70px -0px}
+.G_vs01_,.G_vsdeal_ .G_rvs01_{background-position:-0px -0px}
+.G_rvs02_,.G_vs02_,.G_vsderp_{background-position:-70px -0px}
 .G_rvs03_,.G_vs03_,.G_vslying_{background-position:-0px 70px}
 .G_rvs11_,.G_vs11_,.G_vstear_{background-position:-70px 70px}
 .G_rvs12_,.G_rvs13_,.G_vs12_,.G_vs13_,.G_vs21_,.G_vscurious_,.G_vshey_,.G_vsmeh_{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://f.thumbs.redditmedia.com/qvZfSAMs42KQIfgS.png)}
+.G_rvs12_,.G_vs12_,.G_vshey_{background-position:-0px -0px}
+.G_rvs13_,.G_vs13_,.G_vscurious_{background-position:-70px -0px}
 .G_rvs21_,.G_vs21_,.G_vsmeh_{background-position:-140px -0px}
 .G_vs00_,.G_vs10_,.G_vs20_,.G_vs22_,.G_vs23_,.G_vshair_,.G_vshooves_,.G_vsjuice_,.G_vsohyou_,.G_vssad_,.G_vswink_{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://b.thumbs.redditmedia.com/Vy09d72RyD7kbbiU.png)}
-.G_vs22_,.G_vswink_,.G_vs15_,.G_vsbass_{background-position:210px -70px}
-.G_vs04_,.G_vshooves_,.G_vs25_,.G_vsmine_{background-position:140px -70px}
-.G_vs23_,.G_vsjuice_,.G_vs06_,.G_vsomg_{background-position:70px -70px}
+.G_vs00_,.G_vsohyou_{background-position:-0px -0px}
+.G_vs20_,.G_vshair_{background-position:70px -0px}
+.G_vs10_,.G_vssad_{background-position:140px -0px}
+.G_vs22_,.G_vswink_{background-position:210px -70px}
+.G_vs04_,.G_vshooves_{background-position:140px -70px}
+.G_vs23_,.G_vsjuice_{background-position:70px -70px}
 .G_vs05_,.G_vs06_,.G_vs14_,.G_vs15_,.G_vs16_,.G_vs24_,.G_vs26_,.G_vsbass_,.G_vshappy_,.G_vslook_,.G_vsmine_,.G_vsmog_,.G_vsomg_,.G_vsoooo_,.G_vssup_{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://e.thumbs.redditmedia.com/4j0qikWgIxeJspbF.png)}
+.G_vs14_,.G_vshappy_{background-position:-0px -0px}
+.G_vs24_,.G_vssup_{background-position:70px -0px}
+.G_vs05_,.G_vslook_{background-position:140px -0px}
+.G_vs15_,.G_vsbass_{background-position:210px -70px}
+.G_vs25_,.G_vsmine_{background-position:140px -70px}
+.G_vs06_,.G_vsomg_{background-position:70px -70px}
 .G_vs16_,.G_vsoooo_{background-position:210px -140px}
 .G_vs26_,.G_vsnope_{background-position:140px -140px}
 .G_vs07_,.G_vsmog_{background-position:70px -140px}
 .G_hnnng_,.G_vshnngg_{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://d.thumbs.redditmedia.com/00T3gLdOawm80o--.png)}
+.G_hnnng_,.G_vshnnng_{background-position:-0px -0px}
 .G_shrug_,.G_vsshrug_{display:block;clear:none;float:left;width:300px;height:300px;background-image:url(http://c.thumbs.redditmedia.com/XOs3xf6RINSK7sPt.png)}
+.G_shrug_,.G_vsshrug_{background-position:-0px -0px}
 .G_tableflip_,.G_vstableflip_{display:block;clear:none;float:left;width:400px;height:291px;background-image:url(http://a.thumbs.redditmedia.com/TMFvsdV9zMTRLQyH.png)}
+.G_tableflip_,.G_vstableflip_{background-position:-0px -0px}
 .G_laying_,.G_vslaying_{display:block;clear:none;float:left;width:200px;height:164px;background-image:url(http://f.thumbs.redditmedia.com/a2SG_AiO-Mojc5E5.png)}
+.G_laying_,.G_vslaying_{background-position:-0px -0px}
