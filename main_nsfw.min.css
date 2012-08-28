@@ -1,7 +1,6 @@
-/*Parsed 89 emote aliases.*/
+/*Parsed 70 emote aliases.*/
 .G_dashurbate_{float:left;width:133px;height:150px;background-image:url(http://e.thumbs.redditmedia.com/5uosEn09yJf_tKUv.png)}
-.md a[href*="/o21h4/"][class~="thumbnail"]{display:none}
-.md a[href*="/o21h4/"].title{color:red}
+.G_jizz_{float:left;width:160px;height:97px;background-image:url(http://d.thumbs.redditmedia.com/K3_bLeg6rbxjuJYc.png)}
 .G_bigenough_{float:left;width:1128px;height:1250px;background-image:url(http://c.thumbs.redditmedia.com/lfTijbZZCPlbHbYh.png)}
 .G_hugehorsedick_{float:left;width:1588px;height:2338px;background-image:url(http://f.thumbs.redditmedia.com/c5K0xsvBeSKZ3Yow.png)}
 .G_selfsuck_{float:left;width:580px;height:492px;background-image:url(http://b.thumbs.redditmedia.com/QpSUTDbkEevI5gEs.png)}
@@ -36,16 +35,10 @@
 .G_fut13_,.G_futacute_{height:300px;width:253px;background-position:0 0}
 .G_fut14_,.G_futaplot_{height:345px;width:400px;background-position:-253px 0}
 .G_fut15_,.G_futapomf_{height:352px;width:350px;background-position:-253px -345px}
-span.domain .md a[href*="/deviantart.com/"]:after,span.domain .md a[href*="/i.imgur.com/"]:after,span.domain .md a[href*="/imgur.com/"]:after,span.domain .md a[href*="/m.youtube.com/"]:after,span.domain .md a[href*="/reddit.com/"]:after,span.domain .md a[href*="/wikipedia.org/"]:after,span.domain .md a[href*="/youtube.com/"]:after{color:green;content:" - innocuous"}
-span.domain .md a[href*="/bangedup.net/"]:after,span.domain .md a[href*="/eye.swfchan.com/"]:after,span.domain .md a[href*="/spankbang.com/"]:after,span.domain .md a[href*="/swfchan.com/"]:after{color:darkgreen;content:" - like enough innocuous"}
-span.domain .md a[href*="/domain/"]:after{color:darkslategray;content:" - innocuousness undetermined"}
-span.domain .md a[href*="/images.4chan.org/"]:after,span.domain .md a[href*="/motherless.com/"]:after,span.domain .md a[href*="/ponibooru.org/"]:after{color:gray;content:" - relocation advised; inclined to evanesce"}
 .G_sandwich_{float:none;width:258px;height:212px;background-position:-0px -0px;background-image:url(http://a.thumbs.redditmedia.com/xqcT95cAGpl1Xmdf.png)}
 .G_swh7s_{float:none;width:300px;height:263px;background-position:-0px -0px;background-image:url(http://e.thumbs.redditmedia.com/XqDfRoy7kKraBSCL.png)}
 .G_cl00_,.G_futashy_{background-position:-0px -0px}
 .G_rcl00_,.G_rfutashy_{background-position:-70px -0px}
 .G_cl00_,.G_futashy_,.G_rcl00_,.G_rfutashy_{float:left;width:70px;height:70px;background-image:url(http://d.thumbs.redditmedia.com/gJdjW6-2MiXCes53.png)}
-body .G_futasy_{float:left;width:200px;height:199px;background-image:url(http://f.thumbs.redditmedia.com/-IxzCjv3I60CiAF5.png)}
-.G_cockatrice_{float:left;width:50px;height:50px;background-image:url(http://a.thumbs.redditmedia.com/PNEOfQNndF5j8Our.png)}
-.G_rcockatrice_{float:left;width:50px;height:50px;background-image:url(http://a.thumbs.redditmedia.com/r9Pf2CVnrJl1IQQx.png)}
-.G_cockatrice_,.G_rcockatrice_{background-position:-100px -400px}
+.G_jizz_[href*="-combine"]{z-index:2;position:relative}
+.G_jizz_[href*="-combine"] + a{z-index:1;position:relative;left:-110px;top:-5px;margin-right:0px;margin-bottom:0px}
