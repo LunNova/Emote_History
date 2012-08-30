@@ -1,11 +1,25 @@
-/*Parsed 37 emote aliases.*/
+/*Parsed 94 emote aliases.*/
+.G_gw00_,.G_gw01_,.G_gw02_,.G_gw03_,.G_gw04_,.G_gw05_,.G_gw06_,.G_gw10_,.G_gw11_,.G_gw12_,.G_gw13_,.G_gw14_,.G_gw15_,.G_gw16_{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://f.thumbs.redditmedia.com/EQ_wops6xLcn2FH_.png)}
+.G_asdf_,.G_gw03_{background-position:-0px -210px}
+.G_asdf_,.G_gw04_{background-position:-0px -280px}
+.G_asdf_,.G_gw05_{background-position:-0px -350px}
+.G_asdf_,.G_gw06_{background-position:-0px -420px}
+.G_asdf_,.G_gw13_{background-position:-70px -210px}
+.G_asdf_,.G_gw14_{background-position:-70px -280px}
+.G_asdf_,.G_gw15_{background-position:-70px -350px}
+.G_asdf_,.G_gw16_{background-position:-70px -420px}
+.G_gwm00_,.G_gwm01_,.G_gwm02_,.G_gwm03_,.G_gwm04_{display:block;clear:none;float:left;width:50px;height:50px;background-image:url(http://c.thumbs.redditmedia.com/7Xzab7YTi4E4LO1P.png)}
+.G_asdf_,.G_gwm01_{background-position:-0px -50px}
+.G_asdf_,.G_gwm02_{background-position:-0px -100px}
+.G_asdf_,.G_gwm03_{background-position:-0px -150px}
+.G_asdf_,.G_gwm04_{background-position:-0px -200px}
 .G_bp00_,.G_bp01_,.G_bp02_,.G_bp10_,.G_bp11_,.G_bp12_,.G_bp20_,.G_bp21_,.G_bp22_,.G_bpdrunk_,.G_bpgross_,.G_bphappy_,.G_bphungover_,.G_bpmotherofgod_,.G_bpshrug_,.G_bptear_,.G_bpwet_,.G_bpwhy_{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://b.thumbs.redditmedia.com/hifKTOrX_WwMoKeO.png)}
-.G_bp00_,.G_bpwhy_{background-position:-0px -0px}
-.G_bp01_,.G_bpmotherofgod_{background-position:-0px -70px}
-.G_bp02_,.G_bptear_{background-position:-0px -140px}
-.G_bp10_,.G_bpwet_{background-position:-70px -0px}
-.G_bp11_,.G_bphungover_{background-position:-70px -70px}
-.G_bp12_,.G_bphappy_{background-position:-70px -140px}
+.G_bp00_,.G_bpwhy_,.G_adsf_,.G_gwm00_,.G_gw00_{background-position:-0px -0px}
+.G_bp01_,.G_bpmotherofgod_,.G_asdf_,.G_gw01_{background-position:-0px -70px}
+.G_bp02_,.G_bptear_,.G_asdf_,.G_gw02_{background-position:-0px -140px}
+.G_bp10_,.G_bpwet_,.G_adsf_,.G_gw10_{background-position:-70px -0px}
+.G_bp11_,.G_bphungover_,.G_asdf_,.G_gw11_{background-position:-70px -70px}
+.G_bp12_,.G_bphappy_,.G_asdf_,.G_gw12_{background-position:-70px -140px}
 .G_bp20_,.G_bpdrunk_{background-position:-140px -0px}
 .G_bp21_,.G_bpgross_{background-position:-140px -70px}
 .G_bp22_,.G_bpshrug_{background-position:-140px -140px}
