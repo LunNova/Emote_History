@@ -2,7 +2,7 @@
 .G_spoiler_{background:black;color:black}
 .G_spoiler_:hover{color:white}
 .G_aliens_,.G_cera_,.G_clintonlie_,.G_colbert_,.G_freddie_,.G_freeman_,.G_gaben_,.G_impossibru_,.G_jackiechan_,.G_keanu_,.G_maverick_,.G_newman_,.G_obama_,.G_pennandteller_,.G_picard_,.G_silverman_,.G_takei_,.G_tyson_,.G_wonka_{display:block;clear:none;float:left;background-image:url(http://a.thumbs.redditmedia.com/j0TEPf9Gz1PMjC36.png)}
-.G_obama_{width:120px;height:100px}
+.G_obama_{background-position:-0px -0px;width:120px;height:100px}
 .G_impossibru_{background-position:-120px -0px;width:105px;height:100px}
 .G_aliens_{background-position:-0px -100px;width:100px;height:100px}
 .G_keanu_{background-position:-125px -100px;width:100px;height:100px}
@@ -22,7 +22,7 @@
 .G_colbert_{background-position:-0px -775px;width:75px;height:100px}
 .G_freeman_{background-position:-100px -775px;width:120px;height:100px}
 .G_ellenmclain_,.G_facebook_,.G_firstlady_,.G_freshman_,.G_gaga_,.G_indra_,.G_jennamarbles_,.G_lauren_,.G_lucyliu_,.G_oprah_,.G_redditorswife_,.G_ripley_,.G_thequeen_,.G_tina_,.G_xena_,.G_zoe_{display:block;clear:none;float:left;background-image:url(http://e.thumbs.redditmedia.com/o7DcIdwyaFUbdRFL.png)}
-.G_firstlady_{width:100px;height:100px}
+.G_firstlady_{background-position:-0px -0px;width:100px;height:100px}
 .G_lauren_{background-position:-122px -1px;width:75px;height:100px}
 .G_tina_{background-position:-0px -100px;width:75px;height:95px}
 .G_oprah_{background-position:-80px -100px;width:120px;height:95px}
@@ -39,7 +39,7 @@
 .G_redditorswife_{background-position:-0px -700px;width:70px;height:100px}
 .G_freshman_{background-position:-100px -700px;width:90px;height:100px}
 .G_adrian1_,.G_adrian2_,.G_alexander_,.G_bobross_,.G_campbell_,.G_einstein_,.G_jennafischer_,.G_napoleon_,.G_nietzche_,.G_tesla_,.G_tut_{display:block;clear:none;float:left;background-image:url(http://f.thumbs.redditmedia.com/PoHsQL4_xPco2-uS.png)}
-.G_adrian1_{width:75px;height:100px}
+.G_adrian1_{background-position:-0px -0px;width:75px;height:100px}
 .G_adrian2_{background-position:-75px -0px;width:125px;height:100px}
 .G_jennafischer_{background-position:-200px -0px;width:75px;height:100px}
 .G_campbell_{background-position:-0px -100px;width:150px;height:100px}
