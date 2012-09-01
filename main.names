@@ -18,11 +18,11 @@
 /#advicetia
 /#bneodestiny
 /#philosopie
-000
 00
+000
 0x10
-01
 001
+01
 1a
 1b
 1c
@@ -34,8 +34,8 @@
 1i
 1j
 1k
-02
 002
+02
 2a
 2b
 2c
@@ -47,8 +47,8 @@
 2i
 2j
 2k
-03
 003
+03
 3a
 3b
 3c
@@ -74,8 +74,8 @@
 4j
 4k
 4l
-005
 05
+005
 5a
 5b
 5c
@@ -6237,6 +6237,7 @@ vs04
 vs05
 vs06
 vs07
+vs08
 vs10
 vs11
 vs12
@@ -6244,6 +6245,7 @@ vs13
 vs14
 vs15
 vs16
+vs17
 vs20
 vs21
 vs22
@@ -6251,6 +6253,7 @@ vs23
 vs24
 vs25
 vs26
+vs27
 vs30
 vs31
 vs32
@@ -6279,7 +6282,6 @@ vshair
 vshappy
 vshey
 vshnngg
-vshnnng
 vshooves
 vsjuice
 vslaying
@@ -6297,6 +6299,7 @@ vsshrug
 vssup
 vstableflip
 vstear
+vswhathefuck
 vswhatthefuck
 vswink
 vswtf
