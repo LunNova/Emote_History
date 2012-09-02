@@ -1920,25 +1920,25 @@
 .md a[href="//#advicegummy"],.md a[href="//#philosopie"]{width:300px;height:300px;background-position:-304px -304px}
 .md a[href="//#adviceaajlie"] em,.md a[href="//#adviceberry"] em,.md a[href="//#advicecmc"] em,.md a[href="//#advicedash"] em,.md a[href="//#advicederp"] em,.md a[href="//#advicegummy"] em,.md a[href="//#advicehoers"] em,.md a[href="//#adviceluna"] em,.md a[href="//#adviceoct"] em,.md a[href="//#advicepbb"] em,.md a[href="//#advicepinkamina"] em,.md a[href="//#advicepp"] em,.md a[href="//#advicescoot"] em,.md a[href="//#advicescratch"] em,.md a[href="//#advicescrew"] em,.md a[href="//#adviceshy"] em,.md a[href="//#advicetia"] em,.md a[href="//#philosopie"] em{font-style:normal;position:absolute;top:12px;width:280px;left:50%;margin-left:-140px}
 .md a[href="//#adviceajlie"] strong,.md a[href="//#adviceberry"] strong,.md a[href="//#advicecmc"] strong,.md a[href="//#advicedash"] strong,.md a[href="//#advicederp"] strong,.md a[href="//#advicegummy"] strong,.md a[href="//#advicehoers"] strong,.md a[href="//#adviceluna"] strong,.md a[href="//#adviceoct"] strong,.md a[href="//#advicepbb"] strong,.md a[href="//#advicepinkamina"] strong,.md a[href="//#advicepp"] strong,.md a[href="//#advicescoot"] strong,.md a[href="//#advicescratch"] strong,.md a[href="//#advicescrew"] strong,.md a[href="//#adviceshy"] strong,.md a[href="//#advicetia"] strong,.md a[href="//#philosopie"] strong{font-weight:400;position:absolute;bottom:12px;width:280px;left:50%;margin-left:-140px}
-.md a[href|="/white!"]:nth-of-type(n){color:#FFF;cursor:text;background-color:#000}
-.md a[href|="/orange!"]:nth-of-type(n){color:orange;cursor:text}
-.md a[href|="/green!"]:nth-of-type(n){color:green;cursor:text}
-.md a[href|="/greentext!"]:nth-of-type(n){color:#789922;cursor:text}
-.md a[href|="/purple!"]:nth-of-type(n){color:purple;cursor:text}
-.md a[href|="/yellow!"]:nth-of-type(n){color:#FFD700;cursor:text}
-.md a[href|="/pink!"]:nth-of-type(n){color:#F0F;cursor:text}
-.md a[href|="/blue!"]:nth-of-type(n){color:blue;cursor:text}
-.md a[href|="/red!"]:nth-of-type(n){color:red;cursor:text}
-.md a[href|="/big!"]:nth-of-type(n){color:red;font-size:50px;font-weight:700;cursor:text}
-.md a[href|="/txt!"]:nth-of-type(n){color:inherit;cursor:text}
-.md a[href|="/zecora!"]:nth-of-type(n){color:#fff;cursor:text;background-color:#696978}
-.md a[href|="/applejack!"]:nth-of-type(n){color:#e56522;cursor:text;background-color:#ffc97b}
-.md a[href|="/pinkie!"]:nth-of-type(n){color:#c10064;cursor:text;background-color:#f8c0ce}
-.md a[href|="/rainbow!"]:nth-of-type(n){color:#971757;cursor:text;background-color:#97d6f9}
-.md a[href|="/rarity!"]:nth-of-type(n){color:#eef1f3;cursor:text;background-color:#49176d}
-.md a[href|="/twilight!"]:nth-of-type(n){color:#363b74;cursor:text;background-color:#caaad1}
-.md a[href|="/fluttershy!"]:nth-of-type(n){color:#e57eb3;cursor:text;background-color:#fff797}
-.md a[href|="/luna!"]:nth-of-type(n){font-size:18px;font-variant:small-caps;cursor:text;color:#72b4ff;background-color:#18113b}
+.md a[href|="/white!"]{color:#FFF;cursor:text;background-color:#000}
+.md a[href|="/orange!"]{color:orange;cursor:text}
+.md a[href|="/green!"]{color:green;cursor:text}
+.md a[href|="/greentext!"]{color:#789922;cursor:text}
+.md a[href|="/purple!"]{color:purple;cursor:text}
+.md a[href|="/yellow!"]{color:#FFD700;cursor:text}
+.md a[href|="/pink!"]{color:#F0F;cursor:text}
+.md a[href|="/blue!"]{color:blue;cursor:text}
+.md a[href|="/red!"]{color:red;cursor:text}
+.md a[href|="/big!"]{color:red;font-size:50px;font-weight:700;cursor:text}
+.md a[href|="/txt!"]{color:inherit;cursor:text}
+.md a[href|="/zecora!"]{color:#fff;cursor:text;background-color:#696978}
+.md a[href|="/applejack!"]{color:#e56522;cursor:text;background-color:#ffc97b}
+.md a[href|="/pinkie!"]{color:#c10064;cursor:text;background-color:#f8c0ce}
+.md a[href|="/rainbow!"]{color:#971757;cursor:text;background-color:#97d6f9}
+.md a[href|="/rarity!"]{color:#eef1f3;cursor:text;background-color:#49176d}
+.md a[href|="/twilight!"]{color:#363b74;cursor:text;background-color:#caaad1}
+.md a[href|="/fluttershy!"]{color:#e57eb3;cursor:text;background-color:#fff797}
+.md a[href|="/luna!"]{font-size:18px;font-variant:small-caps;cursor:text;color:#72b4ff;background-color:#18113b}
 .md a[href|="/surprise!"]{color:#cdcd00;cursor:text;background-color:#ffffe7}
 .md a[href|="/tinytxt!"]{font-family:"monospace", "Courier";color:inherit;cursor:text;font-size:1px}
 .md a[href|="/pinkhover!"]{color:#000;cursor:text}
