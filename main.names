@@ -21,8 +21,8 @@
 00
 000
 0x10
-001
 01
+001
 1a
 1b
 1c
@@ -74,8 +74,8 @@
 4j
 4k
 4l
-005
 05
+005
 5a
 5b
 5c
@@ -2178,7 +2178,6 @@ dw03
 dw04
 dw05
 dw06
-dw07
 dw10
 dw11
 dw12
@@ -2186,7 +2185,6 @@ dw13
 dw14
 dw15
 dw16
-dw17
 dw20
 dw21
 dw22
@@ -2194,11 +2192,8 @@ dw23
 dw24
 dw25
 dw26
-dw27
 dwatching
-dwbleh
 dwconcerned
-dwevil
 dwfez
 dwhappy
 dwpear
@@ -2981,7 +2976,6 @@ mahhorn
 manlytears
 manlytoast
 manspike
-master
 mav
 maverick
 mcguirk
@@ -4644,7 +4638,6 @@ rdw03
 rdw04
 rdw05
 rdw06
-rdw07
 rdw10
 rdw11
 rdw12
@@ -4652,7 +4645,6 @@ rdw13
 rdw14
 rdw15
 rdw16
-rdw17
 rdw20
 rdw21
 rdw22
@@ -4660,11 +4652,8 @@ rdw23
 rdw24
 rdw25
 rdw26
-rdw27
-rdwbleh
 rdwconcerned
 rdweep
-rdwevil
 rdwfez
 rdwhappy
 rdwhat
@@ -4860,7 +4849,6 @@ rmacstare
 rmagic
 rmallow
 rmanspike
-rmaster
 rmeatballs
 rmegafacehoof
 rmeh
