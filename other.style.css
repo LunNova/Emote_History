@@ -1,590 +1,590 @@
 /*Parsed 1587 emote aliases.*/
- .md a[href="/apple"], .md a[href="/arrow"], .md a[href="/b_powder"], .md a[href="/b_rod"], .md a[href="/b_stand"], .md a[href="/bed"], .md a[href="/beef"], .md a[href="/blank"], .md a[href="/boat"], .md a[href="/bone"], .md a[href="/bonemeal"], .md a[href="/book"], .md a[href="/book_quill"], .md a[href="/book_written"], .md a[href="/bottle"], .md a[href="/bottle_enchanting"], .md a[href="/bow"], .md a[href="/bow_arrow"], .md a[href="/bow_arrow2"], .md a[href="/bow_arrow3"], .md a[href="/bowl"], .md a[href="/bread"], .md a[href="/brick"], .md a[href="/bucket"], .md a[href="/c_chicken"], .md a[href="/c_dye"], .md a[href="/c_fish"], .md a[href="/c_green"], .md a[href="/c_pork"], .md a[href="/cake"], .md a[href="/cauldron"], .md a[href="/clay"], .md a[href="/cm_boots"], .md a[href="/cm_chest"], .md a[href="/cm_helm"], .md a[href="/cm_pants"], .md a[href="/coal"], .md a[href="/cocoa_b"], .md a[href="/compass"], .md a[href="/cookie"], .md a[href="/d_axe"], .md a[href="/d_boots"], .md a[href="/d_chest"], .md a[href="/d_helm"], .md a[href="/d_hoe"], .md a[href="/d_pants"], .md a[href="/d_pick"], .md a[href="/d_shovel"], .md a[href="/d_sword"], .md a[href="/d_yellow"], .md a[href="/diamond"], .md a[href="/e_eye"], .md a[href="/e_pearl"], .md a[href="/egg"], .md a[href="/emerald"], .md a[href="/f_minecart"], .md a[href="/f_s_eye"], .md a[href="/feather"], .md a[href="/fireball"], .md a[href="/fish"], .md a[href="/fish_pole"], .md a[href="/fish_pole2"], .md a[href="/flint"], .md a[href="/flint_steel"], .md a[href="/g_apple"], .md a[href="/g_axe"], .md a[href="/g_boots"], .md a[href="/g_chest"], .md a[href="/g_dye"], .md a[href="/g_helm"], .md a[href="/g_hoe"], .md a[href="/g_ingot"], .md a[href="/g_melon"], .md a[href="/g_nugget"], .md a[href="/g_pants"], .md a[href="/g_pick"], .md a[href="/g_shovel"], .md a[href="/g_sword"], .md a[href="/g_tear"], .md a[href="/gs_dust"], .md a[href="/gunpowder"], .md a[href="/i_axe"], .md a[href="/i_boots"], .md a[href="/i_chest"], .md a[href="/i_door"], .md a[href="/i_helm"], .md a[href="/i_hoe"], .md a[href="/i_ingot"], .md a[href="/i_pants"], .md a[href="/i_pick"], .md a[href="/i_shovel"], .md a[href="/i_sword"], .md a[href="/ink_sac"], .md a[href="/l_boots"], .md a[href="/l_bucket"], .md a[href="/l_chest"], .md a[href="/l_dye"], .md a[href="/l_helm"], .md a[href="/l_pants"], .md a[href="/lapis"], .md a[href="/lb_dye"], .md a[href="/leather"], .md a[href="/lg_dye"], .md a[href="/m_11"], .md a[href="/m_13"], .md a[href="/m_blocks"], .md a[href="/m_bucket"], .md a[href="/m_cat"], .md a[href="/m_chirp"], .md a[href="/m_cream"], .md a[href="/m_dye"], .md a[href="/m_far"], .md a[href="/m_mall"], .md a[href="/m_mellohi"], .md a[href="/m_seeds"], .md a[href="/m_stal"], .md a[href="/m_strad"], .md a[href="/m_ward"], .md a[href="/map"], .md a[href="/melon_s"], .md a[href="/minecart"], .md a[href="/n_wart"], .md a[href="/o_dye"], .md a[href="/p_seeds"], .md a[href="/painting"], .md a[href="/paper"], .md a[href="/pi_dye"], .md a[href="/pork"], .md a[href="/pu_dye"], .md a[href="/quiver"], .md a[href="/r_chicken"], .md a[href="/r_flesh"], .md a[href="/r_red"], .md a[href="/redstone"], .md a[href="/repeater"], .md a[href="/ruby"] , .md a[href="/s_axe"], .md a[href="/s_bowl"], .md a[href="/s_eye"], .md a[href="/s_hoe"], .md a[href="/s_minecart"], .md a[href="/s_pick"], .md a[href="/s_shovel"], .md a[href="/s_sword"], .md a[href="/saddle"], .md a[href="/seeds"], .md a[href="/shears"], .md a[href="/sign"], .md a[href="/slimeball"], .md a[href="/snowball"], .md a[href="/steak"], .md a[href="/stick"], .md a[href="/string"], .md a[href="/sugar"], .md a[href="/sugarcane"], .md a[href="/w_axe"], .md a[href="/w_bucket"], .md a[href="/w_door"], .md a[href="/w_hoe"], .md a[href="/w_pick"], .md a[href="/w_shovel"], .md a[href="/w_sword"], .md a[href="/watch"], .md a[href="/wheat"]{    width: 16px;    height: 16px;    content: " ";    background-image: url(http://e.thumbs.redditmedia.com/Jg3CSTmImsMeh9yp.png);    display: inline-block;    cursor: default    }
-.md a[href="/d_hoe"] {    background-position: -48px -128px    }
-.md a[href="/stick"] {    background-position: -80px -48px    }
-.md a[href="/bow_arrow3"] {    background-position: -80px -128px    }
-.md a[href="/f_minecart"] {    background-position: -112px -160px    }
-.md a[href="/clay"] {    background-position: -144px -48px    }
-.md a[href="/paper"] {    background-position: -160px -48px    }
-.md a[href="/s_eye"] {    background-position: -176px -128px    }
-.md a[href="/bottle"] {    background-position: -192px -128px    }
-.md a[href="/b_stand"] {    background-position: -192px -160px    }
-.md a[href="/m_cream"] {    background-position: -208px -160px    }
-.md a[href="/c_green"] {    background-position: -224px -96px    }
-.md a[href="/lg_dye"] {    background-position: -224px -176px    }
-.md a[href="/bonemeal"] {    background-position: -240px -176px    }
-.md a[href="/m_cat"] {    background-position: -16px -240px    }
-.md a[href="/m_blocks"] {    background-position: -32px -240px    }
-.md a[href="/m_chirp"] {    background-position: -48px -240px    }
-.md a[href="/m_far"] {    background-position: -64px -240px    }
-.md a[href="/m_mall"] {    background-position: -80px -240px    }
-.md a[href="/m_mellohi"] {    background-position: -96px -240px    }
-.md a[href="/m_stal"] {    background-position: -112px -240px    }
-.md a[href="/m_strad"] {    background-position: -128px -240px    }
-.md a[href="/m_ward"] {    background-position: -144px -240px    }
-.md a[href="/m_11"] {    background-position: -160px -240px    }
-.md a[href="/book_quill"] {    background-position: -176px -176px    }
-.md a[href="/book_written"] {    background-position: -192px -176px    }
-.md a[href="/emerald"] {    background-position: -160px -176px    }
-.md a[href="/ruby"] {    background-position: -160px -160px    }
- .md a[href="/bed_end_left"], .md a[href="/bed_end_right"], .md a[href="/bed_side_left"], .md a[href="/bed_side_right"], .md a[href="/bed_top_left"], .md a[href="/bed_top_right"], .md a[href="/bedrock"], .md a[href="/blank"], .md a[href="/block_diamond"], .md a[href="/block_emerald"] , .md a[href="/block_gold"], .md a[href="/block_iron"], .md a[href="/block_lapis"], .md a[href="/bookshelf"], .md a[href="/brewing_stand_side"], .md a[href="/brewing_stand_top"], .md a[href="/brick_block"], .md a[href="/cactus_bottom"], .md a[href="/cactus_side"], .md a[href="/cactus_top"], .md a[href="/cake_bottom"], .md a[href="/cake_side_bitten"], .md a[href="/cake_side_full"], .md a[href="/cake_top"], .md a[href="/cauldron_bottom"], .md a[href="/cauldron_side"], .md a[href="/cauldron_top"], .md a[href="/clay_block"], .md a[href="/cobblestone"], .md a[href="/cobweb"], .md a[href="/crafting_table_side1"], .md a[href="/crafting_table_side2"], .md a[href="/crafting_table_top"], .md a[href="/dead_bush"], .md a[href="/dirt"], .md a[href="/dispenser"], .md a[href="/door_iron_bottom"], .md a[href="/door_iron_top"], .md a[href="/door_wood_bottom"], .md a[href="/door_wood_top"], .md a[href="/enchantment_table_bottom"], .md a[href="/enchantment_table_side"], .md a[href="/enchantment_table_top"], .md a[href="/end_portal_side_empty"], .md a[href="/end_portal_side_filled"], .md a[href="/end_portal_top_empty"], .md a[href="/end_portal_top_filled"], .md a[href="/endstone"], .md a[href="/farmland_dry"], .md a[href="/farmland_wet"], .md a[href="/fern"], .md a[href="/flower"], .md a[href="/furnace_lit_front"], .md a[href="/furnace_side"], .md a[href="/furnace_top"], .md a[href="/furnace_unlit_front"], .md a[href="/glass"], .md a[href="/glass_pane"], .md a[href="/glowstone"], .md a[href="/grass_side"], .md a[href="/grass_side_snow"], .md a[href="/grass_tall"], .md a[href="/grass_top"], .md a[href="/gravel"], .md a[href="/half_slab_brick_bottom"], .md a[href="/half_slab_brick_top"], .md a[href="/half_slab_cobblestone_bottom"], .md a[href="/half_slab_cobblestone_top"], .md a[href="/half_slab_plank_1_bottom"], .md a[href="/half_slab_plank_1_top"], .md a[href="/half_slab_plank_2_bottom"], .md a[href="/half_slab_plank_2_top"], .md a[href="/half_slab_plank_3_bottom"], .md a[href="/half_slab_plank_3_top"], .md a[href="/half_slab_plank_bottom"], .md a[href="/half_slab_plank_top"], .md a[href="/half_slab_sandstone_bottom"], .md a[href="/half_slab_sandstone_top"], .md a[href="/half_slab_stone_bottom"], .md a[href="/half_slab_stone_brick_bottom"], .md a[href="/half_slab_stone_brick_top"], .md a[href="/half_slab_stone_top"], .md a[href="/hoverlight0"], .md a[href="/hoverlight1"], .md a[href="/hoverlight2"], .md a[href="/ice"], .md a[href="/iron_bar"], .md a[href="/jukebox_side"], .md a[href="/jukebox_top"], .md a[href="/ladder"], .md a[href="/leaves"], .md a[href="/leaves_jungle"], .md a[href="/leaves_pine"], .md a[href="/lever"], .md a[href="/lilypad"], .md a[href="/log_birch"], .md a[href="/log_jungle"], .md a[href="/log_oak"], .md a[href="/log_pine"], .md a[href="/log_top"], .md a[href="/melon_side"], .md a[href="/melon_top"], .md a[href="/monster_spawner"], .md a[href="/moss_stone"], .md a[href="/mushroom_b"], .md a[href="/mushroom_block_brown"], .md a[href="/mushroom_block_pores"], .md a[href="/mushroom_block_red"], .md a[href="/mushroom_block_stalk"], .md a[href="/mushroom_r"], .md a[href="/mycelium_side"], .md a[href="/mycelium_top"], .md a[href="/nether_wart_0"], .md a[href="/nether_wart_1"], .md a[href="/nether_wart_2"], .md a[href="/netherbrick"], .md a[href="/netherrack"], .md a[href="/obsidian"], .md a[href="/ore_coal"], .md a[href="/ore_diamond"], .md a[href="/ore_emerald"], .md a[href="/ore_gold"], .md a[href="/ore_iron"], .md a[href="/ore_lapis"], .md a[href="/ore_redstone"], .md a[href="/piston_bottom"], .md a[href="/piston_head_normal"], .md a[href="/piston_head_sticky"], .md a[href="/piston_side"], .md a[href="/plank"], .md a[href="/plank_1"], .md a[href="/plank_2"], .md a[href="/plank_3"], .md a[href="/pumpkin_front_lit"], .md a[href="/pumpkin_front_unlit"], .md a[href="/pumpkin_side"], .md a[href="/pumpkin_top"], .md a[href="/rail"], .md a[href="/rail_bent"], .md a[href="/rail_detector"], .md a[href="/rail_powered_off"], .md a[href="/rail_powered_on"], .md a[href="/redstone_lamp_off"], .md a[href="/redstone_lamp_on"], .md a[href="/redstone_torch_off"], .md a[href="/redstone_torch_on"], .md a[href="/rose"], .md a[href="/sand"], .md a[href="/sandstone_bottom"], .md a[href="/sandstone_side"], .md a[href="/sandstone_side_1"], .md a[href="/sandstone_side_2"], .md a[href="/sandstone_top"], .md a[href="/sapling_birch"], .md a[href="/sapling_jungle"], .md a[href="/sapling_oak"], .md a[href="/sapling_pine"], .md a[href="/slab"], .md a[href="/slab_top"], .md a[href="/snow"], .md a[href="/soulsand"], .md a[href="/spawner_overlay"], .md a[href="/sponge"], .md a[href="/stem_grown"], .md a[href="/stem_ungrown"], .md a[href="/stone"], .md a[href="/stone_brick"], .md a[href="/stone_brick_cracked"], .md a[href="/stone_brick_greek"], .md a[href="/stone_brick_mossy"], .md a[href="/sugarcane_block"], .md a[href="/tnt_bottom"], .md a[href="/tnt_side"], .md a[href="/tnt_top"], .md a[href="/torch"], .md a[href="/trapdoor"], .md a[href="/vines"], .md a[href="/wheat_0"], .md a[href="/wheat_1"], .md a[href="/wheat_2"], .md a[href="/wheat_3"], .md a[href="/wheat_4"], .md a[href="/wheat_5"], .md a[href="/wheat_6"], .md a[href="/wheat_7"], .md a[href="/wool_black"], .md a[href="/wool_blue"], .md a[href="/wool_brown"], .md a[href="/wool_cyan"], .md a[href="/wool_dark_gray"], .md a[href="/wool_green"], .md a[href="/wool_light_blue"], .md a[href="/wool_light_gray"], .md a[href="/wool_lime"], .md a[href="/wool_magenta"], .md a[href="/wool_orange"], .md a[href="/wool_pink"], .md a[href="/wool_purple"], .md a[href="/wool_red"], .md a[href="/wool_white"], .md a[href="/wool_yellow"]{    width: 16px;    height: 16px;    content: " ";    background-image: url(http://f.thumbs.redditmedia.com/1qoiZr1zqmczP43Y.png);    display: inline-block;    cursor: default    }
- .md a[href="/half_slab_brick_bottom"], .md a[href="/half_slab_brick_top"], .md a[href="/half_slab_cobblestone_bottom"], .md a[href="/half_slab_cobblestone_top"], .md a[href="/half_slab_plank_1_bottom"], .md a[href="/half_slab_plank_1_top"], .md a[href="/half_slab_plank_2_bottom"], .md a[href="/half_slab_plank_2_top"], .md a[href="/half_slab_plank_3_bottom"] , .md a[href="/half_slab_plank_3_top"], .md a[href="/half_slab_plank_bottom"], .md a[href="/half_slab_plank_top"], .md a[href="/half_slab_sandstone_bottom"], .md a[href="/half_slab_sandstone_top"], .md a[href="/half_slab_stone_bottom"], .md a[href="/half_slab_stone_brick_bottom"], .md a[href="/half_slab_stone_brick_top"], .md a[href="/half_slab_stone_top"]{    height: 8px    }
- .md a[href="/half_slab_brick_top"], .md a[href="/half_slab_cobblestone_top"], .md a[href="/half_slab_plank_1_top"], .md a[href="/half_slab_plank_2_top"], .md a[href="/half_slab_plank_3_top"] , .md a[href="/half_slab_plank_top"], .md a[href="/half_slab_sandstone_top"], .md a[href="/half_slab_stone_brick_top"], .md a[href="/half_slab_stone_top"]{    margin-bottom: 8px    }
-.md a[href="/glass"] ,.md a[href="/cm_boots"] {    background-position: -16px -48px    }
-.md a[href="/ore_diamond"] ,.md a[href="/i_boots"] {    background-position: -32px -48px    }
-.md a[href="/ore_redstone"] ,.md a[href="/d_boots"] {    background-position: -48px -48px    }
-.md a[href="/leaves"] ,.md a[href="/g_boots"] {    background-position: -64px -48px    }
-.md a[href="/dead_bush"] ,.md a[href="/diamond"] {    background-position: -112px -48px    }
-.md a[href="/fern"] ,.md a[href="/redstone"] {    background-position: -128px -48px    }
-.md a[href="/crafting_table_side1"] ,.md a[href="/book"] {    background-position: -176px -48px    }
-.md a[href="/crafting_table_side2"] ,.md a[href="/map"] {    background-position: -192px -48px    }
-.md a[href="/furnace_top"] ,.md a[href="/m_seeds"] {    background-position: -224px -48px    }
-.md a[href="/sapling_pine"] {    background-position: -240px -48px    }
-.md a[href="/monster_spawner"] ,.md a[href="/s_sword"] {    background-position: -16px -64px    }
-.md a[href="/snow"] ,.md a[href="/i_sword"] {    background-position: -32px -64px    }
-.md a[href="/ice"] ,.md a[href="/d_sword"] {    background-position: -48px -64px    }
-.md a[href="/grass_side_snow"] ,.md a[href="/g_sword"] {    background-position: -64px -64px    }
-.md a[href="/cactus_top"] ,.md a[href="/fish_pole"] {    background-position: -80px -64px    }
-.md a[href="/cactus_side"] ,.md a[href="/watch"] {    background-position: -96px -64px    }
-.md a[href="/cactus_bottom"] ,.md a[href="/bowl"] {    background-position: -112px -64px    }
-.md a[href="/clay_block"] ,.md a[href="/s_bowl"] {    background-position: -128px -64px    }
-.md a[href="/sugarcane_block"] ,.md a[href="/gs_dust"] {    background-position: -144px -64px    }
-.md a[href="/jukebox_side"] ,.md a[href="/bucket"] {    background-position: -160px -64px    }
-.md a[href="/jukebox_top"] ,.md a[href="/w_bucket"] {    background-position: -176px -64px    }
-.md a[href="/lilypad"] ,.md a[href="/l_bucket"] {    background-position: -192px -64px    }
-.md a[href="/mycelium_side"] ,.md a[href="/m_bucket"] {    background-position: -208px -64px    }
-.md a[href="/mycelium_top"] ,.md a[href="/ink_sac"] {    background-position: -224px -64px    }
-.md a[href="/sapling_birch"] ,.md a[href="/g_dye"] {    background-position: -240px -64px    }
-.md a[href="/door_wood_top"] ,.md a[href="/s_shovel"] {    background-position: -16px -80px    }
-.md a[href="/door_iron_top"] ,.md a[href="/i_shovel"] {    background-position: -32px -80px    }
-.md a[href="/ladder"] ,.md a[href="/d_shovel"] {    background-position: -48px -80px    }
-.md a[href="/trapdoor"] ,.md a[href="/g_shovel"] {    background-position: -64px -80px    }
-.md a[href="/iron_bar"] ,.md a[href="/fish_pole2"] {    background-position: -80px -80px    }
-.md a[href="/farmland_wet"] ,.md a[href="/repeater"] {    background-position: -96px -80px    }
-.md a[href="/farmland_dry"] ,.md a[href="/pork"] {    background-position: -112px -80px    }
-.md a[href="/wheat_0"] ,.md a[href="/c_pork"] {    background-position: -128px -80px    }
-.md a[href="/wheat_1"] ,.md a[href="/fish"] {    background-position: -144px -80px    }
-.md a[href="/wheat_2"] ,.md a[href="/c_fish"] {    background-position: -160px -80px    }
-.md a[href="/wheat_3"] ,.md a[href="/r_flesh"] {    background-position: -176px -80px    }
-.md a[href="/wheat_4"] ,.md a[href="/cookie"] {    background-position: -192px -80px    }
-.md a[href="/wheat_5"] ,.md a[href="/shears"] {    background-position: -208px -80px    }
-.md a[href="/wheat_6"] ,.md a[href="/r_red"] {    background-position: -224px -80px    }
-.md a[href="/wheat_7"] ,.md a[href="/pi_dye"] {    background-position: -240px -80px    }
-.md a[href="/door_wood_bottom"] ,.md a[href="/s_pick"] {    background-position: -16px -96px    }
-.md a[href="/door_iron_bottom"] ,.md a[href="/i_pick"] {    background-position: -32px -96px    }
-.md a[href="/redstone_torch_on"] ,.md a[href="/d_pick"] {    background-position: -48px -96px    }
-.md a[href="/stone_brick_mossy"] ,.md a[href="/g_pick"] {    background-position: -64px -96px    }
-.md a[href="/stone_brick_cracked"] ,.md a[href="/bow_arrow"] {    background-position: -80px -96px    }
-.md a[href="/pumpkin_top"] {    background-position: -96px -96px    }
-.md a[href="/netherrack"] ,.md a[href="/leather"] {    background-position: -112px -96px    }
-.md a[href="/soulsand"] ,.md a[href="/saddle"] {    background-position: -128px -96px    }
-.md a[href="/glowstone"] ,.md a[href="/beef"] {    background-position: -144px -96px    }
-.md a[href="/piston_head_sticky"] ,.md a[href="/steak"] {    background-position: -160px -96px    }
-.md a[href="/piston_head_normal"] ,.md a[href="/e_pearl"] {    background-position: -176px -96px    }
-.md a[href="/piston_side"] ,.md a[href="/b_rod"] {    background-position: -192px -96px    }
-.md a[href="/piston_bottom"] ,.md a[href="/melon_s"] {    background-position: -208px -96px    }
-.md a[href="/stem_ungrown"] ,.md a[href="/l_dye"] {    background-position: -240px -96px    }
-.md a[href="/wool_black"] ,.md a[href="/s_axe"] {    background-position: -16px -112px    }
-.md a[href="/wool_dark_gray"] ,.md a[href="/i_axe"] {    background-position: -32px -112px    }
-.md a[href="/redstone_torch_off"] ,.md a[href="/d_axe"] {    background-position: -48px -112px    }
-.md a[href="/log_pine"] ,.md a[href="/g_axe"] {    background-position: -64px -112px    }
-.md a[href="/log_birch"] ,.md a[href="/bow_arrow2"] {    background-position: -80px -112px    }
-.md a[href="/pumpkin_side"] {    background-position: -96px -112px    }
-.md a[href="/cake_top"] ,.md a[href="/r_chicken"] {    background-position: -144px -112px    }
-.md a[href="/cake_side_full"] ,.md a[href="/c_chicken"] {    background-position: -160px -112px    }
-.md a[href="/cake_side_bitten"] ,.md a[href="/g_tear"] {    background-position: -176px -112px    }
-.md a[href="/cake_bottom"] ,.md a[href="/g_nugget"] {    background-position: -192px -112px    }
-.md a[href="/mushroom_block_red"] ,.md a[href="/n_wart"] {    background-position: -208px -112px    }
-.md a[href="/mushroom_block_brown"] ,.md a[href="/cocoa_b"] {    background-position: -224px -112px    }
-.md a[href="/stem_grown"] ,.md a[href="/d_yellow"] {    background-position: -240px -112px    }
-.md a[href="/rail"] ,.md a[href="/w_hoe"] {    background-position: 0px -128px    }
-.md a[href="/wool_red"] ,.md a[href="/s_hoe"] {    background-position: -16px -128px    }
-.md a[href="/wool_pink"] ,.md a[href="/i_hoe"] {    background-position: -32px -128px    }
-.md a[href="/leaves_pine"] ,.md a[href="/g_hoe"] {    background-position: -64px -128px    }
-.md a[href="/bed_top_left"] {    background-position: -96px -128px    }
-.md a[href="/bed_top_right"] ,.md a[href="/minecart"] {    background-position: -112px -128px    }
-.md a[href="/melon_side"] ,.md a[href="/boat"] {    background-position: -128px -128px    }
-.md a[href="/melon_top"] ,.md a[href="/g_melon"] {    background-position: -144px -128px    }
-.md a[href="/cauldron_top"] ,.md a[href="/f_s_eye"] {    background-position: -160px -128px    }
-.md a[href="/mushroom_block_stalk"] {    background-position: -208px -128px    }
-.md a[href="/mushroom_block_pores"] ,.md a[href="/lapis"] {    background-position: -224px -128px    }
-.md a[href="/vines"] ,.md a[href="/lb_dye"] {    background-position: -240px -128px    }
-.md a[href="/wool_green"] {    background-position: -16px -144px    }
-.md a[href="/wool_lime"] {    background-position: -32px -144px    }
-.md a[href="/glass_pane"] {    background-position: -64px -144px    }
-.md a[href="/bed_end_left"] {    background-position: -80px -144px    }
-.md a[href="/bed_side_left"] {    background-position: -96px -144px    }
-.md a[href="/bed_side_right"] ,.md a[href="/s_minecart"] {    background-position: -112px -144px    }
-.md a[href="/bed_end_right"] {    background-position: -128px -144px    }
-.md a[href="/log_jungle"] {    background-position: -144px -144px    }
-.md a[href="/cauldron_side"] {    background-position: -160px -144px    }
-.md a[href="/cauldron_bottom"] ,.md a[href="/e_eye"] {    background-position: -176px -144px    }
-.md a[href="/brewing_stand_top"] ,.md a[href="/cauldron"] {    background-position: -192px -144px    }
-.md a[href="/brewing_stand_side"] ,.md a[href="/b_powder"] {    background-position: -208px -144px    }
-.md a[href="/end_portal_top_empty"] ,.md a[href="/pu_dye"] {    background-position: -224px -144px    }
-.md a[href="/end_portal_side_filled"] ,.md a[href="/m_dye"] {    background-position: -240px -144px    }
-.md a[href="/wool_brown"] {    background-position: -16px -160px    }
-.md a[href="/wool_yellow"] {    background-position: -32px -160px    }
-.md a[href="/rail_powered_off"] {    background-position: -48px -160px    }
-.md a[href="/enchantment_table_top"] {    background-position: -96px -160px    }
-.md a[href="/end_portal_top_filled"] ,.md a[href="/c_dye"] {    background-position: -224px -160px    }
-.md a[href="/endstone"] ,.md a[href="/o_dye"] {    background-position: -240px -160px    }
-.md a[href="/wool_blue"] {    background-position: -16px -176px    }
-.md a[href="/wool_light_blue"] {    background-position: -32px -176px    }
-.md a[href="/rail_powered_on"] {    background-position: -48px -176px    }
-.md a[href="/enchantment_table_side"] {    background-position: -96px -176px    }
-.md a[href="/enchantment_table_bottom"] {    background-position: -112px -176px    }
-.md a[href="/wool_purple"] {    background-position: -16px -192px    }
-.md a[href="/wool_magenta"] {    background-position: -32px -192px    }
-.md a[href="/rail_detector"] {    background-position: -48px -192px    }
-.md a[href="/leaves_jungle"] {    background-position: -64px -192px    }
-.md a[href="/wool_cyan"] {    background-position: -16px -208px    }
-.md a[href="/wool_orange"] {    background-position: -32px -208px    }
-.md a[href="/wool_light_gray"] {    background-position: -16px -224px    }
-.md a[href="/nether_wart_0"] {    background-position: -32px -224px    }
-.md a[href="/nether_wart_1"] {    background-position: -48px -224px    }
-.md a[href="/nether_wart_2"] {    background-position: -64px -224px    }
-.md a[href="/hoverlight0"] ,.md a[href="/redstone_lamp_off"] {    background-position: -48px -208px    }
-.md a[href="/hoverlight0"]:hover ,.md a[href="/redstone_lamp_on"] {    background-position: -64px -208px    }
-.md a[href="/hoverlight1"] ,.md a[href="/pumpkin_front_unlit"] {    background-position: -112px -112px    }
-.md a[href="/hoverlight1"]:hover ,.md a[href="/pumpkin_front_lit"] {    background-position: -128px -112px    }
-.md a[href="/hoverlight2"]:hover ,.md a[href="/furnace_lit_front"] ,.md a[href="/p_seeds"] {    background-position: -208px -48px    }
-.md a[href="/half_slab_stone_bottom"] {    background-position: -80px -8px    }
-.md a[href="/half_slab_sandstone_bottom"] {    background-position: 0px -200px    }
-.md a[href="/half_slab_plank_bottom"] {    background-position: -64px -8px    }
-.md a[href="/half_slab_cobblestone_bottom"] {    background-position: 0px -24px    }
-.md a[href="/half_slab_brick_bottom"] {    background-position: -112px -8px    }
-.md a[href="/half_slab_stone_brick_bottom"] {    background-position: -96px -56px    }
-.md a[href="/half_slab_stone_brick_top"] ,.md a[href="/stone_brick"] ,.md a[href="/compass"] {    background-position: -96px -48px    }
-.md a[href="/end_portal_side_empty"] {    background-position: -240px -147px;    height: 13px    }
-.md a[href="/spawner_overlay"] {    background-position: -16px -64px;    margin-left: -16px    }
-.md a[href="/stone_brick_greek"] {    background-position: -80px -208px    }
-.md a[href="/sandstone_side_1"] {    background-position: -80px -224px    }
-.md a[href="/sandstone_side_2"] {    background-position: -96px -224px    }
-.md a[href="/half_slab_plank_1_top"] ,.md a[href="/plank_1"] {    background-position: -96px -192px    }
-.md a[href="/half_slab_plank_1_bottom"] {    background-position: -96px -200px    }
-.md a[href="/half_slab_plank_2_top"] ,.md a[href="/plank_2"] {    background-position: -112px -192px    }
-.md a[href="/half_slab_plank_2_bottom"] {    background-position: -112px -200px    }
-.md a[href="/half_slab_plank_3_top"] ,.md a[href="/plank_3"] {    background-position: -96px -208px    }
-.md a[href="/half_slab_plank_3_bottom"] {    background-position: -96px -216px    }
-.md a[href="/ore_emerald"] ,.md a[href="/bottle_enchanting"] {    background-position: -176px -160px    }
- .md a[href="/aboveblankborder"], .md a[href="/abovecrossoff"], .md a[href="/abovecrosson"], .md a[href="/abovedownrightoff"], .md a[href="/abovedownrighton"], .md a[href="/abovedowntorchoff"], .md a[href="/abovedowntorchon"], .md a[href="/aboveleftdownoff"], .md a[href="/aboveleftdownon"], .md a[href="/aboveleftrightdownoff"], .md a[href="/aboveleftrightdownon"], .md a[href="/aboveleftrightoff"], .md a[href="/aboveleftrighton"], .md a[href="/aboveleftrightupoff"], .md a[href="/aboveleftrightupon"], .md a[href="/abovelefttorchoff"], .md a[href="/abovelefttorchon"], .md a[href="/aboveleftupoff"], .md a[href="/aboveleftupon"], .md a[href="/aboverighttorchoff"], .md a[href="/aboverighttorchon"], .md a[href="/abovetorchoff"], .md a[href="/abovetorchon"], .md a[href="/aboveupdownleftoff"], .md a[href="/aboveupdownlefton"], .md a[href="/aboveupdownoff"], .md a[href="/aboveupdownon"], .md a[href="/aboveupdownrightoff"], .md a[href="/aboveupdownrighton"], .md a[href="/aboveuprightoff"], .md a[href="/aboveuprighton"], .md a[href="/aboveuptorchoff"], .md a[href="/aboveuptorchon"], .md a[href="/adblankborder"], .md a[href="/adcrossoff"], .md a[href="/adcrosson"], .md a[href="/addownrightoff"], .md a[href="/addownrighton"], .md a[href="/addowntorchoff"], .md a[href="/addowntorchon"], .md a[href="/adleftdownoff"], .md a[href="/adleftdownon"], .md a[href="/adleftrightdownoff"], .md a[href="/adleftrightdownon"], .md a[href="/adleftrightoff"], .md a[href="/adleftrighton"], .md a[href="/adleftrightupoff"], .md a[href="/adleftrightupon"], .md a[href="/adlefttorchoff"], .md a[href="/adlefttorchon"], .md a[href="/adleftupoff"], .md a[href="/adleftupon"], .md a[href="/adrighttorchoff"], .md a[href="/adrighttorchon"], .md a[href="/adtorchoff"], .md a[href="/adtorchon"], .md a[href="/adupdownleftoff"], .md a[href="/adupdownlefton"], .md a[href="/adupdownoff"], .md a[href="/adupdownon"], .md a[href="/adupdownrightoff"], .md a[href="/adupdownrighton"], .md a[href="/aduprightoff"], .md a[href="/aduprighton"], .md a[href="/aduptorchoff"], .md a[href="/aduptorchon"], .md a[href="/belowblankborder"], .md a[href="/belowcrossoff"], .md a[href="/belowcrosson"], .md a[href="/belowdownrightoff"], .md a[href="/belowdownrighton"], .md a[href="/belowdowntorchoff"], .md a[href="/belowdowntorchon"], .md a[href="/belowleftdownoff"], .md a[href="/belowleftdownon"], .md a[href="/belowleftrightdownoff"], .md a[href="/belowleftrightdownon"], .md a[href="/belowleftrightoff"], .md a[href="/belowleftrighton"], .md a[href="/belowleftrightupoff"], .md a[href="/belowleftrightupon"], .md a[href="/belowlefttorchoff"], .md a[href="/belowlefttorchon"], .md a[href="/belowleftupoff"], .md a[href="/belowleftupon"], .md a[href="/belowrighttorchoff"], .md a[href="/belowrighttorchon"], .md a[href="/belowtorchoff"], .md a[href="/belowtorchon"], .md a[href="/belowupdownleftoff"], .md a[href="/belowupdownlefton"], .md a[href="/belowupdownoff"], .md a[href="/belowupdownon"], .md a[href="/belowupdownrightoff"], .md a[href="/belowupdownrighton"], .md a[href="/belowuprightoff"], .md a[href="/belowuprighton"], .md a[href="/belowuptorchoff"], .md a[href="/belowuptorchon"], .md a[href="/blankborder"], .md a[href="/crossoff"], .md a[href="/crosson"], .md a[href="/downrightoff"], .md a[href="/downrighton"], .md a[href="/downtorchoff"], .md a[href="/downtorchon"], .md a[href="/leftdownoff"], .md a[href="/leftdownon"], .md a[href="/leftrightdownoff"], .md a[href="/leftrightdownon"], .md a[href="/leftrightoff"], .md a[href="/leftrighton"], .md a[href="/leftrightupoff"], .md a[href="/leftrightupon"], .md a[href="/lefttorchoff"], .md a[href="/lefttorchon"], .md a[href="/leftupoff"], .md a[href="/leftupon"], .md a[href="/pistondown"], .md a[href="/pistonfacedown"], .md a[href="/pistonfaceup"], .md a[href="/pistonleft"], .md a[href="/pistonright"], .md a[href="/pistonup"], .md a[href="/repeaterdown1"], .md a[href="/repeaterdown2"], .md a[href="/repeaterdown3"], .md a[href="/repeaterdown4"], .md a[href="/repeaterleft1"], .md a[href="/repeaterleft2"], .md a[href="/repeaterleft3"], .md a[href="/repeaterleft4"], .md a[href="/repeaterright1"], .md a[href="/repeaterright2"], .md a[href="/repeaterright3"], .md a[href="/repeaterright4"], .md a[href="/repeaterup1"], .md a[href="/repeaterup2"], .md a[href="/repeaterup3"], .md a[href="/repeaterup4"], .md a[href="/righttorchoff"], .md a[href="/righttorchon"], .md a[href="/stickypistondown"], .md a[href="/stickypistonfacedown"] , .md a[href="/stickypistonfaceup"], .md a[href="/stickypistonleft"], .md a[href="/stickypistonright"], .md a[href="/stickypistonup"], .md a[href="/torchoff"], .md a[href="/torchon"], .md a[href="/updownleftoff"], .md a[href="/updownlefton"], .md a[href="/updownoff"], .md a[href="/updownon"], .md a[href="/updownrightoff"], .md a[href="/updownrighton"], .md a[href="/uprightoff"], .md a[href="/uprighton"], .md a[href="/uptorchoff"], .md a[href="/uptorchon"], .md a[href="/vara"], .md a[href="/varb"], .md a[href="/varc"], .md a[href="/vard"], .md a[href="/varj"], .md a[href="/vark"], .md a[href="/varq"]{    width: 16px;    height: 16px;    content: "";    background-image: url(http://d.thumbs.redditmedia.com/Tcn4P2muMiBrG3nE.png);    display: inline-block;    cursor: default    }
-.md a[href="/leftrightoff"] ,.md a[href="/stone"] ,.md a[href="/cm_helm"] {    background-position: -16px 0px    }
-.md a[href="/updownoff"] ,.md a[href="/dirt"] ,.md a[href="/i_helm"] {    background-position: -32px 0px    }
-.md a[href="/leftrightdownoff"] ,.md a[href="/grass_side"] ,.md a[href="/d_helm"] {    background-position: -48px 0px    }
-.md a[href="/updownleftoff"] ,.md a[href="/half_slab_plank_top"] ,.md a[href="/plank"] ,.md a[href="/g_helm"] {    background-position: -64px 0px    }
-.md a[href="/leftrightupoff"] ,.md a[href="/half_slab_stone_top"] ,.md a[href="/slab"] ,.md a[href="/flint_steel"] {    background-position: -80px 0px    }
-.md a[href="/updownrightoff"] ,.md a[href="/slab_top"] ,.md a[href="/flint"] {    background-position: -96px 0px    }
-.md a[href="/crosson"] ,.md a[href="/half_slab_brick_top"] ,.md a[href="/brick_block"] ,.md a[href="/coal"] {    background-position: -112px 0px    }
-.md a[href="/leftrighton"] ,.md a[href="/tnt_side"] ,.md a[href="/string"] {    background-position: -128px 0px    }
-.md a[href="/updownon"] ,.md a[href="/tnt_top"] ,.md a[href="/seeds"] {    background-position: -144px 0px    }
-.md a[href="/leftrightdownon"] ,.md a[href="/tnt_bottom"] ,.md a[href="/apple"] {    background-position: -160px 0px    }
-.md a[href="/updownlefton"] ,.md a[href="/cobweb"] ,.md a[href="/g_apple"] {    background-position: -176px 0px    }
-.md a[href="/leftrightupon"] ,.md a[href="/rose"] ,.md a[href="/egg"] {    background-position: -192px 0px    }
-.md a[href="/updownrighton"] ,.md a[href="/flower"] ,.md a[href="/sugar"] {    background-position: -208px 0px    }
-.md a[href="/belowcrossoff"] ,.md a[href="/snowball"] {    background-position: -224px 0px    }
-.md a[href="/belowleftrightoff"] ,.md a[href="/sapling_oak"] {    background-position: -240px 0px    }
-.md a[href="/belowupdownoff"] {    background-position: -256px 0px    }
-.md a[href="/belowleftrightdownoff"] {    background-position: -272px 0px    }
-.md a[href="/belowupdownleftoff"] {    background-position: -288px 0px    }
-.md a[href="/belowleftrightupoff"] {    background-position: -304px 0px    }
-.md a[href="/belowupdownrightoff"] {    background-position: -320px 0px    }
-.md a[href="/belowcrosson"] {    background-position: -336px 0px    }
-.md a[href="/belowleftrighton"] {    background-position: -352px 0px    }
-.md a[href="/belowupdownon"] {    background-position: -368px 0px    }
-.md a[href="/belowleftrightdownon"] {    background-position: -384px 0px    }
-.md a[href="/belowupdownlefton"] {    background-position: -400px 0px    }
-.md a[href="/belowleftrightupon"] {    background-position: -416px 0px    }
-.md a[href="/belowupdownrighton"] {    background-position: -432px 0px    }
-.md a[href="/abovecrossoff"] {    background-position: -448px 0px    }
-.md a[href="/aboveleftrightoff"] {    background-position: -464px 0px    }
-.md a[href="/aboveupdownoff"] {    background-position: -480px 0px    }
-.md a[href="/aboveleftrightdownoff"] {    background-position: -496px 0px    }
-.md a[href="/aboveupdownleftoff"] {    background-position: -512px 0px    }
-.md a[href="/aboveleftrightupoff"] {    background-position: -528px 0px    }
-.md a[href="/aboveupdownrightoff"] {    background-position: -544px 0px    }
-.md a[href="/abovecrosson"] {    background-position: -560px 0px    }
-.md a[href="/aboveleftrighton"] {    background-position: -576px 0px    }
-.md a[href="/aboveupdownon"] {    background-position: -592px 0px    }
-.md a[href="/aboveleftrightdownon"] {    background-position: -608px 0px    }
-.md a[href="/aboveupdownlefton"] {    background-position: -624px 0px    }
-.md a[href="/aboveleftrightupon"] {    background-position: -640px 0px    }
-.md a[href="/aboveupdownrighton"] {    background-position: -656px 0px    }
-.md a[href="/adcrossoff"] {    background-position: -672px 0px    }
-.md a[href="/adleftrightoff"] {    background-position: -688px 0px    }
-.md a[href="/adupdownoff"] {    background-position: -704px 0px    }
-.md a[href="/adleftrightdownoff"] {    background-position: -720px 0px    }
-.md a[href="/adupdownleftoff"] {    background-position: -736px 0px    }
-.md a[href="/adleftrightupoff"] {    background-position: -752px 0px    }
-.md a[href="/adupdownrightoff"] {    background-position: -768px 0px    }
-.md a[href="/adcrosson"] {    background-position: -784px 0px    }
-.md a[href="/adleftrighton"] {    background-position: -800px 0px    }
-.md a[href="/adupdownon"] {    background-position: -816px 0px    }
-.md a[href="/adleftrightdownon"] {    background-position: -832px 0px    }
-.md a[href="/adupdownlefton"] {    background-position: -848px 0px    }
-.md a[href="/adleftrightupon"] {    background-position: -864px 0px    }
-.md a[href="/adupdownrighton"] {    background-position: -880px 0px    }
-.md a[href="/righttorchoff"] ,.md a[href="/bedrock"] ,.md a[href="/cm_chest"] {    background-position: -16px -16px    }
-.md a[href="/downtorchoff"] ,.md a[href="/sand"] ,.md a[href="/i_chest"] {    background-position: -32px -16px    }
-.md a[href="/lefttorchoff"] ,.md a[href="/gravel"] ,.md a[href="/d_chest"] {    background-position: -48px -16px    }
-.md a[href="/uptorchon"] ,.md a[href="/log_oak"] ,.md a[href="/g_chest"] {    background-position: -64px -16px    }
-.md a[href="/righttorchon"] ,.md a[href="/log_top"] ,.md a[href="/bow"] {    background-position: -80px -16px    }
-.md a[href="/downtorchon"] ,.md a[href="/block_iron"] ,.md a[href="/brick"] {    background-position: -96px -16px    }
-.md a[href="/lefttorchon"] ,.md a[href="/block_gold"] ,.md a[href="/i_ingot"] {    background-position: -112px -16px    }
-.md a[href="/belowuptorchoff"] ,.md a[href="/block_diamond"] ,.md a[href="/feather"] {    background-position: -128px -16px    }
-.md a[href="/belowrighttorchoff"] ,.md a[href="/block_emerald"] ,.md a[href="/wheat"] {    background-position: -144px -16px    }
-.md a[href="/belowdowntorchoff"] ,.md a[href="/painting"] {    background-position: -160px -16px    }
-.md a[href="/belowlefttorchoff"] ,.md a[href="/sugarcane"] {    background-position: -176px -16px    }
-.md a[href="/belowuptorchon"] ,.md a[href="/mushroom_r"] ,.md a[href="/bone"] {    background-position: -192px -16px    }
-.md a[href="/belowrighttorchon"] ,.md a[href="/mushroom_b"] ,.md a[href="/cake"] {    background-position: -208px -16px    }
-.md a[href="/belowdowntorchon"] ,.md a[href="/sapling_jungle"] ,.md a[href="/slimeball"] {    background-position: -224px -16px    }
-.md a[href="/belowlefttorchon"] {    background-position: -240px -16px    }
-.md a[href="/aboveuptorchon"] {    background-position: -256px -16px    }
-.md a[href="/aboverighttorchon"] {    background-position: -272px -16px    }
-.md a[href="/abovedowntorchon"] {    background-position: -288px -16px    }
-.md a[href="/abovelefttorchon"] {    background-position: -304px -16px    }
-.md a[href="/aboveuptorchoff"] {    background-position: -320px -16px    }
-.md a[href="/aboverighttorchoff"] {    background-position: -336px -16px    }
-.md a[href="/abovedowntorchoff"] {    background-position: -352px -16px    }
-.md a[href="/abovelefttorchoff"] {    background-position: -368px -16px    }
-.md a[href="/aduptorchoff"] {    background-position: -384px -16px    }
-.md a[href="/adrighttorchoff"] {    background-position: -400px -16px    }
-.md a[href="/addowntorchoff"] {    background-position: -416px -16px    }
-.md a[href="/adlefttorchoff"] {    background-position: -432px -16px    }
-.md a[href="/aduptorchon"] {    background-position: -448px -16px    }
-.md a[href="/adrighttorchon"] {    background-position: -464px -16px    }
-.md a[href="/addowntorchon"] {    background-position: -480px -16px    }
-.md a[href="/adlefttorchon"] {    background-position: -496px -16px    }
-.md a[href="/blankborder"] {    background-position: -512px -16px    }
-.md a[href="/aboveblankborder"] {    background-position: -528px -16px    }
-.md a[href="/belowblankborder"] {    background-position: -544px -16px    }
-.md a[href="/adblankborder"] {    background-position: -560px -16px    }
-.md a[href="/abovetorchoff"] {    background-position: -576px -16px    }
-.md a[href="/abovetorchon"] {    background-position: -592px -16px    }
-.md a[href="/torchoff"] {    background-position: -608px -16px    }
-.md a[href="/torchon"] {    background-position: -624px -16px    }
-.md a[href="/belowtorchoff"] {    background-position: -640px -16px    }
-.md a[href="/belowtorchon"] {    background-position: -656px -16px    }
-.md a[href="/adtorchoff"] {    background-position: -672px -16px    }
-.md a[href="/adtorchon"] {    background-position: -688px -16px    }
-.md a[href="/leftupoff"] ,.md a[href="/ore_iron"] ,.md a[href="/cm_pants"] {    background-position: -16px -32px    }
-.md a[href="/uprightoff"] ,.md a[href="/ore_coal"] ,.md a[href="/i_pants"] {    background-position: -32px -32px    }
-.md a[href="/downrightoff"] ,.md a[href="/bookshelf"] ,.md a[href="/d_pants"] {    background-position: -48px -32px    }
-.md a[href="/leftdownon"] ,.md a[href="/moss_stone"] ,.md a[href="/g_pants"] {    background-position: -64px -32px    }
-.md a[href="/leftupon"] ,.md a[href="/obsidian"] ,.md a[href="/arrow"] {    background-position: -80px -32px    }
-.md a[href="/uprighton"] ,.md a[href="/quiver"] {    background-position: -96px -32px    }
-.md a[href="/downrighton"] ,.md a[href="/grass_tall"] ,.md a[href="/g_ingot"] {    background-position: -112px -32px    }
-.md a[href="/belowleftdownoff"] ,.md a[href="/grass_top"] ,.md a[href="/gunpowder"] {    background-position: -128px -32px    }
-.md a[href="/belowleftupoff"] ,.md a[href="/bread"] {    background-position: -144px -32px    }
-.md a[href="/belowuprightoff"] ,.md a[href="/sign"] {    background-position: -160px -32px    }
-.md a[href="/belowdownrightoff"] ,.md a[href="/crafting_table_top"] ,.md a[href="/w_door"] {    background-position: -176px -32px    }
-.md a[href="/belowleftdownon"] ,.md a[href="/hoverlight2"] ,.md a[href="/furnace_unlit_front"] ,.md a[href="/i_door"] {    background-position: -192px -32px    }
-.md a[href="/belowleftupon"] ,.md a[href="/furnace_side"] ,.md a[href="/bed"] {    background-position: -208px -32px    }
-.md a[href="/belowuprighton"] ,.md a[href="/dispenser"] ,.md a[href="/fireball"] {    background-position: -224px -32px    }
-.md a[href="/belowdownrighton"] {    background-position: -240px -32px    }
-.md a[href="/aboveleftdownoff"] {    background-position: -256px -32px    }
-.md a[href="/aboveleftupoff"] {    background-position: -272px -32px    }
-.md a[href="/aboveuprightoff"] {    background-position: -288px -32px    }
-.md a[href="/abovedownrightoff"] {    background-position: -304px -32px    }
-.md a[href="/aboveleftdownon"] {    background-position: -320px -32px    }
-.md a[href="/aboveleftupon"] {    background-position: -336px -32px    }
-.md a[href="/aboveuprighton"] {    background-position: -352px -32px    }
-.md a[href="/abovedownrighton"] {    background-position: -368px -32px    }
-.md a[href="/adleftdownoff"] {    background-position: -384px -32px    }
-.md a[href="/adleftupoff"] {    background-position: -400px -32px    }
-.md a[href="/aduprightoff"] {    background-position: -416px -32px    }
-.md a[href="/addownrightoff"] {    background-position: -432px -32px    }
-.md a[href="/adleftdownon"] {    background-position: -448px -32px    }
-.md a[href="/adleftupon"] {    background-position: -464px -32px    }
-.md a[href="/aduprighton"] {    background-position: -480px -32px    }
-.md a[href="/addownrighton"] {    background-position: -496px -32px    }
-.md a[href="/vark"] {    background-position: -512px -32px    }
-.md a[href="/varj"] {    background-position: -528px -32px    }
-.md a[href="/varq"] {    background-position: -544px -32px    }
-.md a[href="/vara"] {    background-position: -560px -32px    }
-.md a[href="/varb"] {    background-position: -576px -32px    }
-.md a[href="/varc"] {    background-position: -592px -32px    }
-.md a[href="/vard"] {    background-position: -608px -32px    }
-.md a[href="/repeaterup1"] {    background-position: -640px -32px    }
-.md a[href="/repeaterup2"] {    background-position: -656px -32px    }
-.md a[href="/repeaterup3"] {    background-position: -672px -32px    }
-.md a[href="/repeaterup4"] {    background-position: -688px -32px    }
-.md a[href="/repeaterright1"] {    background-position: -704px -32px    }
-.md a[href="/repeaterright2"] {    background-position: -720px -32px    }
-.md a[href="/repeaterright3"] {    background-position: -736px -32px    }
-.md a[href="/repeaterright4"] {    background-position: -752px -32px    }
-.md a[href="/repeaterdown1"] {    background-position: -768px -32px    }
-.md a[href="/repeaterdown2"] {    background-position: -784px -32px    }
-.md a[href="/repeaterdown3"] {    background-position: -800px -32px    }
-.md a[href="/repeaterdown4"] {    background-position: -816px -32px    }
-.md a[href="/repeaterleft1"] {    background-position: -832px -32px    }
-.md a[href="/repeaterleft2"] {    background-position: -848px -32px    }
-.md a[href="/repeaterleft3"] {    background-position: -864px -32px    }
-.md a[href="/repeaterleft4"] {    background-position: -880px -32px    }
-.md a[href="/pistonup"] {    background-position: -704px -16px    }
-.md a[href="/pistonright"] {    background-position: -720px -16px    }
-.md a[href="/pistondown"] {    background-position: -736px -16px    }
-.md a[href="/pistonleft"] {    background-position: -752px -16px    }
-.md a[href="/stickypistonup"] {    background-position: -768px -16px    }
-.md a[href="/stickypistonright"] {    background-position: -784px -16px    }
-.md a[href="/stickypistondown"] {    background-position: -800px -16px    }
-.md a[href="/stickypistonleft"] {    background-position: -816px -16px    }
-.md a[href="/stickypistonfaceup"] {    background-position: -832px -16px    }
-.md a[href="/pistonfaceup"] {    background-position: -848px -16px    }
-.md a[href="/pistonfacedown"] {    background-position: -864px -16px    }
-.md a[href="/stickypistonfacedown"] {    background-position: -880px -16px    }
- .md a[href="/blaze"], .md a[href="/cat_black"], .md a[href="/cat_red"], .md a[href="/cat_siamese"], .md a[href="/cavespider"], .md a[href="/chicken"], .md a[href="/cow"], .md a[href="/creeper"], .md a[href="/enderdragon"], .md a[href="/enderman"], .md a[href="/ghast"], .md a[href="/iron_golem"], .md a[href="/magmacube"], .md a[href="/mojang"], .md a[href="/mooshroom"], .md a[href="/ozelot"], .md a[href="/pig"], .md a[href="/rftw"], .md a[href="/sheep"], .md a[href="/sheep_black"], .md a[href="/sheep_blue"], .md a[href="/sheep_brown"], .md a[href="/sheep_cyan"], .md a[href="/sheep_gray"], .md a[href="/sheep_green"], .md a[href="/sheep_lightblue"], .md a[href="/sheep_lightgray"], .md a[href="/sheep_lime"], .md a[href="/sheep_magenta"], .md a[href="/sheep_orange"], .md a[href="/sheep_pink"], .md a[href="/sheep_purple"], .md a[href="/sheep_red"], .md a[href="/sheep_yellow"], .md a[href="/silverfish"], .md a[href="/skeleton"], .md a[href="/slime"], .md a[href="/snowgolem"], .md a[href="/spider"], .md a[href="/squid"], .md a[href="/testificate"], .md a[href="/wolf"], .md a[href="/zombie"], .md a[href="/zombiepigman"], .md a[href="/zombievillager"] {    width: 16px;    height: 16px;    content: " ";    background-image: url(http://d.thumbs.redditmedia.com/LDRhH17887Re-lRQ.png);    display: inline-block;    cursor: default    }
-.md a[href="/blaze"] ,.md a[href="/crossoff"] ,.md a[href="/blank"] ,.md a[href="/l_helm"] {    background-position: 0px 0px    }
-.md a[href="/cavespider"] ,.md a[href="/uptorchoff"] ,.md a[href="/half_slab_cobblestone_top"] ,.md a[href="/cobblestone"] ,.md a[href="/l_chest"] {    background-position: 0px -16px    }
-.md a[href="/chicken"] ,.md a[href="/leftdownoff"] ,.md a[href="/ore_gold"] ,.md a[href="/l_pants"] {    background-position: 0px -32px    }
-.md a[href="/cow"] ,.md a[href="/sponge"] ,.md a[href="/l_boots"] {    background-position: 0px -48px    }
-.md a[href="/creeper"] ,.md a[href="/wool_white"] ,.md a[href="/w_sword"] {    background-position: 0px -64px    }
-.md a[href="/enderdragon"] ,.md a[href="/torch"] ,.md a[href="/w_shovel"] {    background-position: 0px -80px    }
-.md a[href="/enderman"] ,.md a[href="/lever"] ,.md a[href="/w_pick"] {    background-position: 0px -96px    }
-.md a[href="/ghast"] ,.md a[href="/rail_bent"] ,.md a[href="/w_axe"] {    background-position: 0px -112px    }
-.md a[href="/magmacube"] ,.md a[href="/block_lapis"] ,.md a[href="/blank"] {    background-position: 0px -144px    }
-.md a[href="/mooshroom"] ,.md a[href="/ore_lapis"] {    background-position: 0px -160px    }
-.md a[href="/pig"] ,.md a[href="/sandstone_top"] {    background-position: 0px -176px    }
-.md a[href="/sheep"] ,.md a[href="/half_slab_sandstone_top"] ,.md a[href="/sandstone_side"] {    background-position: 0px -192px    }
-.md a[href="/silverfish"] ,.md a[href="/sandstone_bottom"] {    background-position: 0px -208px    }
-.md a[href="/skeleton"] ,.md a[href="/netherbrick"] {    background-position: 0px -224px    }
-.md a[href="/slime"] ,.md a[href="/m_13"] {    background-position: 0px -240px    }
-.md a[href="/snowgolem"] {    background-position: 0px -256px    }
-.md a[href="/spider"] {    background-position: 0px -272px    }
-.md a[href="/squid"] {    background-position: 0px -288px    }
-.md a[href="/testificate"] {    background-position: 0px -304px    }
-.md a[href="/wolf"] {    background-position: 0px -320px    }
-.md a[href="/zombie"] {    background-position: 0px -336px    }
-.md a[href="/zombiepigman"] {    background-position: 0px -352px    }
-.md a[href="/sheep_lightgray"] {    background-position: 0px -384px    }
-.md a[href="/sheep_gray"] {    background-position: 0px -400px    }
-.md a[href="/sheep_black"] {    background-position: 0px -416px    }
-.md a[href="/sheep_brown"] {    background-position: 0px -432px    }
-.md a[href="/sheep_pink"] {    background-position: 0px -448px    }
-.md a[href="/sheep_red"] {    background-position: 0px -464px    }
-.md a[href="/sheep_orange"] {    background-position: 0px -480px    }
-.md a[href="/sheep_yellow"] {    background-position: 0px -496px    }
-.md a[href="/sheep_lime"] {    background-position: 0px -512px    }
-.md a[href="/sheep_green"] {    background-position: 0px -528px    }
-.md a[href="/sheep_lightblue"] {    background-position: 0px -544px    }
-.md a[href="/sheep_cyan"] {    background-position: 0px -560px    }
-.md a[href="/sheep_blue"] {    background-position: 0px -576px    }
-.md a[href="/sheep_purple"] {    background-position: 0px -592px    }
-.md a[href="/sheep_magenta"] {    background-position: 0px -608px    }
-.md a[href="/ozelot"] {    background-position: 0px -624px    }
-.md a[href="/cat_siamese"] {    background-position: 0px -640px    }
-.md a[href="/cat_red"] {    background-position: 0px -656px    }
-.md a[href="/cat_black"] {    background-position: 0px -672px    }
-.md a[href="/iron_golem"] {    background-position: 0px -752px    }
-.md a[href="/mojang"] {    background-position: 0px -368px    }
-.md a[href="/rftw"] {    background-position: 0px -688px    }
-.md a[href="/zombievillager"] {    background-position: 0px -800px    }
- .md a[href="/cock"] {    background-image: url(http://c.thumbs.redditmedia.com/-0WIf4XIKAekBHkP.png);    background-position: right center;    background-repeat: no-repeat;    display: inline-block;    height: 24px;    text-indent: -9999px;    vertical-align: middle;    width: 21px    }
- .md a[href="/goat"] {    background-image: url(http://a.thumbs.redditmedia.com/gwfebV-7d1nF0WeH.png);    background-position: right center;    background-repeat: no-repeat;    display: inline-block;    height: 24px;    text-indent: -9999px;    vertical-align: middle;    width: 21px    }
- .md a[href="/goat"]:hover , .md a[href="/cock"]:hover {    text-indent: 0;    width: auto;    padding-right: 30px;    max-width: none    }
-.md a[href="/goat"] ,.md a[href="/cock"] {    width: 24px    }
- .md a[href="/21424"]:after, .md a[href="/2229"]:after, .md a[href="/aintthatsomeshit"]:after, .md a[href="/allthethings"]:after, .md a[href="/angryharpdarp"]:after, .md a[href="/awman"]:after, .md a[href="/awthanks"]:after, .md a[href="/awyea"]:after, .md a[href="/awyeah"]:after, .md a[href="/badass"]:after, .md a[href="/beh"]:after, .md a[href="/bepinthemorning"]:after, .md a[href="/bepislaughingatyourmum"]:after, .md a[href="/bepistrollingyoubetter"]:after, .md a[href="/bepsausage"]:after, .md a[href="/biebs"]:after, .md a[href="/biggusta"]:after, .md a[href="/blackhair"]:after, .md a[href="/bzz"]:after, .md a[href="/carrt"]:after, .md a[href="/cereal"]:after, .md a[href="/cerealspit"]:after, .md a[href="/challengeaccepted"]:after, .md a[href="/chrisbrpwnd"]:after, .md a[href="/creepy"]:after, .md a[href="/deviltroll"]:after, .md a[href="/didthere"]:after, .md a[href="/dino"]:after, .md a[href="/dinofuckyeah"]:after, .md a[href="/dinofuckyeah2"]:after, .md a[href="/dinokay"]:after, .md a[href="/dinostare"]:after, .md a[href="/djlovestaco"]:after, .md a[href="/drunk1"]:after, .md a[href="/dude"]:after, .md a[href="/everybodywalkthedinosaur"]:after, .md a[href="/ewbte"]:after, .md a[href="/ewbtetext"]:after, .md a[href="/excitedtroll"]:after, .md a[href="/eyes"]:after, .md a[href="/fap"]:after, .md a[href="/fapfap"]:after, .md a[href="/feelsbadman"]:after, .md a[href="/femyao"]:after, .md a[href="/foreveralone"]:after, .md a[href="/foreveralonelaugh"]:after, .md a[href="/foreveralonewithyourmum"]:after, .md a[href="/freddie"]:after, .md a[href="/fu"]:after, .md a[href="/fuckthatshit"]:after, .md a[href="/fuckyeah"]:after, .md a[href="/fumanchu"]:after, .md a[href="/futext"]:after, .md a[href="/fy1"]:after, .md a[href="/fyl"]:after, .md a[href="/gah"]:after, .md a[href="/gaytroll"]:after, .md a[href="/gbeh"]:after, .md a[href="/gfu"]:after, .md a[href="/ghappy"]:after, .md a[href="/gohno"]:after, .md a[href="/gserious"]:after, .md a[href="/gsmile"]:after, .md a[href="/gtfo"]:after, .md a[href="/gtongue"]:after, .md a[href="/gtroll"]:after, .md a[href="/guhm"]:after, .md a[href="/gwah"]:after, .md a[href="/gwat"]:after, .md a[href="/gwtf"]:after, .md a[href="/gyey"]:after, .md a[href="/hahahahaha"]:after, .md a[href="/happy"]:after, .md a[href="/happyjackie"]:after, .md a[href="/harpdarp"]:after, .md a[href="/hatersgonnahate"]:after, .md a[href="/hehheh"]:after, .md a[href="/high"]:after, .md a[href="/hmm"]:after, .md a[href="/iamawaffle"]:after, .md a[href="/ifeelsyabreh"]:after, .md a[href="/ifeelyoubrah"]:after, .md a[href="/igotthis"]:after, .md a[href="/ilovethebeefytaco"]:after, .md a[href="/indeed"]:after, .md a[href="/itstime"]:after, .md a[href="/jackieeeee!"]:after, .md a[href="/jackieeeee"]:after, .md a[href="/jasonqualman"]:after, .md a[href="/jetpack"]:after, .md a[href="/jonzibar"]:after, .md a[href="/knowthatfeel"]:after, .md a[href="/leftmilk"]:after, .md a[href="/likealady"]:after, .md a[href="/likeasir"]:after, .md a[href="/lol"]:after, .md a[href="/longneck"]:after, .md a[href="/megusta"]:after, .md a[href="/megustaperfect"]:after, .md a[href="/melvin"]:after, .md a[href="/milk"]:after, .md a[href="/no"]:after, .md a[href="/nomegusta"]:after, .md a[href="/notbad"]:after, .md a[href="/notokay"]:after, .md a[href="/notsureifgusta"]:after, .md a[href="/nowkiss"]:after, .md a[href="/ohcrap"]:after, .md a[href="/ohgodwhy"]:after, .md a[href="/ohgodyes"]:after, .md a[href="/ohisthatacarrot"]:after, .md a[href="/ohmy"]:after, .md a[href="/okay"]:after, .md a[href="/omg"]:after, .md a[href="/perfect"]:after, .md a[href="/pft"]:after, .md a[href="/pfttext"]:after, .md a[href="/pfttxt"]:after, .md a[href="/pickletime"]:after, .md a[href="/pissed"]:after, .md a[href="/poker"]:after, .md a[href="/puke"]:after, .md a[href="/red"]:after, .md a[href="/rightmilk"]:after, .md a[href="/rmilk"]:after, .md a[href="/rtroll"]:after, .md a[href="/sad"]:after, .md a[href="/sadtroll"]:after, .md a[href="/schlick"]:after, .md a[href="/serious"]:after, .md a[href="/smokeweedeveryday"]:after, .md a[href="/soclose"]:after, .md a[href="/son"]:after, .md a[href="/splashy"]:after, .md a[href="/stare"]:after, .md a[href="/steve"]:after, .md a[href="/straight"]:after, .md a[href="/suprised"]:after, .md a[href="/surprised"]:after, .md a[href="/sweetjesus"]:after, .md a[href="/table"]:after, .md a[href="/teeth"]:after, .md a[href="/teethrage"]:after, .md a[href="/thestonedmod"]:after, .md a[href="/thumbsup"]:after, .md a[href="/tobey"]:after, .md a[href="/toomuchweed"]:after, .md a[href="/trap"]:after, .md a[href="/troll"]:after, .md a[href="/trolldad"]:after, .md a[href="/trollmom"]:after, .md a[href="/trollmum"]:after, .md a[href="/truestory"]:after, .md a[href="/uhm"]:after, .md a[href="/vuvu"]:after, .md a[href="/wat"]:after, .md a[href="/wayevil"]:after, .md a[href="/welp"]:after, .md a[href="/wetodddog"]:after, .md a[href="/whoa"]:after, .md a[href="/why"]:after, .md a[href="/wtf"]:after, .md a[href="/yey"]:after, .md a[href="/youdontsay"]:after, .md a[href="/yuno"]:after{    width: 25px;    height: 25px;    content: " ";    background-image: url(http://d.thumbs.redditmedia.com/_u_Vj1lVRPIoXCG-.png);    display: inline-block    }
-.md a[href="/fy1"]:after {    background-position: -240px -30px;    width: 23px;    height: 25px    }
-.md a[href="/milk"]:after {    background-position: -210px -60px;    width: 21px;    height: 25px    }
-.md a[href="/pickletime"]:after {    background-position: -240px -87px;    width: 56px;    height: 21px    }
-.md a[href="/fuckthatshit"]:after {    background-position: 0 -180px;    width: 61px;    height: 88px    }
-.md a[href="/teethrage"]:after {    background-position: -331px -61px;    width: 59px;    height: 59px    }
-.md a[href="/foreveralone"]:after {    background-position: -330px -120px;    width: 88px;    height: 95px    }
-.md a[href="/bzz"]:after {    background-position: -125px -150px;    width: 97px;    height: 28px    }
-.md a[href="/creepy"]:after {    background-position: -300px -60px;    width: 30px;    height: 31px    }
-.md a[href="/itstime"]:after {    background-position: -270px -300px;    width: 41px;    height: 41px    }
-.md a[href="/gtroll"]:after {    background-position: -149px -300px;    width: 35px;    height: 31px    }
-.md a[href="/fap"]:after {    background-position: -331px -330px;    width: 39px;    height: 45px    }
-.md a[href="/pfttxt"]:after {    background-position: -120px -571px;    width: 12px;    height: 24px    }
-.md a[href="/biggusta"]:after {    background-position: -548px -414px;    width: 54px;    height: 57px    }
-.md a[href="/notsureifgusta"]:after {    background-position: -602px -414px;    width: 54px;    height: 59px    }
-.md a[href="/hahahahaha"]:after {    background-position: -60px -541px;    width: 35px;    height: 34px    }
-.md a[href="/2229"]:after {    background-position: -108px -403px;    width: 47px;    height: 67px    }
-.md a[href="/drunk1"]:after {    background-position: -300px -420px;    width: 36px;    height: 54px    }
-.md a[href="/truestory"]:after {    background-position: -336px -415px;    width: 59px;    height: 56px    }
-.md a[href="/didthere"]:after {    background-position: -393px -415px;    width: 57px;    height: 56px    }
-.md a[href="/tobey"]:after {    background-position: -405px -476px;    width: 45px;    height: 56px    }
-.md a[href="/hatersgonnahate"]:after {    background-position: -454px -476px;    width: 35px;    height: 56px    }
-.md a[href="/dinostare"]:after {    background-position: -495px -476px;    width: 82px;    height: 58px    }
-.md a[href="/puke"]:after {    background-position: -575px -483px;    width: 63px;    height: 50px    }
-.md a[href="/awthanks"]:after {    background-position: -630px -479px;    width: 60px;    height: 50px    }
-.md a[href="/knowthatfeel"]:after {    background-position: -450px -415px;    width: 60px;    height: 56px    }
-.md a[href="/no"]:after {    background-position: -510px -420px;    width: 37px;    height: 48px    }
-.md a[href="/jackieeeee!"]:after {    background-position: -210px -361px;    width: 95px;    height: 54px    }
-.md a[href="/happyjackie"]:after {    background-position: -303px -373px;    width: 64px;    height: 40px    }
-.md a[href="/ohgodwhy"]:after {    background-position: -366px -373px;    width: 36px;    height: 40px    }
-.md a[href="/ohgodyes"]:after {    background-position: -410px -373px;    width: 42px;    height: 40px    }
-.md a[href="/jetpack"]:after {    background-position: -451px -373px;    width: 59px;    height: 40px    }
-.md a[href="/badass"]:after {    background-position: -511px -365px;    width: 68px;    height: 56px    }
-.md a[href="/soclose"]:after {    background-position: -580px -340px;    width: 70px;    height: 71px    }
-.md a[href="/allthethings"]:after {    background-position: -590px -300px;    width: 60px;    height: 37px    }
-.md a[href="/youdontsay"]:after {    background-position: -590px -258px;    width: 60px;    height: 40px    }
-.md a[href="/dinofuckyeah"]:after {    background-position: -590px -210px;    width: 55px;    height: 45px    }
-.md a[href="/dinofuckyeah2"]:after {    background-position: -646px -210px;    width: 45px;    height: 45px    }
-.md a[href="/excitedtroll"]:after {    background-position: -595px -160px;    width: 55px;    height: 50px    }
-.md a[href="/feelsbadman"]:after {    background-position: -595px -115px;    width: 55px;    height: 50px    }
- .md a[href="/21424"]:after {    background-position: -250px -520px;    width: 50px;    height: 75px    }
-.md a[href="/ohmy"]:after {    background-position: -250px -480px;    width: 46px;    height: 34px    }
-.md a[href="/likeasir"]:after {    background-position: -304px -472px;    width: 45px;    height: 47px    }
-.md a[href="/likealady"]:after {    background-position: -349px -472px;    width: 45px;    height: 47px    }
-.md a[href="/ifeelsyabreh"]:after {    background-position: -450px -30px;    width: 47px;    height: 50px    }
-.md a[href="/trollmom"]:after {    background-position: -332px -240px;    width: 62px;    height: 80px    }
-.md a[href="/femyao"]:after {    background-position: -420px -150px;    width: 63px;    height: 66px    }
-.md a[href="/ilovethebeefytaco"]:after {    background-position: -59px -270px;    width: 32px;    height: 26px    }
-.md a[href="/gyey"]:after {    background-position: 0 0;    width: 26px;    height: 24px    }
-.md a[href="/gwat"]:after {    background-position: -30px 0;    width: 26px;    height: 25px    }
-.md a[href="/gsmile"]:after {    background-position: -60px 0;    width: 26px;    height: 24px    }
-.md a[href="/gtongue"]:after {    background-position: -90px 0;    width: 26px;    height: 25px    }
- .md a[href="/gwah"]:after ,.md a[href="/gohno"]:after{    background-position: -120px 0;    width: 30px;    height: 30px    }
-.md a[href="/ghappy"]:after {    background-position: -150px 0;    width: 30px;    height: 30px    }
-.md a[href="/gbeh"]:after {    background-position: -180px 0;    width: 25px;    height: 25px    }
-.md a[href="/gohno"]:after {    background-position: -210px 0;    width: 30px;    height: 30px    }
-.md a[href="/gfu"]:after {    background-position: -240px 0;    width: 24px;    height: 25px    }
-.md a[href="/guhm"]:after {    background-position: -270px 0;    width: 25px;    height: 30px    }
-.md a[href="/fu"]:after {    background-position: 0 -29px;    width: 26px;    height: 26px    }
-.md a[href="/beh"]:after {    background-position: -29px -28px;    width: 27px;    height: 27px    }
-.md a[href="/gah"]:after {    background-position: -60px -30px;    width: 24px;    height: 26px    }
-.md a[href="/perfect"]:after {    background-position: -90px -30px;    width: 26px;    height: 23px    }
-.md a[href="/happy"]:after {    background-position: -120px -30px;    width: 26px;    height: 26px    }
-.md a[href="/uhm"]:after {    background-position: -150px -30px;    width: 24px;    height: 26px    }
-.md a[href="/wat"]:after {    background-position: -180px -30px;    width: 25px;    height: 27px    }
-.md a[href="/yey"]:after {    background-position: -210px -30px;    width: 24px;    height: 26px    }
-.md a[href="/fuckyeah"]:after {    background-position: -240px -30px;    width: 27px;    height: 23px    }
-.md a[href="/ewbte"]:after {    background-position: -270px -30px;    width: 24px;    height: 26px    }
-.md a[href="/son"]:after {    background-position: 0 -60px;    width: 23px;    height: 24px    }
-.md a[href="/high"]:after {    background-position: -30px -60px;    width: 26px;    height: 25px    }
-.md a[href="/poker"]:after {    background-position: -60px -60px;    width: 30px;    height: 30px    }
-.md a[href="/rightmilk"]:after {    background-position: -90px -60px;    width: 23px;    height: 26px    }
-.md a[href="/megusta"]:after {    background-position: -120px -60px;    width: 25px;    height: 25px    }
-.md a[href="/troll"]:after {    background-position: -150px -60px;    width: 26px;    height: 27px    }
-.md a[href="/rtroll"]:after {    background-position: -180px -60px;    width: 25px;    height: 26px    }
-.md a[href="/leftmilk"]:after {    background-position: -210px -60px;    width: 22px;    height: 26px    }
-.md a[href="/futext"]:after {    background-position: -240px -60px;    width: 11px;    height: 30px    }
-.md a[href="/pft"]:after {    background-position: -270px -60px;    width: 24px;    height: 25px    }
-.md a[href="/sadtroll"]:after {    background-position: 0 -90px;    width: 25px;    height: 25px    }
-.md a[href="/wetodddog"]:after {    background-position: -30px -90px;    width: 27px;    height: 35px    }
-.md a[href="/harpdarp"]:after {    background-position: -60px -91px;    width: 35px;    height: 38px    }
-.md a[href="/dude"]:after {    background-position: -120px -90px;    width: 23px;    height: 26px    }
-.md a[href="/eyes"]:after {    background-position: -150px -90px;    width: 30px;    height: 30px    }
-.md a[href="/awman"]:after {    background-position: -180px -90px;    width: 36px;    height: 29px    }
-.md a[href="/bepsausage"]:after {    background-position: -240px -90px;    width: 57px;    height: 19px    }
-.md a[href="/lol"]:after {    background-position: 0 -120px;    width: 22px;    height: 26px    }
-.md a[href="/omg"]:after {    background-position: -120px -120px;    width: 35px;    height: 30px    }
-.md a[href="/pissed"]:after {    background-position: -180px -120px;    width: 20px;    height: 25px    }
-.md a[href="/hmm"]:after {    background-position: -210px -120px;    width: 30px;    height: 30px    }
-.md a[href="/whoa"]:after {    background-position: -240px -120px;    width: 25px;    height: 24px    }
-.md a[href="/sad"]:after {    background-position: -269px -119px;    width: 25px;    height: 25px    }
-.md a[href="/thumbsup"]:after {    background-position: 0 -150px;    width: 30px;    height: 25px    }
-.md a[href="/blackhair"]:after {    background-position: -30px -150px;    width: 25px;    height: 30px    }
-.md a[href="/hehheh"]:after {    background-position: -60px -150px;    width: 25px;    height: 25px    }
-.md a[href="/straight"]:after {    background-position: -90px -150px;    width: 25px;    height: 30px    }
-.md a[href="/bepinthemorning"]:after {    background-position: -120px -150px;    width: 100px;    height: 30px    }
-.md a[href="/red"]:after {    background-position: -240px -150px;    width: 34px;    height: 30px    }
-.md a[href="/bepislaughingatyourmum"]:after {    background-position: 0 -180px;    width: 60px;    height: 90px    }
-.md a[href="/nomegusta"]:after {    background-position: 0 -270px;    width: 24px;    height: 30px    }
-.md a[href="/wtf"]:after {    background-position: -90px -180px;    width: 60px;    height: 90px    }
-.md a[href="/trolldad"]:after {    background-position: -180px -180px;    width: 43px;    height: 60px    }
-.md a[href="/wayevil"]:after {    background-position: -240px -180px;    width: 40px;    height: 40px    }
-.md a[href="/challengeaccepted"]:after {    background-position: -300px -180px;    width: 30px;    height: 40px    }
-.md a[href="/melvin"]:after {    background-position: -300px -240px;    width: 30px;    height: 30px    }
-.md a[href="/welp"]:after {    background-position: -300px -120px;    width: 30px;    height: 33px    }
-.md a[href="/bepistrollingyoubetter"]:after {    background-position: -300px -60px;    width: 30px;    height: 30px    }
-.md a[href="/djlovestaco"]:after {    background-position: -60px -270px;    width: 30px;    height: 30px    }
-.md a[href="/why"]:after {    background-position: -90px -270px;    width: 30px;    height: 30px    }
- .md a[href="/suprised"]:after ,.md a[href="/surprised"]:after{    background-position: -120px -270px;    width: 30px;    height: 30px    }
-.md a[href="/longneck"]:after {    background-position: 0 -300px;    width: 63px;    height: 54px    }
-.md a[href="/sweetjesus"]:after {    background-position: -90px -300px;    width: 40px;    height: 38px    }
-.md a[href="/notokay"]:after {    background-position: 0 -360px;    width: 31px;    height: 37px    }
-.md a[href="/yuno"]:after {    background-position: -25px -360px;    width: 38px;    height: 44px    }
- .md a[href="/awyea"]:after ,.md a[href="/awyeah"]:after{    background-position: -90px -360px;    width: 65px;    height: 40px    }
- .md a[href="/carrt"]:after ,.md a[href="/ohisthatacarrot"]:after{    background-position: -160px -360px;    width: 32px;    height: 30px    }
-.md a[href="/iamawaffle"]:after {    background-position: -60px -540px;    width: 33px;    height: 35px    }
-.md a[href="/jackieeeee"]:after {    background-position: -210px -360px;    width: 100px;    height: 60px    }
-.md a[href="/aintthatsomeshit"]:after {    background-position: -210px -300px;    width: 50px;    height: 41px    }
-.md a[href="/igotthis"]:after {    background-position: -270px -300px;    width: 50px;    height: 50px    }
-.md a[href="/teeth"]:after {    background-position: -330px -60px;    width: 60px;    height: 60px    }
-.md a[href="/foreveralonewithyourmum"]:after {    background-position: -330px -120px;    width: 90px;    height: 95px    }
-.md a[href="/megustaperfect"]:after {    background-position: -330px 0;    width: 60px;    height: 52px    }
-.md a[href="/fapfap"]:after {    background-position: -330px -330px;    width: 45px;    height: 45px    }
-.md a[href="/schlick"]:after {    background-position: -390px -330px;    width: 40px;    height: 45px    }
-.md a[href="/hug"]:after {    background-position: -430px -325px;    width: 48px;    height: 48px    }
-.md a[href="/gtfo"]:after {    background-position: -30px -270px;    width: 30px;    height: 30px    }
-.md a[href="/stare"]:after {    background-position: -240px -240px;    width: 47px;    height: 36px    }
-.md a[href="/fumanchu"]:after {    background-position: -180px -240px;    width: 60px;    height: 41px    }
-.md a[href="/vuvu"]:after {    background-position: -390px 0;    width: 30px;    height: 30px    }
-.md a[href="/pfttext"]:after {    background-position: -120px -570px;    width: 30px;    height: 30px    }
-.md a[href="/indeed"]:after {    background-position: -450px 0;    width: 15px;    height: 25px    }
-.md a[href="/ifeelyoubrah"]:after {    background-position: -450px -30px;    width: 50px;    height: 50px    }
-.md a[href="/steve"]:after {    background-position: -510px -30px;    width: 40px;    height: 50px    }
-.md a[href="/serious"]:after {    background-position: -540px -90px;    width: 50px;    height: 50px    }
-.md a[href="/gserious"]:after {    background-position: -510px -150px;    width: 50px;    height: 50px    }
-.md a[href="/gaytroll"]:after {    background-position: -540px -210px;    width: 39px;    height: 50px    }
-.md a[href="/deviltroll"]:after {    background-position: -420px -90px;    width: 37px;    height: 50px    }
-.md a[href="/freddie"]:after {    background-position: -480px -240px;    width: 48px;    height: 100px    }
-.md a[href="/thestonedmod"]:after {    background-position: -540px -270px;    width: 50px;    height: 53px    }
-.md a[href="/notbad"]:after {    background-position: -420px -240px;    width: 42px;    height: 67px    }
-.md a[href="/trollmum"]:after {    background-position: -330px -240px;    width: 65px;    height: 80px    }
-.md a[href="/gwtf"]:after {    background-position: -420px -150px;    width: 65px;    height: 65px    }
-.md a[href="/okay"]:after {    background-position: -390px -30px;    width: 60px;    height: 59px    }
-.md a[href="/splashy"]:after {    background-position: -240px -420px;    width: 57px;    height: 45px    }
-.md a[href="/toomuchweed"]:after ,.md a[href="/smokeweedeveryday"]:after {    background-position: -180px -420px;    width: 45px;    height: 54px    }
-.md a[href="/chrisbrpwnd"]:after {    background-position: -155px -480px;    width: 91px;    height: 116px    }
-.md a[href="/dinokay"]:after {    background-position: -300px -520px;    width: 60px;    height: 75px    }
-.md a[href="/dino"]:after {    background-position: -360px -530px;    width: 43px;    height: 63px    }
-.md a[href="/table"]:after {    background-position: -405px -555px;    width: 56px;    height: 39px    }
-.md a[href="/nowkiss"]:after {    background-position: -460px -532px;    width: 73px;    height: 55px    }
-.md a[href="/everybodywalkthedinosaur"]:after {    background-position: -535px -560px;    width: 75px;    height: 36px    }
-.md a[href="/angryharpdarp"]:after {    background-position: -612px -555px;    width: 36px;    height: 40px    }
-.md a[href="/cerealspit"]:after {    background-position: -646px -555px;    width: 52px;    height: 34px    }
-.md a[href="/biebs"]:after {    background-position: -120px -420px;    width: 49px;    height: 68px    }
-.md a[href="/cereal"]:after {    background-position: -47px -414px;    width: 40px;    height: 33px    }
-.md a[href="/foreveralonelaugh"]:after {    background-position: 0 -450px;    width: 75px;    height: 86px    }
-.md a[href="/ohcrap"]:after {    background-position: 0 -420px;    width: 30px;    height: 29px    }
-.md a[href="/jasonqualman"]:after {    background-position: -80px -485px;    width: 36px;    height: 50px    }
-.md a[href="/jonzibar"]:after {    background-position: -119px -480px;    width: 40px;    height: 55px    }
-.md a[href="/fyl"]:after {    background-position: -90px -480px;    width: 36px;    height: 50px    }
-.md a[href="/rmilk"]:after {    background-position: -90px -60px;    width: 21px;    height: 25px    }
-.md a[href="/ewbtetext"]:after {    background-position: -120px -541px;    width: 14px;    height: 10px    }
-.md a[href="/trap"]:after {    background-position: -480px -90px;    width: 41px;    height: 40px    }
- .md a[href="/warning"]:after {    background: #fff url(http://thumbs.reddit.com/t5_2qqlo_21.png) no-repeat center left;    display: inline-block    }
-.md a[href="/warning"]:after {    width: 14px;    height: 14px;    content: ""    }
- .md a[href="/q00"]:after ,.md a[href="/acceptant"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);        display: inline-block    }
- .md a[href="/q10"]:after ,.md a[href="/detestful"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -16px 0px;    display: inline-block    }
- .md a[href="/q20"]:after ,.md a[href="/devious"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -32px 0px;    display: inline-block    }
- .md a[href="/q30"]:after ,.md a[href="/ecstatic"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -48px 0px;    display: inline-block    }
- .md a[href="/q01"]:after ,.md a[href="/manipulative"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -64px 0px;    display: inline-block    }
- .md a[href="/q11"]:after ,.md a[href="/mirthful"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -80px 0px;    display: inline-block    }
- .md a[href="/q21"]:after ,.md a[href="/perky"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -96px 0px;    display: inline-block    }
- .md a[href="/q31"]:after ,.md a[href="/relaxed"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -112px 0px;    display: inline-block    }
- .md a[href="/q02"]:after ,.md a[href="/vigorous"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -128px 0px;    display: inline-block    }
- .md a[href="/q12"]:after ,.md a[href="/sleek"]:after{    width: 20px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -144px 0px;    display: inline-block    }
- .md a[href="/q22"]:after ,.md a[href="/distraught"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: 0px -16px;    display: inline-block    }
- .md a[href="/q32"]:after ,.md a[href="/amazed"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -16px -16px;    display: inline-block    }
- .md a[href="/q03"]:after ,.md a[href="/bemused"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -32px -16px;    display: inline-block    }
- .md a[href="/q13"]:after ,.md a[href="/chummy"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -48px -16px;    display: inline-block    }
- .md a[href="/q23"]:after ,.md a[href="/insolent"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -64px -16px;    display: inline-block    }
- .md a[href="/q33"]:after ,.md a[href="/kitty"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -80px -16px;    display: inline-block    }
- .md a[href="/q04"]:after ,.md a[href="/pleasant"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -96px -16px;    display: inline-block    }
- .md a[href="/q14"]:after ,.md a[href="/pranky"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -112px -16px;    display: inline-block    }
- .md a[href="/q24"]:after ,.md a[href="/rancorous"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -128px -16px;    display: inline-block    }
- .md a[href="/q34"]:after ,.md a[href="/tense"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -144px -16px;    display: inline-block    }
- .md a[href="/q05"]:after ,.md a[href="/what"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -160px -16px;    display: inline-block    }
- .md a[href="/q15"]:after ,.md a[href="/cool"]:after{    width: 17px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -176px -16px;    display: inline-block    }
-.md a[href="/mspa"]:after {    width: 21px;    height: 17px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: 0px -32px;    display: inline-block    }
- .md a[href="/a35"]:after ,.md a[href="/pumpkin"]:after{    width: 28px;    height: 24px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -288px -213px;    display: inline-block    }
-.md a[href="/bro"]:after {    width: 102px;    height: 49px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -217px 0px;    display: inline-block    }
-.md a[href="/dave"]:after {    width: 81px;    height: 91px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: 0px -50px;    display: inline-block    }
-.md a[href="/kkwtf"]:after {    width: 56px;    height: 91px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -83px -50px;    display: inline-block    }
-.md a[href="/vriska"]:after {    width: 59px;    height: 92px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -140px -49px;    display: inline-block    }
-.md a[href="/feferi"]:after {    width: 120px;    height: 91px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -200px -50px;    display: inline-block    }
-.md a[href="/sbro"]:after {    width: 68px;    height: 70px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -9px -143px;    display: inline-block    }
-.md a[href="/hjeff"]:after {    width: 74px;    height: 70px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -92px -143px;    display: inline-block    }
-.md a[href="/johnderp"]:after {    width: 83px;    height: 70px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -167px -143px;    display: inline-block    }
-.md a[href="/equius"]:after {    width: 69px;    height: 70px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -250px -143px;    display: inline-block    }
-.md a[href="/kksad"]:after {    width: 77px;    height: 70px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: 0px -212px;    display: inline-block    }
-.md a[href="/jackdwi"]:after {    width: 90px;    height: 67px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -78px -213px;    display: inline-block    }
-.md a[href="/dutton"]:after {    width: 48px;    height: 70px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -169px -212px;    display: inline-block    }
-.md a[href="/lilcal"]:after {    width: 68px;    height: 64px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -219px -218px;    display: inline-block    }
-.md a[href="/sweetcatch"]:after {    width: 80px;    height: 35px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: 0px -282px;    display: inline-block    }
-.md a[href="/dogs"]:after {    content: "";    background-image: url(http://a.thumbs.redditmedia.com/cWmZwgBCRVpGSofl.png);    width: 110px;    height: 89px;    display: inline-block    }
-.md a[href="/mspareader"]:after {    width: 32px;    height: 32px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: 0 -320px;    display: inline-block    }
+ .md a[href|="/apple"], .md a[href|="/arrow"], .md a[href|="/b_powder"], .md a[href|="/b_rod"], .md a[href|="/b_stand"], .md a[href|="/bed"], .md a[href|="/beef"], .md a[href|="/blank"], .md a[href|="/boat"], .md a[href|="/bone"], .md a[href|="/bonemeal"], .md a[href|="/book"], .md a[href|="/book_quill"], .md a[href|="/book_written"], .md a[href|="/bottle"], .md a[href|="/bottle_enchanting"], .md a[href|="/bow"], .md a[href|="/bow_arrow"], .md a[href|="/bow_arrow2"], .md a[href|="/bow_arrow3"], .md a[href|="/bowl"], .md a[href|="/bread"], .md a[href|="/brick"], .md a[href|="/bucket"], .md a[href|="/c_chicken"], .md a[href|="/c_dye"], .md a[href|="/c_fish"], .md a[href|="/c_green"], .md a[href|="/c_pork"], .md a[href|="/cake"], .md a[href|="/cauldron"], .md a[href|="/clay"], .md a[href|="/cm_boots"], .md a[href|="/cm_chest"], .md a[href|="/cm_helm"], .md a[href|="/cm_pants"], .md a[href|="/coal"], .md a[href|="/cocoa_b"], .md a[href|="/compass"], .md a[href|="/cookie"], .md a[href|="/d_axe"], .md a[href|="/d_boots"], .md a[href|="/d_chest"], .md a[href|="/d_helm"], .md a[href|="/d_hoe"], .md a[href|="/d_pants"], .md a[href|="/d_pick"], .md a[href|="/d_shovel"], .md a[href|="/d_sword"], .md a[href|="/d_yellow"], .md a[href|="/diamond"], .md a[href|="/e_eye"], .md a[href|="/e_pearl"], .md a[href|="/egg"], .md a[href|="/emerald"], .md a[href|="/f_minecart"], .md a[href|="/f_s_eye"], .md a[href|="/feather"], .md a[href|="/fireball"], .md a[href|="/fish"], .md a[href|="/fish_pole"], .md a[href|="/fish_pole2"], .md a[href|="/flint"], .md a[href|="/flint_steel"], .md a[href|="/g_apple"], .md a[href|="/g_axe"], .md a[href|="/g_boots"], .md a[href|="/g_chest"], .md a[href|="/g_dye"], .md a[href|="/g_helm"], .md a[href|="/g_hoe"], .md a[href|="/g_ingot"], .md a[href|="/g_melon"], .md a[href|="/g_nugget"], .md a[href|="/g_pants"], .md a[href|="/g_pick"], .md a[href|="/g_shovel"], .md a[href|="/g_sword"], .md a[href|="/g_tear"], .md a[href|="/gs_dust"], .md a[href|="/gunpowder"], .md a[href|="/i_axe"], .md a[href|="/i_boots"], .md a[href|="/i_chest"], .md a[href|="/i_door"], .md a[href|="/i_helm"], .md a[href|="/i_hoe"], .md a[href|="/i_ingot"], .md a[href|="/i_pants"], .md a[href|="/i_pick"], .md a[href|="/i_shovel"], .md a[href|="/i_sword"], .md a[href|="/ink_sac"], .md a[href|="/l_boots"], .md a[href|="/l_bucket"], .md a[href|="/l_chest"], .md a[href|="/l_dye"], .md a[href|="/l_helm"], .md a[href|="/l_pants"], .md a[href|="/lapis"], .md a[href|="/lb_dye"], .md a[href|="/leather"], .md a[href|="/lg_dye"], .md a[href|="/m_11"], .md a[href|="/m_13"], .md a[href|="/m_blocks"], .md a[href|="/m_bucket"], .md a[href|="/m_cat"], .md a[href|="/m_chirp"], .md a[href|="/m_cream"], .md a[href|="/m_dye"], .md a[href|="/m_far"], .md a[href|="/m_mall"], .md a[href|="/m_mellohi"], .md a[href|="/m_seeds"], .md a[href|="/m_stal"], .md a[href|="/m_strad"], .md a[href|="/m_ward"], .md a[href|="/map"], .md a[href|="/melon_s"], .md a[href|="/minecart"], .md a[href|="/n_wart"], .md a[href|="/o_dye"], .md a[href|="/p_seeds"], .md a[href|="/painting"], .md a[href|="/paper"], .md a[href|="/pi_dye"], .md a[href|="/pork"], .md a[href|="/pu_dye"], .md a[href|="/quiver"], .md a[href|="/r_chicken"], .md a[href|="/r_flesh"], .md a[href|="/r_red"], .md a[href|="/redstone"], .md a[href|="/repeater"], .md a[href|="/ruby"] , .md a[href|="/s_axe"], .md a[href|="/s_bowl"], .md a[href|="/s_eye"], .md a[href|="/s_hoe"], .md a[href|="/s_minecart"], .md a[href|="/s_pick"], .md a[href|="/s_shovel"], .md a[href|="/s_sword"], .md a[href|="/saddle"], .md a[href|="/seeds"], .md a[href|="/shears"], .md a[href|="/sign"], .md a[href|="/slimeball"], .md a[href|="/snowball"], .md a[href|="/steak"], .md a[href|="/stick"], .md a[href|="/string"], .md a[href|="/sugar"], .md a[href|="/sugarcane"], .md a[href|="/w_axe"], .md a[href|="/w_bucket"], .md a[href|="/w_door"], .md a[href|="/w_hoe"], .md a[href|="/w_pick"], .md a[href|="/w_shovel"], .md a[href|="/w_sword"], .md a[href|="/watch"], .md a[href|="/wheat"]{    width: 16px;    height: 16px;    content: " ";    background-image: url(http://e.thumbs.redditmedia.com/Jg3CSTmImsMeh9yp.png);    display: inline-block;    cursor: default    }
+.md a[href|="/d_hoe"] {    background-position: -48px -128px    }
+.md a[href|="/stick"] {    background-position: -80px -48px    }
+.md a[href|="/bow_arrow3"] {    background-position: -80px -128px    }
+.md a[href|="/f_minecart"] {    background-position: -112px -160px    }
+.md a[href|="/clay"] {    background-position: -144px -48px    }
+.md a[href|="/paper"] {    background-position: -160px -48px    }
+.md a[href|="/s_eye"] {    background-position: -176px -128px    }
+.md a[href|="/bottle"] {    background-position: -192px -128px    }
+.md a[href|="/b_stand"] {    background-position: -192px -160px    }
+.md a[href|="/m_cream"] {    background-position: -208px -160px    }
+.md a[href|="/c_green"] {    background-position: -224px -96px    }
+.md a[href|="/lg_dye"] {    background-position: -224px -176px    }
+.md a[href|="/bonemeal"] {    background-position: -240px -176px    }
+.md a[href|="/m_cat"] {    background-position: -16px -240px    }
+.md a[href|="/m_blocks"] {    background-position: -32px -240px    }
+.md a[href|="/m_chirp"] {    background-position: -48px -240px    }
+.md a[href|="/m_far"] {    background-position: -64px -240px    }
+.md a[href|="/m_mall"] {    background-position: -80px -240px    }
+.md a[href|="/m_mellohi"] {    background-position: -96px -240px    }
+.md a[href|="/m_stal"] {    background-position: -112px -240px    }
+.md a[href|="/m_strad"] {    background-position: -128px -240px    }
+.md a[href|="/m_ward"] {    background-position: -144px -240px    }
+.md a[href|="/m_11"] {    background-position: -160px -240px    }
+.md a[href|="/book_quill"] {    background-position: -176px -176px    }
+.md a[href|="/book_written"] {    background-position: -192px -176px    }
+.md a[href|="/emerald"] {    background-position: -160px -176px    }
+.md a[href|="/ruby"] {    background-position: -160px -160px    }
+ .md a[href|="/bed_end_left"], .md a[href|="/bed_end_right"], .md a[href|="/bed_side_left"], .md a[href|="/bed_side_right"], .md a[href|="/bed_top_left"], .md a[href|="/bed_top_right"], .md a[href|="/bedrock"], .md a[href|="/blank"], .md a[href|="/block_diamond"], .md a[href|="/block_emerald"] , .md a[href|="/block_gold"], .md a[href|="/block_iron"], .md a[href|="/block_lapis"], .md a[href|="/bookshelf"], .md a[href|="/brewing_stand_side"], .md a[href|="/brewing_stand_top"], .md a[href|="/brick_block"], .md a[href|="/cactus_bottom"], .md a[href|="/cactus_side"], .md a[href|="/cactus_top"], .md a[href|="/cake_bottom"], .md a[href|="/cake_side_bitten"], .md a[href|="/cake_side_full"], .md a[href|="/cake_top"], .md a[href|="/cauldron_bottom"], .md a[href|="/cauldron_side"], .md a[href|="/cauldron_top"], .md a[href|="/clay_block"], .md a[href|="/cobblestone"], .md a[href|="/cobweb"], .md a[href|="/crafting_table_side1"], .md a[href|="/crafting_table_side2"], .md a[href|="/crafting_table_top"], .md a[href|="/dead_bush"], .md a[href|="/dirt"], .md a[href|="/dispenser"], .md a[href|="/door_iron_bottom"], .md a[href|="/door_iron_top"], .md a[href|="/door_wood_bottom"], .md a[href|="/door_wood_top"], .md a[href|="/enchantment_table_bottom"], .md a[href|="/enchantment_table_side"], .md a[href|="/enchantment_table_top"], .md a[href|="/end_portal_side_empty"], .md a[href|="/end_portal_side_filled"], .md a[href|="/end_portal_top_empty"], .md a[href|="/end_portal_top_filled"], .md a[href|="/endstone"], .md a[href|="/farmland_dry"], .md a[href|="/farmland_wet"], .md a[href|="/fern"], .md a[href|="/flower"], .md a[href|="/furnace_lit_front"], .md a[href|="/furnace_side"], .md a[href|="/furnace_top"], .md a[href|="/furnace_unlit_front"], .md a[href|="/glass"], .md a[href|="/glass_pane"], .md a[href|="/glowstone"], .md a[href|="/grass_side"], .md a[href|="/grass_side_snow"], .md a[href|="/grass_tall"], .md a[href|="/grass_top"], .md a[href|="/gravel"], .md a[href|="/half_slab_brick_bottom"], .md a[href|="/half_slab_brick_top"], .md a[href|="/half_slab_cobblestone_bottom"], .md a[href|="/half_slab_cobblestone_top"], .md a[href|="/half_slab_plank_1_bottom"], .md a[href|="/half_slab_plank_1_top"], .md a[href|="/half_slab_plank_2_bottom"], .md a[href|="/half_slab_plank_2_top"], .md a[href|="/half_slab_plank_3_bottom"], .md a[href|="/half_slab_plank_3_top"], .md a[href|="/half_slab_plank_bottom"], .md a[href|="/half_slab_plank_top"], .md a[href|="/half_slab_sandstone_bottom"], .md a[href|="/half_slab_sandstone_top"], .md a[href|="/half_slab_stone_bottom"], .md a[href|="/half_slab_stone_brick_bottom"], .md a[href|="/half_slab_stone_brick_top"], .md a[href|="/half_slab_stone_top"], .md a[href|="/hoverlight0"], .md a[href|="/hoverlight1"], .md a[href|="/hoverlight2"], .md a[href|="/ice"], .md a[href|="/iron_bar"], .md a[href|="/jukebox_side"], .md a[href|="/jukebox_top"], .md a[href|="/ladder"], .md a[href|="/leaves"], .md a[href|="/leaves_jungle"], .md a[href|="/leaves_pine"], .md a[href|="/lever"], .md a[href|="/lilypad"], .md a[href|="/log_birch"], .md a[href|="/log_jungle"], .md a[href|="/log_oak"], .md a[href|="/log_pine"], .md a[href|="/log_top"], .md a[href|="/melon_side"], .md a[href|="/melon_top"], .md a[href|="/monster_spawner"], .md a[href|="/moss_stone"], .md a[href|="/mushroom_b"], .md a[href|="/mushroom_block_brown"], .md a[href|="/mushroom_block_pores"], .md a[href|="/mushroom_block_red"], .md a[href|="/mushroom_block_stalk"], .md a[href|="/mushroom_r"], .md a[href|="/mycelium_side"], .md a[href|="/mycelium_top"], .md a[href|="/nether_wart_0"], .md a[href|="/nether_wart_1"], .md a[href|="/nether_wart_2"], .md a[href|="/netherbrick"], .md a[href|="/netherrack"], .md a[href|="/obsidian"], .md a[href|="/ore_coal"], .md a[href|="/ore_diamond"], .md a[href|="/ore_emerald"], .md a[href|="/ore_gold"], .md a[href|="/ore_iron"], .md a[href|="/ore_lapis"], .md a[href|="/ore_redstone"], .md a[href|="/piston_bottom"], .md a[href|="/piston_head_normal"], .md a[href|="/piston_head_sticky"], .md a[href|="/piston_side"], .md a[href|="/plank"], .md a[href|="/plank_1"], .md a[href|="/plank_2"], .md a[href|="/plank_3"], .md a[href|="/pumpkin_front_lit"], .md a[href|="/pumpkin_front_unlit"], .md a[href|="/pumpkin_side"], .md a[href|="/pumpkin_top"], .md a[href|="/rail"], .md a[href|="/rail_bent"], .md a[href|="/rail_detector"], .md a[href|="/rail_powered_off"], .md a[href|="/rail_powered_on"], .md a[href|="/redstone_lamp_off"], .md a[href|="/redstone_lamp_on"], .md a[href|="/redstone_torch_off"], .md a[href|="/redstone_torch_on"], .md a[href|="/rose"], .md a[href|="/sand"], .md a[href|="/sandstone_bottom"], .md a[href|="/sandstone_side"], .md a[href|="/sandstone_side_1"], .md a[href|="/sandstone_side_2"], .md a[href|="/sandstone_top"], .md a[href|="/sapling_birch"], .md a[href|="/sapling_jungle"], .md a[href|="/sapling_oak"], .md a[href|="/sapling_pine"], .md a[href|="/slab"], .md a[href|="/slab_top"], .md a[href|="/snow"], .md a[href|="/soulsand"], .md a[href|="/spawner_overlay"], .md a[href|="/sponge"], .md a[href|="/stem_grown"], .md a[href|="/stem_ungrown"], .md a[href|="/stone"], .md a[href|="/stone_brick"], .md a[href|="/stone_brick_cracked"], .md a[href|="/stone_brick_greek"], .md a[href|="/stone_brick_mossy"], .md a[href|="/sugarcane_block"], .md a[href|="/tnt_bottom"], .md a[href|="/tnt_side"], .md a[href|="/tnt_top"], .md a[href|="/torch"], .md a[href|="/trapdoor"], .md a[href|="/vines"], .md a[href|="/wheat_0"], .md a[href|="/wheat_1"], .md a[href|="/wheat_2"], .md a[href|="/wheat_3"], .md a[href|="/wheat_4"], .md a[href|="/wheat_5"], .md a[href|="/wheat_6"], .md a[href|="/wheat_7"], .md a[href|="/wool_black"], .md a[href|="/wool_blue"], .md a[href|="/wool_brown"], .md a[href|="/wool_cyan"], .md a[href|="/wool_dark_gray"], .md a[href|="/wool_green"], .md a[href|="/wool_light_blue"], .md a[href|="/wool_light_gray"], .md a[href|="/wool_lime"], .md a[href|="/wool_magenta"], .md a[href|="/wool_orange"], .md a[href|="/wool_pink"], .md a[href|="/wool_purple"], .md a[href|="/wool_red"], .md a[href|="/wool_white"], .md a[href|="/wool_yellow"]{    width: 16px;    height: 16px;    content: " ";    background-image: url(http://f.thumbs.redditmedia.com/1qoiZr1zqmczP43Y.png);    display: inline-block;    cursor: default    }
+ .md a[href|="/half_slab_brick_bottom"], .md a[href|="/half_slab_brick_top"], .md a[href|="/half_slab_cobblestone_bottom"], .md a[href|="/half_slab_cobblestone_top"], .md a[href|="/half_slab_plank_1_bottom"], .md a[href|="/half_slab_plank_1_top"], .md a[href|="/half_slab_plank_2_bottom"], .md a[href|="/half_slab_plank_2_top"], .md a[href|="/half_slab_plank_3_bottom"] , .md a[href|="/half_slab_plank_3_top"], .md a[href|="/half_slab_plank_bottom"], .md a[href|="/half_slab_plank_top"], .md a[href|="/half_slab_sandstone_bottom"], .md a[href|="/half_slab_sandstone_top"], .md a[href|="/half_slab_stone_bottom"], .md a[href|="/half_slab_stone_brick_bottom"], .md a[href|="/half_slab_stone_brick_top"], .md a[href|="/half_slab_stone_top"]{    height: 8px    }
+ .md a[href|="/half_slab_brick_top"], .md a[href|="/half_slab_cobblestone_top"], .md a[href|="/half_slab_plank_1_top"], .md a[href|="/half_slab_plank_2_top"], .md a[href|="/half_slab_plank_3_top"] , .md a[href|="/half_slab_plank_top"], .md a[href|="/half_slab_sandstone_top"], .md a[href|="/half_slab_stone_brick_top"], .md a[href|="/half_slab_stone_top"]{    margin-bottom: 8px    }
+.md a[href|="/glass"] ,.md a[href|="/cm_boots"] {    background-position: -16px -48px    }
+.md a[href|="/ore_diamond"] ,.md a[href|="/i_boots"] {    background-position: -32px -48px    }
+.md a[href|="/ore_redstone"] ,.md a[href|="/d_boots"] {    background-position: -48px -48px    }
+.md a[href|="/leaves"] ,.md a[href|="/g_boots"] {    background-position: -64px -48px    }
+.md a[href|="/dead_bush"] ,.md a[href|="/diamond"] {    background-position: -112px -48px    }
+.md a[href|="/fern"] ,.md a[href|="/redstone"] {    background-position: -128px -48px    }
+.md a[href|="/crafting_table_side1"] ,.md a[href|="/book"] {    background-position: -176px -48px    }
+.md a[href|="/crafting_table_side2"] ,.md a[href|="/map"] {    background-position: -192px -48px    }
+.md a[href|="/furnace_top"] ,.md a[href|="/m_seeds"] {    background-position: -224px -48px    }
+.md a[href|="/sapling_pine"] {    background-position: -240px -48px    }
+.md a[href|="/monster_spawner"] ,.md a[href|="/s_sword"] {    background-position: -16px -64px    }
+.md a[href|="/snow"] ,.md a[href|="/i_sword"] {    background-position: -32px -64px    }
+.md a[href|="/ice"] ,.md a[href|="/d_sword"] {    background-position: -48px -64px    }
+.md a[href|="/grass_side_snow"] ,.md a[href|="/g_sword"] {    background-position: -64px -64px    }
+.md a[href|="/cactus_top"] ,.md a[href|="/fish_pole"] {    background-position: -80px -64px    }
+.md a[href|="/cactus_side"] ,.md a[href|="/watch"] {    background-position: -96px -64px    }
+.md a[href|="/cactus_bottom"] ,.md a[href|="/bowl"] {    background-position: -112px -64px    }
+.md a[href|="/clay_block"] ,.md a[href|="/s_bowl"] {    background-position: -128px -64px    }
+.md a[href|="/sugarcane_block"] ,.md a[href|="/gs_dust"] {    background-position: -144px -64px    }
+.md a[href|="/jukebox_side"] ,.md a[href|="/bucket"] {    background-position: -160px -64px    }
+.md a[href|="/jukebox_top"] ,.md a[href|="/w_bucket"] {    background-position: -176px -64px    }
+.md a[href|="/lilypad"] ,.md a[href|="/l_bucket"] {    background-position: -192px -64px    }
+.md a[href|="/mycelium_side"] ,.md a[href|="/m_bucket"] {    background-position: -208px -64px    }
+.md a[href|="/mycelium_top"] ,.md a[href|="/ink_sac"] {    background-position: -224px -64px    }
+.md a[href|="/sapling_birch"] ,.md a[href|="/g_dye"] {    background-position: -240px -64px    }
+.md a[href|="/door_wood_top"] ,.md a[href|="/s_shovel"] {    background-position: -16px -80px    }
+.md a[href|="/door_iron_top"] ,.md a[href|="/i_shovel"] {    background-position: -32px -80px    }
+.md a[href|="/ladder"] ,.md a[href|="/d_shovel"] {    background-position: -48px -80px    }
+.md a[href|="/trapdoor"] ,.md a[href|="/g_shovel"] {    background-position: -64px -80px    }
+.md a[href|="/iron_bar"] ,.md a[href|="/fish_pole2"] {    background-position: -80px -80px    }
+.md a[href|="/farmland_wet"] ,.md a[href|="/repeater"] {    background-position: -96px -80px    }
+.md a[href|="/farmland_dry"] ,.md a[href|="/pork"] {    background-position: -112px -80px    }
+.md a[href|="/wheat_0"] ,.md a[href|="/c_pork"] {    background-position: -128px -80px    }
+.md a[href|="/wheat_1"] ,.md a[href|="/fish"] {    background-position: -144px -80px    }
+.md a[href|="/wheat_2"] ,.md a[href|="/c_fish"] {    background-position: -160px -80px    }
+.md a[href|="/wheat_3"] ,.md a[href|="/r_flesh"] {    background-position: -176px -80px    }
+.md a[href|="/wheat_4"] ,.md a[href|="/cookie"] {    background-position: -192px -80px    }
+.md a[href|="/wheat_5"] ,.md a[href|="/shears"] {    background-position: -208px -80px    }
+.md a[href|="/wheat_6"] ,.md a[href|="/r_red"] {    background-position: -224px -80px    }
+.md a[href|="/wheat_7"] ,.md a[href|="/pi_dye"] {    background-position: -240px -80px    }
+.md a[href|="/door_wood_bottom"] ,.md a[href|="/s_pick"] {    background-position: -16px -96px    }
+.md a[href|="/door_iron_bottom"] ,.md a[href|="/i_pick"] {    background-position: -32px -96px    }
+.md a[href|="/redstone_torch_on"] ,.md a[href|="/d_pick"] {    background-position: -48px -96px    }
+.md a[href|="/stone_brick_mossy"] ,.md a[href|="/g_pick"] {    background-position: -64px -96px    }
+.md a[href|="/stone_brick_cracked"] ,.md a[href|="/bow_arrow"] {    background-position: -80px -96px    }
+.md a[href|="/pumpkin_top"] {    background-position: -96px -96px    }
+.md a[href|="/netherrack"] ,.md a[href|="/leather"] {    background-position: -112px -96px    }
+.md a[href|="/soulsand"] ,.md a[href|="/saddle"] {    background-position: -128px -96px    }
+.md a[href|="/glowstone"] ,.md a[href|="/beef"] {    background-position: -144px -96px    }
+.md a[href|="/piston_head_sticky"] ,.md a[href|="/steak"] {    background-position: -160px -96px    }
+.md a[href|="/piston_head_normal"] ,.md a[href|="/e_pearl"] {    background-position: -176px -96px    }
+.md a[href|="/piston_side"] ,.md a[href|="/b_rod"] {    background-position: -192px -96px    }
+.md a[href|="/piston_bottom"] ,.md a[href|="/melon_s"] {    background-position: -208px -96px    }
+.md a[href|="/stem_ungrown"] ,.md a[href|="/l_dye"] {    background-position: -240px -96px    }
+.md a[href|="/wool_black"] ,.md a[href|="/s_axe"] {    background-position: -16px -112px    }
+.md a[href|="/wool_dark_gray"] ,.md a[href|="/i_axe"] {    background-position: -32px -112px    }
+.md a[href|="/redstone_torch_off"] ,.md a[href|="/d_axe"] {    background-position: -48px -112px    }
+.md a[href|="/log_pine"] ,.md a[href|="/g_axe"] {    background-position: -64px -112px    }
+.md a[href|="/log_birch"] ,.md a[href|="/bow_arrow2"] {    background-position: -80px -112px    }
+.md a[href|="/pumpkin_side"] {    background-position: -96px -112px    }
+.md a[href|="/cake_top"] ,.md a[href|="/r_chicken"] {    background-position: -144px -112px    }
+.md a[href|="/cake_side_full"] ,.md a[href|="/c_chicken"] {    background-position: -160px -112px    }
+.md a[href|="/cake_side_bitten"] ,.md a[href|="/g_tear"] {    background-position: -176px -112px    }
+.md a[href|="/cake_bottom"] ,.md a[href|="/g_nugget"] {    background-position: -192px -112px    }
+.md a[href|="/mushroom_block_red"] ,.md a[href|="/n_wart"] {    background-position: -208px -112px    }
+.md a[href|="/mushroom_block_brown"] ,.md a[href|="/cocoa_b"] {    background-position: -224px -112px    }
+.md a[href|="/stem_grown"] ,.md a[href|="/d_yellow"] {    background-position: -240px -112px    }
+.md a[href|="/rail"] ,.md a[href|="/w_hoe"] {    background-position: 0px -128px    }
+.md a[href|="/wool_red"] ,.md a[href|="/s_hoe"] {    background-position: -16px -128px    }
+.md a[href|="/wool_pink"] ,.md a[href|="/i_hoe"] {    background-position: -32px -128px    }
+.md a[href|="/leaves_pine"] ,.md a[href|="/g_hoe"] {    background-position: -64px -128px    }
+.md a[href|="/bed_top_left"] {    background-position: -96px -128px    }
+.md a[href|="/bed_top_right"] ,.md a[href|="/minecart"] {    background-position: -112px -128px    }
+.md a[href|="/melon_side"] ,.md a[href|="/boat"] {    background-position: -128px -128px    }
+.md a[href|="/melon_top"] ,.md a[href|="/g_melon"] {    background-position: -144px -128px    }
+.md a[href|="/cauldron_top"] ,.md a[href|="/f_s_eye"] {    background-position: -160px -128px    }
+.md a[href|="/mushroom_block_stalk"] {    background-position: -208px -128px    }
+.md a[href|="/mushroom_block_pores"] ,.md a[href|="/lapis"] {    background-position: -224px -128px    }
+.md a[href|="/vines"] ,.md a[href|="/lb_dye"] {    background-position: -240px -128px    }
+.md a[href|="/wool_green"] {    background-position: -16px -144px    }
+.md a[href|="/wool_lime"] {    background-position: -32px -144px    }
+.md a[href|="/glass_pane"] {    background-position: -64px -144px    }
+.md a[href|="/bed_end_left"] {    background-position: -80px -144px    }
+.md a[href|="/bed_side_left"] {    background-position: -96px -144px    }
+.md a[href|="/bed_side_right"] ,.md a[href|="/s_minecart"] {    background-position: -112px -144px    }
+.md a[href|="/bed_end_right"] {    background-position: -128px -144px    }
+.md a[href|="/log_jungle"] {    background-position: -144px -144px    }
+.md a[href|="/cauldron_side"] {    background-position: -160px -144px    }
+.md a[href|="/cauldron_bottom"] ,.md a[href|="/e_eye"] {    background-position: -176px -144px    }
+.md a[href|="/brewing_stand_top"] ,.md a[href|="/cauldron"] {    background-position: -192px -144px    }
+.md a[href|="/brewing_stand_side"] ,.md a[href|="/b_powder"] {    background-position: -208px -144px    }
+.md a[href|="/end_portal_top_empty"] ,.md a[href|="/pu_dye"] {    background-position: -224px -144px    }
+.md a[href|="/end_portal_side_filled"] ,.md a[href|="/m_dye"] {    background-position: -240px -144px    }
+.md a[href|="/wool_brown"] {    background-position: -16px -160px    }
+.md a[href|="/wool_yellow"] {    background-position: -32px -160px    }
+.md a[href|="/rail_powered_off"] {    background-position: -48px -160px    }
+.md a[href|="/enchantment_table_top"] {    background-position: -96px -160px    }
+.md a[href|="/end_portal_top_filled"] ,.md a[href|="/c_dye"] {    background-position: -224px -160px    }
+.md a[href|="/endstone"] ,.md a[href|="/o_dye"] {    background-position: -240px -160px    }
+.md a[href|="/wool_blue"] {    background-position: -16px -176px    }
+.md a[href|="/wool_light_blue"] {    background-position: -32px -176px    }
+.md a[href|="/rail_powered_on"] {    background-position: -48px -176px    }
+.md a[href|="/enchantment_table_side"] {    background-position: -96px -176px    }
+.md a[href|="/enchantment_table_bottom"] {    background-position: -112px -176px    }
+.md a[href|="/wool_purple"] {    background-position: -16px -192px    }
+.md a[href|="/wool_magenta"] {    background-position: -32px -192px    }
+.md a[href|="/rail_detector"] {    background-position: -48px -192px    }
+.md a[href|="/leaves_jungle"] {    background-position: -64px -192px    }
+.md a[href|="/wool_cyan"] {    background-position: -16px -208px    }
+.md a[href|="/wool_orange"] {    background-position: -32px -208px    }
+.md a[href|="/wool_light_gray"] {    background-position: -16px -224px    }
+.md a[href|="/nether_wart_0"] {    background-position: -32px -224px    }
+.md a[href|="/nether_wart_1"] {    background-position: -48px -224px    }
+.md a[href|="/nether_wart_2"] {    background-position: -64px -224px    }
+.md a[href|="/hoverlight0"] ,.md a[href|="/redstone_lamp_off"] {    background-position: -48px -208px    }
+.md a[href|="/hoverlight0"]:hover ,.md a[href|="/redstone_lamp_on"] {    background-position: -64px -208px    }
+.md a[href|="/hoverlight1"] ,.md a[href|="/pumpkin_front_unlit"] {    background-position: -112px -112px    }
+.md a[href|="/hoverlight1"]:hover ,.md a[href|="/pumpkin_front_lit"] {    background-position: -128px -112px    }
+.md a[href|="/hoverlight2"]:hover ,.md a[href|="/furnace_lit_front"] ,.md a[href|="/p_seeds"] {    background-position: -208px -48px    }
+.md a[href|="/half_slab_stone_bottom"] {    background-position: -80px -8px    }
+.md a[href|="/half_slab_sandstone_bottom"] {    background-position: 0px -200px    }
+.md a[href|="/half_slab_plank_bottom"] {    background-position: -64px -8px    }
+.md a[href|="/half_slab_cobblestone_bottom"] {    background-position: 0px -24px    }
+.md a[href|="/half_slab_brick_bottom"] {    background-position: -112px -8px    }
+.md a[href|="/half_slab_stone_brick_bottom"] {    background-position: -96px -56px    }
+.md a[href|="/half_slab_stone_brick_top"] ,.md a[href|="/stone_brick"] ,.md a[href|="/compass"] {    background-position: -96px -48px    }
+.md a[href|="/end_portal_side_empty"] {    background-position: -240px -147px;    height: 13px    }
+.md a[href|="/spawner_overlay"] {    background-position: -16px -64px;    margin-left: -16px    }
+.md a[href|="/stone_brick_greek"] {    background-position: -80px -208px    }
+.md a[href|="/sandstone_side_1"] {    background-position: -80px -224px    }
+.md a[href|="/sandstone_side_2"] {    background-position: -96px -224px    }
+.md a[href|="/half_slab_plank_1_top"] ,.md a[href|="/plank_1"] {    background-position: -96px -192px    }
+.md a[href|="/half_slab_plank_1_bottom"] {    background-position: -96px -200px    }
+.md a[href|="/half_slab_plank_2_top"] ,.md a[href|="/plank_2"] {    background-position: -112px -192px    }
+.md a[href|="/half_slab_plank_2_bottom"] {    background-position: -112px -200px    }
+.md a[href|="/half_slab_plank_3_top"] ,.md a[href|="/plank_3"] {    background-position: -96px -208px    }
+.md a[href|="/half_slab_plank_3_bottom"] {    background-position: -96px -216px    }
+.md a[href|="/ore_emerald"] ,.md a[href|="/bottle_enchanting"] {    background-position: -176px -160px    }
+ .md a[href|="/aboveblankborder"], .md a[href|="/abovecrossoff"], .md a[href|="/abovecrosson"], .md a[href|="/abovedownrightoff"], .md a[href|="/abovedownrighton"], .md a[href|="/abovedowntorchoff"], .md a[href|="/abovedowntorchon"], .md a[href|="/aboveleftdownoff"], .md a[href|="/aboveleftdownon"], .md a[href|="/aboveleftrightdownoff"], .md a[href|="/aboveleftrightdownon"], .md a[href|="/aboveleftrightoff"], .md a[href|="/aboveleftrighton"], .md a[href|="/aboveleftrightupoff"], .md a[href|="/aboveleftrightupon"], .md a[href|="/abovelefttorchoff"], .md a[href|="/abovelefttorchon"], .md a[href|="/aboveleftupoff"], .md a[href|="/aboveleftupon"], .md a[href|="/aboverighttorchoff"], .md a[href|="/aboverighttorchon"], .md a[href|="/abovetorchoff"], .md a[href|="/abovetorchon"], .md a[href|="/aboveupdownleftoff"], .md a[href|="/aboveupdownlefton"], .md a[href|="/aboveupdownoff"], .md a[href|="/aboveupdownon"], .md a[href|="/aboveupdownrightoff"], .md a[href|="/aboveupdownrighton"], .md a[href|="/aboveuprightoff"], .md a[href|="/aboveuprighton"], .md a[href|="/aboveuptorchoff"], .md a[href|="/aboveuptorchon"], .md a[href|="/adblankborder"], .md a[href|="/adcrossoff"], .md a[href|="/adcrosson"], .md a[href|="/addownrightoff"], .md a[href|="/addownrighton"], .md a[href|="/addowntorchoff"], .md a[href|="/addowntorchon"], .md a[href|="/adleftdownoff"], .md a[href|="/adleftdownon"], .md a[href|="/adleftrightdownoff"], .md a[href|="/adleftrightdownon"], .md a[href|="/adleftrightoff"], .md a[href|="/adleftrighton"], .md a[href|="/adleftrightupoff"], .md a[href|="/adleftrightupon"], .md a[href|="/adlefttorchoff"], .md a[href|="/adlefttorchon"], .md a[href|="/adleftupoff"], .md a[href|="/adleftupon"], .md a[href|="/adrighttorchoff"], .md a[href|="/adrighttorchon"], .md a[href|="/adtorchoff"], .md a[href|="/adtorchon"], .md a[href|="/adupdownleftoff"], .md a[href|="/adupdownlefton"], .md a[href|="/adupdownoff"], .md a[href|="/adupdownon"], .md a[href|="/adupdownrightoff"], .md a[href|="/adupdownrighton"], .md a[href|="/aduprightoff"], .md a[href|="/aduprighton"], .md a[href|="/aduptorchoff"], .md a[href|="/aduptorchon"], .md a[href|="/belowblankborder"], .md a[href|="/belowcrossoff"], .md a[href|="/belowcrosson"], .md a[href|="/belowdownrightoff"], .md a[href|="/belowdownrighton"], .md a[href|="/belowdowntorchoff"], .md a[href|="/belowdowntorchon"], .md a[href|="/belowleftdownoff"], .md a[href|="/belowleftdownon"], .md a[href|="/belowleftrightdownoff"], .md a[href|="/belowleftrightdownon"], .md a[href|="/belowleftrightoff"], .md a[href|="/belowleftrighton"], .md a[href|="/belowleftrightupoff"], .md a[href|="/belowleftrightupon"], .md a[href|="/belowlefttorchoff"], .md a[href|="/belowlefttorchon"], .md a[href|="/belowleftupoff"], .md a[href|="/belowleftupon"], .md a[href|="/belowrighttorchoff"], .md a[href|="/belowrighttorchon"], .md a[href|="/belowtorchoff"], .md a[href|="/belowtorchon"], .md a[href|="/belowupdownleftoff"], .md a[href|="/belowupdownlefton"], .md a[href|="/belowupdownoff"], .md a[href|="/belowupdownon"], .md a[href|="/belowupdownrightoff"], .md a[href|="/belowupdownrighton"], .md a[href|="/belowuprightoff"], .md a[href|="/belowuprighton"], .md a[href|="/belowuptorchoff"], .md a[href|="/belowuptorchon"], .md a[href|="/blankborder"], .md a[href|="/crossoff"], .md a[href|="/crosson"], .md a[href|="/downrightoff"], .md a[href|="/downrighton"], .md a[href|="/downtorchoff"], .md a[href|="/downtorchon"], .md a[href|="/leftdownoff"], .md a[href|="/leftdownon"], .md a[href|="/leftrightdownoff"], .md a[href|="/leftrightdownon"], .md a[href|="/leftrightoff"], .md a[href|="/leftrighton"], .md a[href|="/leftrightupoff"], .md a[href|="/leftrightupon"], .md a[href|="/lefttorchoff"], .md a[href|="/lefttorchon"], .md a[href|="/leftupoff"], .md a[href|="/leftupon"], .md a[href|="/pistondown"], .md a[href|="/pistonfacedown"], .md a[href|="/pistonfaceup"], .md a[href|="/pistonleft"], .md a[href|="/pistonright"], .md a[href|="/pistonup"], .md a[href|="/repeaterdown1"], .md a[href|="/repeaterdown2"], .md a[href|="/repeaterdown3"], .md a[href|="/repeaterdown4"], .md a[href|="/repeaterleft1"], .md a[href|="/repeaterleft2"], .md a[href|="/repeaterleft3"], .md a[href|="/repeaterleft4"], .md a[href|="/repeaterright1"], .md a[href|="/repeaterright2"], .md a[href|="/repeaterright3"], .md a[href|="/repeaterright4"], .md a[href|="/repeaterup1"], .md a[href|="/repeaterup2"], .md a[href|="/repeaterup3"], .md a[href|="/repeaterup4"], .md a[href|="/righttorchoff"], .md a[href|="/righttorchon"], .md a[href|="/stickypistondown"], .md a[href|="/stickypistonfacedown"] , .md a[href|="/stickypistonfaceup"], .md a[href|="/stickypistonleft"], .md a[href|="/stickypistonright"], .md a[href|="/stickypistonup"], .md a[href|="/torchoff"], .md a[href|="/torchon"], .md a[href|="/updownleftoff"], .md a[href|="/updownlefton"], .md a[href|="/updownoff"], .md a[href|="/updownon"], .md a[href|="/updownrightoff"], .md a[href|="/updownrighton"], .md a[href|="/uprightoff"], .md a[href|="/uprighton"], .md a[href|="/uptorchoff"], .md a[href|="/uptorchon"], .md a[href|="/vara"], .md a[href|="/varb"], .md a[href|="/varc"], .md a[href|="/vard"], .md a[href|="/varj"], .md a[href|="/vark"], .md a[href|="/varq"]{    width: 16px;    height: 16px;    content: "";    background-image: url(http://d.thumbs.redditmedia.com/Tcn4P2muMiBrG3nE.png);    display: inline-block;    cursor: default    }
+.md a[href|="/leftrightoff"] ,.md a[href|="/stone"] ,.md a[href|="/cm_helm"] {    background-position: -16px 0px    }
+.md a[href|="/updownoff"] ,.md a[href|="/dirt"] ,.md a[href|="/i_helm"] {    background-position: -32px 0px    }
+.md a[href|="/leftrightdownoff"] ,.md a[href|="/grass_side"] ,.md a[href|="/d_helm"] {    background-position: -48px 0px    }
+.md a[href|="/updownleftoff"] ,.md a[href|="/half_slab_plank_top"] ,.md a[href|="/plank"] ,.md a[href|="/g_helm"] {    background-position: -64px 0px    }
+.md a[href|="/leftrightupoff"] ,.md a[href|="/half_slab_stone_top"] ,.md a[href|="/slab"] ,.md a[href|="/flint_steel"] {    background-position: -80px 0px    }
+.md a[href|="/updownrightoff"] ,.md a[href|="/slab_top"] ,.md a[href|="/flint"] {    background-position: -96px 0px    }
+.md a[href|="/crosson"] ,.md a[href|="/half_slab_brick_top"] ,.md a[href|="/brick_block"] ,.md a[href|="/coal"] {    background-position: -112px 0px    }
+.md a[href|="/leftrighton"] ,.md a[href|="/tnt_side"] ,.md a[href|="/string"] {    background-position: -128px 0px    }
+.md a[href|="/updownon"] ,.md a[href|="/tnt_top"] ,.md a[href|="/seeds"] {    background-position: -144px 0px    }
+.md a[href|="/leftrightdownon"] ,.md a[href|="/tnt_bottom"] ,.md a[href|="/apple"] {    background-position: -160px 0px    }
+.md a[href|="/updownlefton"] ,.md a[href|="/cobweb"] ,.md a[href|="/g_apple"] {    background-position: -176px 0px    }
+.md a[href|="/leftrightupon"] ,.md a[href|="/rose"] ,.md a[href|="/egg"] {    background-position: -192px 0px    }
+.md a[href|="/updownrighton"] ,.md a[href|="/flower"] ,.md a[href|="/sugar"] {    background-position: -208px 0px    }
+.md a[href|="/belowcrossoff"] ,.md a[href|="/snowball"] {    background-position: -224px 0px    }
+.md a[href|="/belowleftrightoff"] ,.md a[href|="/sapling_oak"] {    background-position: -240px 0px    }
+.md a[href|="/belowupdownoff"] {    background-position: -256px 0px    }
+.md a[href|="/belowleftrightdownoff"] {    background-position: -272px 0px    }
+.md a[href|="/belowupdownleftoff"] {    background-position: -288px 0px    }
+.md a[href|="/belowleftrightupoff"] {    background-position: -304px 0px    }
+.md a[href|="/belowupdownrightoff"] {    background-position: -320px 0px    }
+.md a[href|="/belowcrosson"] {    background-position: -336px 0px    }
+.md a[href|="/belowleftrighton"] {    background-position: -352px 0px    }
+.md a[href|="/belowupdownon"] {    background-position: -368px 0px    }
+.md a[href|="/belowleftrightdownon"] {    background-position: -384px 0px    }
+.md a[href|="/belowupdownlefton"] {    background-position: -400px 0px    }
+.md a[href|="/belowleftrightupon"] {    background-position: -416px 0px    }
+.md a[href|="/belowupdownrighton"] {    background-position: -432px 0px    }
+.md a[href|="/abovecrossoff"] {    background-position: -448px 0px    }
+.md a[href|="/aboveleftrightoff"] {    background-position: -464px 0px    }
+.md a[href|="/aboveupdownoff"] {    background-position: -480px 0px    }
+.md a[href|="/aboveleftrightdownoff"] {    background-position: -496px 0px    }
+.md a[href|="/aboveupdownleftoff"] {    background-position: -512px 0px    }
+.md a[href|="/aboveleftrightupoff"] {    background-position: -528px 0px    }
+.md a[href|="/aboveupdownrightoff"] {    background-position: -544px 0px    }
+.md a[href|="/abovecrosson"] {    background-position: -560px 0px    }
+.md a[href|="/aboveleftrighton"] {    background-position: -576px 0px    }
+.md a[href|="/aboveupdownon"] {    background-position: -592px 0px    }
+.md a[href|="/aboveleftrightdownon"] {    background-position: -608px 0px    }
+.md a[href|="/aboveupdownlefton"] {    background-position: -624px 0px    }
+.md a[href|="/aboveleftrightupon"] {    background-position: -640px 0px    }
+.md a[href|="/aboveupdownrighton"] {    background-position: -656px 0px    }
+.md a[href|="/adcrossoff"] {    background-position: -672px 0px    }
+.md a[href|="/adleftrightoff"] {    background-position: -688px 0px    }
+.md a[href|="/adupdownoff"] {    background-position: -704px 0px    }
+.md a[href|="/adleftrightdownoff"] {    background-position: -720px 0px    }
+.md a[href|="/adupdownleftoff"] {    background-position: -736px 0px    }
+.md a[href|="/adleftrightupoff"] {    background-position: -752px 0px    }
+.md a[href|="/adupdownrightoff"] {    background-position: -768px 0px    }
+.md a[href|="/adcrosson"] {    background-position: -784px 0px    }
+.md a[href|="/adleftrighton"] {    background-position: -800px 0px    }
+.md a[href|="/adupdownon"] {    background-position: -816px 0px    }
+.md a[href|="/adleftrightdownon"] {    background-position: -832px 0px    }
+.md a[href|="/adupdownlefton"] {    background-position: -848px 0px    }
+.md a[href|="/adleftrightupon"] {    background-position: -864px 0px    }
+.md a[href|="/adupdownrighton"] {    background-position: -880px 0px    }
+.md a[href|="/righttorchoff"] ,.md a[href|="/bedrock"] ,.md a[href|="/cm_chest"] {    background-position: -16px -16px    }
+.md a[href|="/downtorchoff"] ,.md a[href|="/sand"] ,.md a[href|="/i_chest"] {    background-position: -32px -16px    }
+.md a[href|="/lefttorchoff"] ,.md a[href|="/gravel"] ,.md a[href|="/d_chest"] {    background-position: -48px -16px    }
+.md a[href|="/uptorchon"] ,.md a[href|="/log_oak"] ,.md a[href|="/g_chest"] {    background-position: -64px -16px    }
+.md a[href|="/righttorchon"] ,.md a[href|="/log_top"] ,.md a[href|="/bow"] {    background-position: -80px -16px    }
+.md a[href|="/downtorchon"] ,.md a[href|="/block_iron"] ,.md a[href|="/brick"] {    background-position: -96px -16px    }
+.md a[href|="/lefttorchon"] ,.md a[href|="/block_gold"] ,.md a[href|="/i_ingot"] {    background-position: -112px -16px    }
+.md a[href|="/belowuptorchoff"] ,.md a[href|="/block_diamond"] ,.md a[href|="/feather"] {    background-position: -128px -16px    }
+.md a[href|="/belowrighttorchoff"] ,.md a[href|="/block_emerald"] ,.md a[href|="/wheat"] {    background-position: -144px -16px    }
+.md a[href|="/belowdowntorchoff"] ,.md a[href|="/painting"] {    background-position: -160px -16px    }
+.md a[href|="/belowlefttorchoff"] ,.md a[href|="/sugarcane"] {    background-position: -176px -16px    }
+.md a[href|="/belowuptorchon"] ,.md a[href|="/mushroom_r"] ,.md a[href|="/bone"] {    background-position: -192px -16px    }
+.md a[href|="/belowrighttorchon"] ,.md a[href|="/mushroom_b"] ,.md a[href|="/cake"] {    background-position: -208px -16px    }
+.md a[href|="/belowdowntorchon"] ,.md a[href|="/sapling_jungle"] ,.md a[href|="/slimeball"] {    background-position: -224px -16px    }
+.md a[href|="/belowlefttorchon"] {    background-position: -240px -16px    }
+.md a[href|="/aboveuptorchon"] {    background-position: -256px -16px    }
+.md a[href|="/aboverighttorchon"] {    background-position: -272px -16px    }
+.md a[href|="/abovedowntorchon"] {    background-position: -288px -16px    }
+.md a[href|="/abovelefttorchon"] {    background-position: -304px -16px    }
+.md a[href|="/aboveuptorchoff"] {    background-position: -320px -16px    }
+.md a[href|="/aboverighttorchoff"] {    background-position: -336px -16px    }
+.md a[href|="/abovedowntorchoff"] {    background-position: -352px -16px    }
+.md a[href|="/abovelefttorchoff"] {    background-position: -368px -16px    }
+.md a[href|="/aduptorchoff"] {    background-position: -384px -16px    }
+.md a[href|="/adrighttorchoff"] {    background-position: -400px -16px    }
+.md a[href|="/addowntorchoff"] {    background-position: -416px -16px    }
+.md a[href|="/adlefttorchoff"] {    background-position: -432px -16px    }
+.md a[href|="/aduptorchon"] {    background-position: -448px -16px    }
+.md a[href|="/adrighttorchon"] {    background-position: -464px -16px    }
+.md a[href|="/addowntorchon"] {    background-position: -480px -16px    }
+.md a[href|="/adlefttorchon"] {    background-position: -496px -16px    }
+.md a[href|="/blankborder"] {    background-position: -512px -16px    }
+.md a[href|="/aboveblankborder"] {    background-position: -528px -16px    }
+.md a[href|="/belowblankborder"] {    background-position: -544px -16px    }
+.md a[href|="/adblankborder"] {    background-position: -560px -16px    }
+.md a[href|="/abovetorchoff"] {    background-position: -576px -16px    }
+.md a[href|="/abovetorchon"] {    background-position: -592px -16px    }
+.md a[href|="/torchoff"] {    background-position: -608px -16px    }
+.md a[href|="/torchon"] {    background-position: -624px -16px    }
+.md a[href|="/belowtorchoff"] {    background-position: -640px -16px    }
+.md a[href|="/belowtorchon"] {    background-position: -656px -16px    }
+.md a[href|="/adtorchoff"] {    background-position: -672px -16px    }
+.md a[href|="/adtorchon"] {    background-position: -688px -16px    }
+.md a[href|="/leftupoff"] ,.md a[href|="/ore_iron"] ,.md a[href|="/cm_pants"] {    background-position: -16px -32px    }
+.md a[href|="/uprightoff"] ,.md a[href|="/ore_coal"] ,.md a[href|="/i_pants"] {    background-position: -32px -32px    }
+.md a[href|="/downrightoff"] ,.md a[href|="/bookshelf"] ,.md a[href|="/d_pants"] {    background-position: -48px -32px    }
+.md a[href|="/leftdownon"] ,.md a[href|="/moss_stone"] ,.md a[href|="/g_pants"] {    background-position: -64px -32px    }
+.md a[href|="/leftupon"] ,.md a[href|="/obsidian"] ,.md a[href|="/arrow"] {    background-position: -80px -32px    }
+.md a[href|="/uprighton"] ,.md a[href|="/quiver"] {    background-position: -96px -32px    }
+.md a[href|="/downrighton"] ,.md a[href|="/grass_tall"] ,.md a[href|="/g_ingot"] {    background-position: -112px -32px    }
+.md a[href|="/belowleftdownoff"] ,.md a[href|="/grass_top"] ,.md a[href|="/gunpowder"] {    background-position: -128px -32px    }
+.md a[href|="/belowleftupoff"] ,.md a[href|="/bread"] {    background-position: -144px -32px    }
+.md a[href|="/belowuprightoff"] ,.md a[href|="/sign"] {    background-position: -160px -32px    }
+.md a[href|="/belowdownrightoff"] ,.md a[href|="/crafting_table_top"] ,.md a[href|="/w_door"] {    background-position: -176px -32px    }
+.md a[href|="/belowleftdownon"] ,.md a[href|="/hoverlight2"] ,.md a[href|="/furnace_unlit_front"] ,.md a[href|="/i_door"] {    background-position: -192px -32px    }
+.md a[href|="/belowleftupon"] ,.md a[href|="/furnace_side"] ,.md a[href|="/bed"] {    background-position: -208px -32px    }
+.md a[href|="/belowuprighton"] ,.md a[href|="/dispenser"] ,.md a[href|="/fireball"] {    background-position: -224px -32px    }
+.md a[href|="/belowdownrighton"] {    background-position: -240px -32px    }
+.md a[href|="/aboveleftdownoff"] {    background-position: -256px -32px    }
+.md a[href|="/aboveleftupoff"] {    background-position: -272px -32px    }
+.md a[href|="/aboveuprightoff"] {    background-position: -288px -32px    }
+.md a[href|="/abovedownrightoff"] {    background-position: -304px -32px    }
+.md a[href|="/aboveleftdownon"] {    background-position: -320px -32px    }
+.md a[href|="/aboveleftupon"] {    background-position: -336px -32px    }
+.md a[href|="/aboveuprighton"] {    background-position: -352px -32px    }
+.md a[href|="/abovedownrighton"] {    background-position: -368px -32px    }
+.md a[href|="/adleftdownoff"] {    background-position: -384px -32px    }
+.md a[href|="/adleftupoff"] {    background-position: -400px -32px    }
+.md a[href|="/aduprightoff"] {    background-position: -416px -32px    }
+.md a[href|="/addownrightoff"] {    background-position: -432px -32px    }
+.md a[href|="/adleftdownon"] {    background-position: -448px -32px    }
+.md a[href|="/adleftupon"] {    background-position: -464px -32px    }
+.md a[href|="/aduprighton"] {    background-position: -480px -32px    }
+.md a[href|="/addownrighton"] {    background-position: -496px -32px    }
+.md a[href|="/vark"] {    background-position: -512px -32px    }
+.md a[href|="/varj"] {    background-position: -528px -32px    }
+.md a[href|="/varq"] {    background-position: -544px -32px    }
+.md a[href|="/vara"] {    background-position: -560px -32px    }
+.md a[href|="/varb"] {    background-position: -576px -32px    }
+.md a[href|="/varc"] {    background-position: -592px -32px    }
+.md a[href|="/vard"] {    background-position: -608px -32px    }
+.md a[href|="/repeaterup1"] {    background-position: -640px -32px    }
+.md a[href|="/repeaterup2"] {    background-position: -656px -32px    }
+.md a[href|="/repeaterup3"] {    background-position: -672px -32px    }
+.md a[href|="/repeaterup4"] {    background-position: -688px -32px    }
+.md a[href|="/repeaterright1"] {    background-position: -704px -32px    }
+.md a[href|="/repeaterright2"] {    background-position: -720px -32px    }
+.md a[href|="/repeaterright3"] {    background-position: -736px -32px    }
+.md a[href|="/repeaterright4"] {    background-position: -752px -32px    }
+.md a[href|="/repeaterdown1"] {    background-position: -768px -32px    }
+.md a[href|="/repeaterdown2"] {    background-position: -784px -32px    }
+.md a[href|="/repeaterdown3"] {    background-position: -800px -32px    }
+.md a[href|="/repeaterdown4"] {    background-position: -816px -32px    }
+.md a[href|="/repeaterleft1"] {    background-position: -832px -32px    }
+.md a[href|="/repeaterleft2"] {    background-position: -848px -32px    }
+.md a[href|="/repeaterleft3"] {    background-position: -864px -32px    }
+.md a[href|="/repeaterleft4"] {    background-position: -880px -32px    }
+.md a[href|="/pistonup"] {    background-position: -704px -16px    }
+.md a[href|="/pistonright"] {    background-position: -720px -16px    }
+.md a[href|="/pistondown"] {    background-position: -736px -16px    }
+.md a[href|="/pistonleft"] {    background-position: -752px -16px    }
+.md a[href|="/stickypistonup"] {    background-position: -768px -16px    }
+.md a[href|="/stickypistonright"] {    background-position: -784px -16px    }
+.md a[href|="/stickypistondown"] {    background-position: -800px -16px    }
+.md a[href|="/stickypistonleft"] {    background-position: -816px -16px    }
+.md a[href|="/stickypistonfaceup"] {    background-position: -832px -16px    }
+.md a[href|="/pistonfaceup"] {    background-position: -848px -16px    }
+.md a[href|="/pistonfacedown"] {    background-position: -864px -16px    }
+.md a[href|="/stickypistonfacedown"] {    background-position: -880px -16px    }
+ .md a[href|="/blaze"], .md a[href|="/cat_black"], .md a[href|="/cat_red"], .md a[href|="/cat_siamese"], .md a[href|="/cavespider"], .md a[href|="/chicken"], .md a[href|="/cow"], .md a[href|="/creeper"], .md a[href|="/enderdragon"], .md a[href|="/enderman"], .md a[href|="/ghast"], .md a[href|="/iron_golem"], .md a[href|="/magmacube"], .md a[href|="/mojang"], .md a[href|="/mooshroom"], .md a[href|="/ozelot"], .md a[href|="/pig"], .md a[href|="/rftw"], .md a[href|="/sheep"], .md a[href|="/sheep_black"], .md a[href|="/sheep_blue"], .md a[href|="/sheep_brown"], .md a[href|="/sheep_cyan"], .md a[href|="/sheep_gray"], .md a[href|="/sheep_green"], .md a[href|="/sheep_lightblue"], .md a[href|="/sheep_lightgray"], .md a[href|="/sheep_lime"], .md a[href|="/sheep_magenta"], .md a[href|="/sheep_orange"], .md a[href|="/sheep_pink"], .md a[href|="/sheep_purple"], .md a[href|="/sheep_red"], .md a[href|="/sheep_yellow"], .md a[href|="/silverfish"], .md a[href|="/skeleton"], .md a[href|="/slime"], .md a[href|="/snowgolem"], .md a[href|="/spider"], .md a[href|="/squid"], .md a[href|="/testificate"], .md a[href|="/wolf"], .md a[href|="/zombie"], .md a[href|="/zombiepigman"], .md a[href|="/zombievillager"] {    width: 16px;    height: 16px;    content: " ";    background-image: url(http://d.thumbs.redditmedia.com/LDRhH17887Re-lRQ.png);    display: inline-block;    cursor: default    }
+.md a[href|="/blaze"] ,.md a[href|="/crossoff"] ,.md a[href|="/blank"] ,.md a[href|="/l_helm"] {    background-position: 0px 0px    }
+.md a[href|="/cavespider"] ,.md a[href|="/uptorchoff"] ,.md a[href|="/half_slab_cobblestone_top"] ,.md a[href|="/cobblestone"] ,.md a[href|="/l_chest"] {    background-position: 0px -16px    }
+.md a[href|="/chicken"] ,.md a[href|="/leftdownoff"] ,.md a[href|="/ore_gold"] ,.md a[href|="/l_pants"] {    background-position: 0px -32px    }
+.md a[href|="/cow"] ,.md a[href|="/sponge"] ,.md a[href|="/l_boots"] {    background-position: 0px -48px    }
+.md a[href|="/creeper"] ,.md a[href|="/wool_white"] ,.md a[href|="/w_sword"] {    background-position: 0px -64px    }
+.md a[href|="/enderdragon"] ,.md a[href|="/torch"] ,.md a[href|="/w_shovel"] {    background-position: 0px -80px    }
+.md a[href|="/enderman"] ,.md a[href|="/lever"] ,.md a[href|="/w_pick"] {    background-position: 0px -96px    }
+.md a[href|="/ghast"] ,.md a[href|="/rail_bent"] ,.md a[href|="/w_axe"] {    background-position: 0px -112px    }
+.md a[href|="/magmacube"] ,.md a[href|="/block_lapis"] ,.md a[href|="/blank"] {    background-position: 0px -144px    }
+.md a[href|="/mooshroom"] ,.md a[href|="/ore_lapis"] {    background-position: 0px -160px    }
+.md a[href|="/pig"] ,.md a[href|="/sandstone_top"] {    background-position: 0px -176px    }
+.md a[href|="/sheep"] ,.md a[href|="/half_slab_sandstone_top"] ,.md a[href|="/sandstone_side"] {    background-position: 0px -192px    }
+.md a[href|="/silverfish"] ,.md a[href|="/sandstone_bottom"] {    background-position: 0px -208px    }
+.md a[href|="/skeleton"] ,.md a[href|="/netherbrick"] {    background-position: 0px -224px    }
+.md a[href|="/slime"] ,.md a[href|="/m_13"] {    background-position: 0px -240px    }
+.md a[href|="/snowgolem"] {    background-position: 0px -256px    }
+.md a[href|="/spider"] {    background-position: 0px -272px    }
+.md a[href|="/squid"] {    background-position: 0px -288px    }
+.md a[href|="/testificate"] {    background-position: 0px -304px    }
+.md a[href|="/wolf"] {    background-position: 0px -320px    }
+.md a[href|="/zombie"] {    background-position: 0px -336px    }
+.md a[href|="/zombiepigman"] {    background-position: 0px -352px    }
+.md a[href|="/sheep_lightgray"] {    background-position: 0px -384px    }
+.md a[href|="/sheep_gray"] {    background-position: 0px -400px    }
+.md a[href|="/sheep_black"] {    background-position: 0px -416px    }
+.md a[href|="/sheep_brown"] {    background-position: 0px -432px    }
+.md a[href|="/sheep_pink"] {    background-position: 0px -448px    }
+.md a[href|="/sheep_red"] {    background-position: 0px -464px    }
+.md a[href|="/sheep_orange"] {    background-position: 0px -480px    }
+.md a[href|="/sheep_yellow"] {    background-position: 0px -496px    }
+.md a[href|="/sheep_lime"] {    background-position: 0px -512px    }
+.md a[href|="/sheep_green"] {    background-position: 0px -528px    }
+.md a[href|="/sheep_lightblue"] {    background-position: 0px -544px    }
+.md a[href|="/sheep_cyan"] {    background-position: 0px -560px    }
+.md a[href|="/sheep_blue"] {    background-position: 0px -576px    }
+.md a[href|="/sheep_purple"] {    background-position: 0px -592px    }
+.md a[href|="/sheep_magenta"] {    background-position: 0px -608px    }
+.md a[href|="/ozelot"] {    background-position: 0px -624px    }
+.md a[href|="/cat_siamese"] {    background-position: 0px -640px    }
+.md a[href|="/cat_red"] {    background-position: 0px -656px    }
+.md a[href|="/cat_black"] {    background-position: 0px -672px    }
+.md a[href|="/iron_golem"] {    background-position: 0px -752px    }
+.md a[href|="/mojang"] {    background-position: 0px -368px    }
+.md a[href|="/rftw"] {    background-position: 0px -688px    }
+.md a[href|="/zombievillager"] {    background-position: 0px -800px    }
+ .md a[href|="/cock"] {    background-image: url(http://c.thumbs.redditmedia.com/-0WIf4XIKAekBHkP.png);    background-position: right center;    background-repeat: no-repeat;    display: inline-block;    height: 24px;    text-indent: -9999px;    vertical-align: middle;    width: 21px    }
+ .md a[href|="/goat"] {    background-image: url(http://a.thumbs.redditmedia.com/gwfebV-7d1nF0WeH.png);    background-position: right center;    background-repeat: no-repeat;    display: inline-block;    height: 24px;    text-indent: -9999px;    vertical-align: middle;    width: 21px    }
+ .md a[href|="/goat"]:hover , .md a[href|="/cock"]:hover {    text-indent: 0;    width: auto;    padding-right: 30px;    max-width: none    }
+.md a[href|="/goat"] ,.md a[href|="/cock"] {    width: 24px    }
+ .md a[href|="/21424"]:after, .md a[href|="/2229"]:after, .md a[href|="/aintthatsomeshit"]:after, .md a[href|="/allthethings"]:after, .md a[href|="/angryharpdarp"]:after, .md a[href|="/awman"]:after, .md a[href|="/awthanks"]:after, .md a[href|="/awyea"]:after, .md a[href|="/awyeah"]:after, .md a[href|="/badass"]:after, .md a[href|="/beh"]:after, .md a[href|="/bepinthemorning"]:after, .md a[href|="/bepislaughingatyourmum"]:after, .md a[href|="/bepistrollingyoubetter"]:after, .md a[href|="/bepsausage"]:after, .md a[href|="/biebs"]:after, .md a[href|="/biggusta"]:after, .md a[href|="/blackhair"]:after, .md a[href|="/bzz"]:after, .md a[href|="/carrt"]:after, .md a[href|="/cereal"]:after, .md a[href|="/cerealspit"]:after, .md a[href|="/challengeaccepted"]:after, .md a[href|="/chrisbrpwnd"]:after, .md a[href|="/creepy"]:after, .md a[href|="/deviltroll"]:after, .md a[href|="/didthere"]:after, .md a[href|="/dino"]:after, .md a[href|="/dinofuckyeah"]:after, .md a[href|="/dinofuckyeah2"]:after, .md a[href|="/dinokay"]:after, .md a[href|="/dinostare"]:after, .md a[href|="/djlovestaco"]:after, .md a[href|="/drunk1"]:after, .md a[href|="/dude"]:after, .md a[href|="/everybodywalkthedinosaur"]:after, .md a[href|="/ewbte"]:after, .md a[href|="/ewbtetext"]:after, .md a[href|="/excitedtroll"]:after, .md a[href|="/eyes"]:after, .md a[href|="/fap"]:after, .md a[href|="/fapfap"]:after, .md a[href|="/feelsbadman"]:after, .md a[href|="/femyao"]:after, .md a[href|="/foreveralone"]:after, .md a[href|="/foreveralonelaugh"]:after, .md a[href|="/foreveralonewithyourmum"]:after, .md a[href|="/freddie"]:after, .md a[href|="/fu"]:after, .md a[href|="/fuckthatshit"]:after, .md a[href|="/fuckyeah"]:after, .md a[href|="/fumanchu"]:after, .md a[href|="/futext"]:after, .md a[href|="/fy1"]:after, .md a[href|="/fyl"]:after, .md a[href|="/gah"]:after, .md a[href|="/gaytroll"]:after, .md a[href|="/gbeh"]:after, .md a[href|="/gfu"]:after, .md a[href|="/ghappy"]:after, .md a[href|="/gohno"]:after, .md a[href|="/gserious"]:after, .md a[href|="/gsmile"]:after, .md a[href|="/gtfo"]:after, .md a[href|="/gtongue"]:after, .md a[href|="/gtroll"]:after, .md a[href|="/guhm"]:after, .md a[href|="/gwah"]:after, .md a[href|="/gwat"]:after, .md a[href|="/gwtf"]:after, .md a[href|="/gyey"]:after, .md a[href|="/hahahahaha"]:after, .md a[href|="/happy"]:after, .md a[href|="/happyjackie"]:after, .md a[href|="/harpdarp"]:after, .md a[href|="/hatersgonnahate"]:after, .md a[href|="/hehheh"]:after, .md a[href|="/high"]:after, .md a[href|="/hmm"]:after, .md a[href|="/iamawaffle"]:after, .md a[href|="/ifeelsyabreh"]:after, .md a[href|="/ifeelyoubrah"]:after, .md a[href|="/igotthis"]:after, .md a[href|="/ilovethebeefytaco"]:after, .md a[href|="/indeed"]:after, .md a[href|="/itstime"]:after, .md a[href|="/jackieeeee!"]:after, .md a[href|="/jackieeeee"]:after, .md a[href|="/jasonqualman"]:after, .md a[href|="/jetpack"]:after, .md a[href|="/jonzibar"]:after, .md a[href|="/knowthatfeel"]:after, .md a[href|="/leftmilk"]:after, .md a[href|="/likealady"]:after, .md a[href|="/likeasir"]:after, .md a[href|="/lol"]:after, .md a[href|="/longneck"]:after, .md a[href|="/megusta"]:after, .md a[href|="/megustaperfect"]:after, .md a[href|="/melvin"]:after, .md a[href|="/milk"]:after, .md a[href|="/no"]:after, .md a[href|="/nomegusta"]:after, .md a[href|="/notbad"]:after, .md a[href|="/notokay"]:after, .md a[href|="/notsureifgusta"]:after, .md a[href|="/nowkiss"]:after, .md a[href|="/ohcrap"]:after, .md a[href|="/ohgodwhy"]:after, .md a[href|="/ohgodyes"]:after, .md a[href|="/ohisthatacarrot"]:after, .md a[href|="/ohmy"]:after, .md a[href|="/okay"]:after, .md a[href|="/omg"]:after, .md a[href|="/perfect"]:after, .md a[href|="/pft"]:after, .md a[href|="/pfttext"]:after, .md a[href|="/pfttxt"]:after, .md a[href|="/pickletime"]:after, .md a[href|="/pissed"]:after, .md a[href|="/poker"]:after, .md a[href|="/puke"]:after, .md a[href|="/red"]:after, .md a[href|="/rightmilk"]:after, .md a[href|="/rmilk"]:after, .md a[href|="/rtroll"]:after, .md a[href|="/sad"]:after, .md a[href|="/sadtroll"]:after, .md a[href|="/schlick"]:after, .md a[href|="/serious"]:after, .md a[href|="/smokeweedeveryday"]:after, .md a[href|="/soclose"]:after, .md a[href|="/son"]:after, .md a[href|="/splashy"]:after, .md a[href|="/stare"]:after, .md a[href|="/steve"]:after, .md a[href|="/straight"]:after, .md a[href|="/suprised"]:after, .md a[href|="/surprised"]:after, .md a[href|="/sweetjesus"]:after, .md a[href|="/table"]:after, .md a[href|="/teeth"]:after, .md a[href|="/teethrage"]:after, .md a[href|="/thestonedmod"]:after, .md a[href|="/thumbsup"]:after, .md a[href|="/tobey"]:after, .md a[href|="/toomuchweed"]:after, .md a[href|="/trap"]:after, .md a[href|="/troll"]:after, .md a[href|="/trolldad"]:after, .md a[href|="/trollmom"]:after, .md a[href|="/trollmum"]:after, .md a[href|="/truestory"]:after, .md a[href|="/uhm"]:after, .md a[href|="/vuvu"]:after, .md a[href|="/wat"]:after, .md a[href|="/wayevil"]:after, .md a[href|="/welp"]:after, .md a[href|="/wetodddog"]:after, .md a[href|="/whoa"]:after, .md a[href|="/why"]:after, .md a[href|="/wtf"]:after, .md a[href|="/yey"]:after, .md a[href|="/youdontsay"]:after, .md a[href|="/yuno"]:after{    width: 25px;    height: 25px;    content: " ";    background-image: url(http://d.thumbs.redditmedia.com/_u_Vj1lVRPIoXCG-.png);    display: inline-block    }
+.md a[href|="/fy1"]:after {    background-position: -240px -30px;    width: 23px;    height: 25px    }
+.md a[href|="/milk"]:after {    background-position: -210px -60px;    width: 21px;    height: 25px    }
+.md a[href|="/pickletime"]:after {    background-position: -240px -87px;    width: 56px;    height: 21px    }
+.md a[href|="/fuckthatshit"]:after {    background-position: 0 -180px;    width: 61px;    height: 88px    }
+.md a[href|="/teethrage"]:after {    background-position: -331px -61px;    width: 59px;    height: 59px    }
+.md a[href|="/foreveralone"]:after {    background-position: -330px -120px;    width: 88px;    height: 95px    }
+.md a[href|="/bzz"]:after {    background-position: -125px -150px;    width: 97px;    height: 28px    }
+.md a[href|="/creepy"]:after {    background-position: -300px -60px;    width: 30px;    height: 31px    }
+.md a[href|="/itstime"]:after {    background-position: -270px -300px;    width: 41px;    height: 41px    }
+.md a[href|="/gtroll"]:after {    background-position: -149px -300px;    width: 35px;    height: 31px    }
+.md a[href|="/fap"]:after {    background-position: -331px -330px;    width: 39px;    height: 45px    }
+.md a[href|="/pfttxt"]:after {    background-position: -120px -571px;    width: 12px;    height: 24px    }
+.md a[href|="/biggusta"]:after {    background-position: -548px -414px;    width: 54px;    height: 57px    }
+.md a[href|="/notsureifgusta"]:after {    background-position: -602px -414px;    width: 54px;    height: 59px    }
+.md a[href|="/hahahahaha"]:after {    background-position: -60px -541px;    width: 35px;    height: 34px    }
+.md a[href|="/2229"]:after {    background-position: -108px -403px;    width: 47px;    height: 67px    }
+.md a[href|="/drunk1"]:after {    background-position: -300px -420px;    width: 36px;    height: 54px    }
+.md a[href|="/truestory"]:after {    background-position: -336px -415px;    width: 59px;    height: 56px    }
+.md a[href|="/didthere"]:after {    background-position: -393px -415px;    width: 57px;    height: 56px    }
+.md a[href|="/tobey"]:after {    background-position: -405px -476px;    width: 45px;    height: 56px    }
+.md a[href|="/hatersgonnahate"]:after {    background-position: -454px -476px;    width: 35px;    height: 56px    }
+.md a[href|="/dinostare"]:after {    background-position: -495px -476px;    width: 82px;    height: 58px    }
+.md a[href|="/puke"]:after {    background-position: -575px -483px;    width: 63px;    height: 50px    }
+.md a[href|="/awthanks"]:after {    background-position: -630px -479px;    width: 60px;    height: 50px    }
+.md a[href|="/knowthatfeel"]:after {    background-position: -450px -415px;    width: 60px;    height: 56px    }
+.md a[href|="/no"]:after {    background-position: -510px -420px;    width: 37px;    height: 48px    }
+.md a[href|="/jackieeeee!"]:after {    background-position: -210px -361px;    width: 95px;    height: 54px    }
+.md a[href|="/happyjackie"]:after {    background-position: -303px -373px;    width: 64px;    height: 40px    }
+.md a[href|="/ohgodwhy"]:after {    background-position: -366px -373px;    width: 36px;    height: 40px    }
+.md a[href|="/ohgodyes"]:after {    background-position: -410px -373px;    width: 42px;    height: 40px    }
+.md a[href|="/jetpack"]:after {    background-position: -451px -373px;    width: 59px;    height: 40px    }
+.md a[href|="/badass"]:after {    background-position: -511px -365px;    width: 68px;    height: 56px    }
+.md a[href|="/soclose"]:after {    background-position: -580px -340px;    width: 70px;    height: 71px    }
+.md a[href|="/allthethings"]:after {    background-position: -590px -300px;    width: 60px;    height: 37px    }
+.md a[href|="/youdontsay"]:after {    background-position: -590px -258px;    width: 60px;    height: 40px    }
+.md a[href|="/dinofuckyeah"]:after {    background-position: -590px -210px;    width: 55px;    height: 45px    }
+.md a[href|="/dinofuckyeah2"]:after {    background-position: -646px -210px;    width: 45px;    height: 45px    }
+.md a[href|="/excitedtroll"]:after {    background-position: -595px -160px;    width: 55px;    height: 50px    }
+.md a[href|="/feelsbadman"]:after {    background-position: -595px -115px;    width: 55px;    height: 50px    }
+ .md a[href|="/21424"]:after {    background-position: -250px -520px;    width: 50px;    height: 75px    }
+.md a[href|="/ohmy"]:after {    background-position: -250px -480px;    width: 46px;    height: 34px    }
+.md a[href|="/likeasir"]:after {    background-position: -304px -472px;    width: 45px;    height: 47px    }
+.md a[href|="/likealady"]:after {    background-position: -349px -472px;    width: 45px;    height: 47px    }
+.md a[href|="/ifeelsyabreh"]:after {    background-position: -450px -30px;    width: 47px;    height: 50px    }
+.md a[href|="/trollmom"]:after {    background-position: -332px -240px;    width: 62px;    height: 80px    }
+.md a[href|="/femyao"]:after {    background-position: -420px -150px;    width: 63px;    height: 66px    }
+.md a[href|="/ilovethebeefytaco"]:after {    background-position: -59px -270px;    width: 32px;    height: 26px    }
+.md a[href|="/gyey"]:after {    background-position: 0 0;    width: 26px;    height: 24px    }
+.md a[href|="/gwat"]:after {    background-position: -30px 0;    width: 26px;    height: 25px    }
+.md a[href|="/gsmile"]:after {    background-position: -60px 0;    width: 26px;    height: 24px    }
+.md a[href|="/gtongue"]:after {    background-position: -90px 0;    width: 26px;    height: 25px    }
+ .md a[href|="/gwah"]:after ,.md a[href|="/gohno"]:after{    background-position: -120px 0;    width: 30px;    height: 30px    }
+.md a[href|="/ghappy"]:after {    background-position: -150px 0;    width: 30px;    height: 30px    }
+.md a[href|="/gbeh"]:after {    background-position: -180px 0;    width: 25px;    height: 25px    }
+.md a[href|="/gohno"]:after {    background-position: -210px 0;    width: 30px;    height: 30px    }
+.md a[href|="/gfu"]:after {    background-position: -240px 0;    width: 24px;    height: 25px    }
+.md a[href|="/guhm"]:after {    background-position: -270px 0;    width: 25px;    height: 30px    }
+.md a[href|="/fu"]:after {    background-position: 0 -29px;    width: 26px;    height: 26px    }
+.md a[href|="/beh"]:after {    background-position: -29px -28px;    width: 27px;    height: 27px    }
+.md a[href|="/gah"]:after {    background-position: -60px -30px;    width: 24px;    height: 26px    }
+.md a[href|="/perfect"]:after {    background-position: -90px -30px;    width: 26px;    height: 23px    }
+.md a[href|="/happy"]:after {    background-position: -120px -30px;    width: 26px;    height: 26px    }
+.md a[href|="/uhm"]:after {    background-position: -150px -30px;    width: 24px;    height: 26px    }
+.md a[href|="/wat"]:after {    background-position: -180px -30px;    width: 25px;    height: 27px    }
+.md a[href|="/yey"]:after {    background-position: -210px -30px;    width: 24px;    height: 26px    }
+.md a[href|="/fuckyeah"]:after {    background-position: -240px -30px;    width: 27px;    height: 23px    }
+.md a[href|="/ewbte"]:after {    background-position: -270px -30px;    width: 24px;    height: 26px    }
+.md a[href|="/son"]:after {    background-position: 0 -60px;    width: 23px;    height: 24px    }
+.md a[href|="/high"]:after {    background-position: -30px -60px;    width: 26px;    height: 25px    }
+.md a[href|="/poker"]:after {    background-position: -60px -60px;    width: 30px;    height: 30px    }
+.md a[href|="/rightmilk"]:after {    background-position: -90px -60px;    width: 23px;    height: 26px    }
+.md a[href|="/megusta"]:after {    background-position: -120px -60px;    width: 25px;    height: 25px    }
+.md a[href|="/troll"]:after {    background-position: -150px -60px;    width: 26px;    height: 27px    }
+.md a[href|="/rtroll"]:after {    background-position: -180px -60px;    width: 25px;    height: 26px    }
+.md a[href|="/leftmilk"]:after {    background-position: -210px -60px;    width: 22px;    height: 26px    }
+.md a[href|="/futext"]:after {    background-position: -240px -60px;    width: 11px;    height: 30px    }
+.md a[href|="/pft"]:after {    background-position: -270px -60px;    width: 24px;    height: 25px    }
+.md a[href|="/sadtroll"]:after {    background-position: 0 -90px;    width: 25px;    height: 25px    }
+.md a[href|="/wetodddog"]:after {    background-position: -30px -90px;    width: 27px;    height: 35px    }
+.md a[href|="/harpdarp"]:after {    background-position: -60px -91px;    width: 35px;    height: 38px    }
+.md a[href|="/dude"]:after {    background-position: -120px -90px;    width: 23px;    height: 26px    }
+.md a[href|="/eyes"]:after {    background-position: -150px -90px;    width: 30px;    height: 30px    }
+.md a[href|="/awman"]:after {    background-position: -180px -90px;    width: 36px;    height: 29px    }
+.md a[href|="/bepsausage"]:after {    background-position: -240px -90px;    width: 57px;    height: 19px    }
+.md a[href|="/lol"]:after {    background-position: 0 -120px;    width: 22px;    height: 26px    }
+.md a[href|="/omg"]:after {    background-position: -120px -120px;    width: 35px;    height: 30px    }
+.md a[href|="/pissed"]:after {    background-position: -180px -120px;    width: 20px;    height: 25px    }
+.md a[href|="/hmm"]:after {    background-position: -210px -120px;    width: 30px;    height: 30px    }
+.md a[href|="/whoa"]:after {    background-position: -240px -120px;    width: 25px;    height: 24px    }
+.md a[href|="/sad"]:after {    background-position: -269px -119px;    width: 25px;    height: 25px    }
+.md a[href|="/thumbsup"]:after {    background-position: 0 -150px;    width: 30px;    height: 25px    }
+.md a[href|="/blackhair"]:after {    background-position: -30px -150px;    width: 25px;    height: 30px    }
+.md a[href|="/hehheh"]:after {    background-position: -60px -150px;    width: 25px;    height: 25px    }
+.md a[href|="/straight"]:after {    background-position: -90px -150px;    width: 25px;    height: 30px    }
+.md a[href|="/bepinthemorning"]:after {    background-position: -120px -150px;    width: 100px;    height: 30px    }
+.md a[href|="/red"]:after {    background-position: -240px -150px;    width: 34px;    height: 30px    }
+.md a[href|="/bepislaughingatyourmum"]:after {    background-position: 0 -180px;    width: 60px;    height: 90px    }
+.md a[href|="/nomegusta"]:after {    background-position: 0 -270px;    width: 24px;    height: 30px    }
+.md a[href|="/wtf"]:after {    background-position: -90px -180px;    width: 60px;    height: 90px    }
+.md a[href|="/trolldad"]:after {    background-position: -180px -180px;    width: 43px;    height: 60px    }
+.md a[href|="/wayevil"]:after {    background-position: -240px -180px;    width: 40px;    height: 40px    }
+.md a[href|="/challengeaccepted"]:after {    background-position: -300px -180px;    width: 30px;    height: 40px    }
+.md a[href|="/melvin"]:after {    background-position: -300px -240px;    width: 30px;    height: 30px    }
+.md a[href|="/welp"]:after {    background-position: -300px -120px;    width: 30px;    height: 33px    }
+.md a[href|="/bepistrollingyoubetter"]:after {    background-position: -300px -60px;    width: 30px;    height: 30px    }
+.md a[href|="/djlovestaco"]:after {    background-position: -60px -270px;    width: 30px;    height: 30px    }
+.md a[href|="/why"]:after {    background-position: -90px -270px;    width: 30px;    height: 30px    }
+ .md a[href|="/suprised"]:after ,.md a[href|="/surprised"]:after{    background-position: -120px -270px;    width: 30px;    height: 30px    }
+.md a[href|="/longneck"]:after {    background-position: 0 -300px;    width: 63px;    height: 54px    }
+.md a[href|="/sweetjesus"]:after {    background-position: -90px -300px;    width: 40px;    height: 38px    }
+.md a[href|="/notokay"]:after {    background-position: 0 -360px;    width: 31px;    height: 37px    }
+.md a[href|="/yuno"]:after {    background-position: -25px -360px;    width: 38px;    height: 44px    }
+ .md a[href|="/awyea"]:after ,.md a[href|="/awyeah"]:after{    background-position: -90px -360px;    width: 65px;    height: 40px    }
+ .md a[href|="/carrt"]:after ,.md a[href|="/ohisthatacarrot"]:after{    background-position: -160px -360px;    width: 32px;    height: 30px    }
+.md a[href|="/iamawaffle"]:after {    background-position: -60px -540px;    width: 33px;    height: 35px    }
+.md a[href|="/jackieeeee"]:after {    background-position: -210px -360px;    width: 100px;    height: 60px    }
+.md a[href|="/aintthatsomeshit"]:after {    background-position: -210px -300px;    width: 50px;    height: 41px    }
+.md a[href|="/igotthis"]:after {    background-position: -270px -300px;    width: 50px;    height: 50px    }
+.md a[href|="/teeth"]:after {    background-position: -330px -60px;    width: 60px;    height: 60px    }
+.md a[href|="/foreveralonewithyourmum"]:after {    background-position: -330px -120px;    width: 90px;    height: 95px    }
+.md a[href|="/megustaperfect"]:after {    background-position: -330px 0;    width: 60px;    height: 52px    }
+.md a[href|="/fapfap"]:after {    background-position: -330px -330px;    width: 45px;    height: 45px    }
+.md a[href|="/schlick"]:after {    background-position: -390px -330px;    width: 40px;    height: 45px    }
+.md a[href|="/hug"]:after {    background-position: -430px -325px;    width: 48px;    height: 48px    }
+.md a[href|="/gtfo"]:after {    background-position: -30px -270px;    width: 30px;    height: 30px    }
+.md a[href|="/stare"]:after {    background-position: -240px -240px;    width: 47px;    height: 36px    }
+.md a[href|="/fumanchu"]:after {    background-position: -180px -240px;    width: 60px;    height: 41px    }
+.md a[href|="/vuvu"]:after {    background-position: -390px 0;    width: 30px;    height: 30px    }
+.md a[href|="/pfttext"]:after {    background-position: -120px -570px;    width: 30px;    height: 30px    }
+.md a[href|="/indeed"]:after {    background-position: -450px 0;    width: 15px;    height: 25px    }
+.md a[href|="/ifeelyoubrah"]:after {    background-position: -450px -30px;    width: 50px;    height: 50px    }
+.md a[href|="/steve"]:after {    background-position: -510px -30px;    width: 40px;    height: 50px    }
+.md a[href|="/serious"]:after {    background-position: -540px -90px;    width: 50px;    height: 50px    }
+.md a[href|="/gserious"]:after {    background-position: -510px -150px;    width: 50px;    height: 50px    }
+.md a[href|="/gaytroll"]:after {    background-position: -540px -210px;    width: 39px;    height: 50px    }
+.md a[href|="/deviltroll"]:after {    background-position: -420px -90px;    width: 37px;    height: 50px    }
+.md a[href|="/freddie"]:after {    background-position: -480px -240px;    width: 48px;    height: 100px    }
+.md a[href|="/thestonedmod"]:after {    background-position: -540px -270px;    width: 50px;    height: 53px    }
+.md a[href|="/notbad"]:after {    background-position: -420px -240px;    width: 42px;    height: 67px    }
+.md a[href|="/trollmum"]:after {    background-position: -330px -240px;    width: 65px;    height: 80px    }
+.md a[href|="/gwtf"]:after {    background-position: -420px -150px;    width: 65px;    height: 65px    }
+.md a[href|="/okay"]:after {    background-position: -390px -30px;    width: 60px;    height: 59px    }
+.md a[href|="/splashy"]:after {    background-position: -240px -420px;    width: 57px;    height: 45px    }
+.md a[href|="/toomuchweed"]:after ,.md a[href|="/smokeweedeveryday"]:after {    background-position: -180px -420px;    width: 45px;    height: 54px    }
+.md a[href|="/chrisbrpwnd"]:after {    background-position: -155px -480px;    width: 91px;    height: 116px    }
+.md a[href|="/dinokay"]:after {    background-position: -300px -520px;    width: 60px;    height: 75px    }
+.md a[href|="/dino"]:after {    background-position: -360px -530px;    width: 43px;    height: 63px    }
+.md a[href|="/table"]:after {    background-position: -405px -555px;    width: 56px;    height: 39px    }
+.md a[href|="/nowkiss"]:after {    background-position: -460px -532px;    width: 73px;    height: 55px    }
+.md a[href|="/everybodywalkthedinosaur"]:after {    background-position: -535px -560px;    width: 75px;    height: 36px    }
+.md a[href|="/angryharpdarp"]:after {    background-position: -612px -555px;    width: 36px;    height: 40px    }
+.md a[href|="/cerealspit"]:after {    background-position: -646px -555px;    width: 52px;    height: 34px    }
+.md a[href|="/biebs"]:after {    background-position: -120px -420px;    width: 49px;    height: 68px    }
+.md a[href|="/cereal"]:after {    background-position: -47px -414px;    width: 40px;    height: 33px    }
+.md a[href|="/foreveralonelaugh"]:after {    background-position: 0 -450px;    width: 75px;    height: 86px    }
+.md a[href|="/ohcrap"]:after {    background-position: 0 -420px;    width: 30px;    height: 29px    }
+.md a[href|="/jasonqualman"]:after {    background-position: -80px -485px;    width: 36px;    height: 50px    }
+.md a[href|="/jonzibar"]:after {    background-position: -119px -480px;    width: 40px;    height: 55px    }
+.md a[href|="/fyl"]:after {    background-position: -90px -480px;    width: 36px;    height: 50px    }
+.md a[href|="/rmilk"]:after {    background-position: -90px -60px;    width: 21px;    height: 25px    }
+.md a[href|="/ewbtetext"]:after {    background-position: -120px -541px;    width: 14px;    height: 10px    }
+.md a[href|="/trap"]:after {    background-position: -480px -90px;    width: 41px;    height: 40px    }
+ .md a[href|="/warning"]:after {    background: #fff url(http://thumbs.reddit.com/t5_2qqlo_21.png) no-repeat center left;    display: inline-block    }
+.md a[href|="/warning"]:after {    width: 14px;    height: 14px;    content: ""    }
+ .md a[href|="/q00"]:after ,.md a[href|="/acceptant"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);        display: inline-block    }
+ .md a[href|="/q10"]:after ,.md a[href|="/detestful"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -16px 0px;    display: inline-block    }
+ .md a[href|="/q20"]:after ,.md a[href|="/devious"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -32px 0px;    display: inline-block    }
+ .md a[href|="/q30"]:after ,.md a[href|="/ecstatic"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -48px 0px;    display: inline-block    }
+ .md a[href|="/q01"]:after ,.md a[href|="/manipulative"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -64px 0px;    display: inline-block    }
+ .md a[href|="/q11"]:after ,.md a[href|="/mirthful"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -80px 0px;    display: inline-block    }
+ .md a[href|="/q21"]:after ,.md a[href|="/perky"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -96px 0px;    display: inline-block    }
+ .md a[href|="/q31"]:after ,.md a[href|="/relaxed"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -112px 0px;    display: inline-block    }
+ .md a[href|="/q02"]:after ,.md a[href|="/vigorous"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -128px 0px;    display: inline-block    }
+ .md a[href|="/q12"]:after ,.md a[href|="/sleek"]:after{    width: 20px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -144px 0px;    display: inline-block    }
+ .md a[href|="/q22"]:after ,.md a[href|="/distraught"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: 0px -16px;    display: inline-block    }
+ .md a[href|="/q32"]:after ,.md a[href|="/amazed"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -16px -16px;    display: inline-block    }
+ .md a[href|="/q03"]:after ,.md a[href|="/bemused"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -32px -16px;    display: inline-block    }
+ .md a[href|="/q13"]:after ,.md a[href|="/chummy"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -48px -16px;    display: inline-block    }
+ .md a[href|="/q23"]:after ,.md a[href|="/insolent"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -64px -16px;    display: inline-block    }
+ .md a[href|="/q33"]:after ,.md a[href|="/kitty"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -80px -16px;    display: inline-block    }
+ .md a[href|="/q04"]:after ,.md a[href|="/pleasant"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -96px -16px;    display: inline-block    }
+ .md a[href|="/q14"]:after ,.md a[href|="/pranky"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -112px -16px;    display: inline-block    }
+ .md a[href|="/q24"]:after ,.md a[href|="/rancorous"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -128px -16px;    display: inline-block    }
+ .md a[href|="/q34"]:after ,.md a[href|="/tense"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -144px -16px;    display: inline-block    }
+ .md a[href|="/q05"]:after ,.md a[href|="/what"]:after{    width: 16px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -160px -16px;    display: inline-block    }
+ .md a[href|="/q15"]:after ,.md a[href|="/cool"]:after{    width: 17px;    height: 16px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -176px -16px;    display: inline-block    }
+.md a[href|="/mspa"]:after {    width: 21px;    height: 17px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: 0px -32px;    display: inline-block    }
+ .md a[href|="/a35"]:after ,.md a[href|="/pumpkin"]:after{    width: 28px;    height: 24px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -288px -213px;    display: inline-block    }
+.md a[href|="/bro"]:after {    width: 102px;    height: 49px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -217px 0px;    display: inline-block    }
+.md a[href|="/dave"]:after {    width: 81px;    height: 91px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: 0px -50px;    display: inline-block    }
+.md a[href|="/kkwtf"]:after {    width: 56px;    height: 91px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -83px -50px;    display: inline-block    }
+.md a[href|="/vriska"]:after {    width: 59px;    height: 92px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -140px -49px;    display: inline-block    }
+.md a[href|="/feferi"]:after {    width: 120px;    height: 91px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -200px -50px;    display: inline-block    }
+.md a[href|="/sbro"]:after {    width: 68px;    height: 70px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -9px -143px;    display: inline-block    }
+.md a[href|="/hjeff"]:after {    width: 74px;    height: 70px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -92px -143px;    display: inline-block    }
+.md a[href|="/johnderp"]:after {    width: 83px;    height: 70px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -167px -143px;    display: inline-block    }
+.md a[href|="/equius"]:after {    width: 69px;    height: 70px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -250px -143px;    display: inline-block    }
+.md a[href|="/kksad"]:after {    width: 77px;    height: 70px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: 0px -212px;    display: inline-block    }
+.md a[href|="/jackdwi"]:after {    width: 90px;    height: 67px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -78px -213px;    display: inline-block    }
+.md a[href|="/dutton"]:after {    width: 48px;    height: 70px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -169px -212px;    display: inline-block    }
+.md a[href|="/lilcal"]:after {    width: 68px;    height: 64px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: -219px -218px;    display: inline-block    }
+.md a[href|="/sweetcatch"]:after {    width: 80px;    height: 35px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: 0px -282px;    display: inline-block    }
+.md a[href|="/dogs"]:after {    content: "";    background-image: url(http://a.thumbs.redditmedia.com/cWmZwgBCRVpGSofl.png);    width: 110px;    height: 89px;    display: inline-block    }
+.md a[href|="/mspareader"]:after {    width: 32px;    height: 32px;    content: "";    background-image: url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);    background-position: 0 -320px;    display: inline-block    }
