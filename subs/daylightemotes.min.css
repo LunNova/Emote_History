@@ -1,12 +1,12 @@
-/*Parsed 128 emote aliases.*/
-.G_darklefacehoof_,.G_darklerage_{display:block;clear:none;float:left;width:50px;height:50px;background-image:url(http://f.thumbs.redditmedia.com/7YZVem6weUXtdzfM.png)}
-.G_rdarklefacehoof_,.G_rdarklerage_{display:block;clear:none;float:left;width:50px;height:50px;background-image:url(http://d.thumbs.redditmedia.com/RBG-mt6jhvawJ-WW.png)}
+
+.G_darklefacehoof_,.G_darklerage_{width:50px;height:50px;background-image:url(http://f.thumbs.redditmedia.com/7YZVem6weUXtdzfM.png)}
+.G_rdarklefacehoof_,.G_rdarklerage_{width:50px;height:50px;background-image:url(http://d.thumbs.redditmedia.com/RBG-mt6jhvawJ-WW.png)}
 .G_darklerage_,.G_rdarklerage_{background-position:-100px -450px}
 .G_darklefacehoof_,.G_rdarklefacehoof_{background-position:-150px -400px}
-.G_darklesmile_,.G_darklesmug_,.G_darklestare_{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://e.thumbs.redditmedia.com/yFeg2zwZ5IdlGtEL.png)}
-.G_rdarklesmile_,.G_rdarklesmug_,.G_rdarklestare_{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://e.thumbs.redditmedia.com/Rb70kimzCBXBkSSL.png)}
-.G_darkleapathy_,.G_darklebeam_,.G_darklecrazy_,.G_darklehmm_,.G_darklepride_,.G_darkleunimpressed_,.G_dbaconisareallylongemotenamesonoonewilluseitsuckitave_,.G_dwatching_{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://f.thumbs.redditmedia.com/-V4Q6hK9nKYY-KxG.png)}
-.G_rdarklebeam_,.G_rdarklecrazy_,.G_rdarklepride_{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://a.thumbs.redditmedia.com/-dL2k6urlB4KN6hH.png)}
+.G_darklesmile_,.G_darklesmug_,.G_darklestare_{width:70px;height:70px;background-image:url(http://e.thumbs.redditmedia.com/yFeg2zwZ5IdlGtEL.png)}
+.G_rdarklesmile_,.G_rdarklesmug_,.G_rdarklestare_{width:70px;height:70px;background-image:url(http://e.thumbs.redditmedia.com/Rb70kimzCBXBkSSL.png)}
+.G_darkleapathy_,.G_darklebeam_,.G_darklecrazy_,.G_darklehmm_,.G_darklepride_,.G_darkleunimpressed_,.G_dbaconisareallylongemotenamesonoonewilluseitsuckitave_,.G_dwatching_{width:70px;height:70px;background-image:url(http://f.thumbs.redditmedia.com/-V4Q6hK9nKYY-KxG.png)}
+.G_rdarklebeam_,.G_rdarklecrazy_,.G_rdarklepride_{width:70px;height:70px;background-image:url(http://a.thumbs.redditmedia.com/-dL2k6urlB4KN6hH.png)}
 .G_darklepride_,.G_rdarklepride_,.G_darklesmug_,.G_rdarklesmug_{background-position:-0px -70px}
 .G_darklecrazy_,.G_rdarklecrazy_,.G_darklestare_,.G_rdarklestare_{background-position:-140px -70px}
 .G_darklebeam_,.G_rdarklebeam_{background-position:-140px -210px}
@@ -15,67 +15,67 @@
 .G_dwatching_{background-position:-140px -0px}
 .G_dbaconisareallylongemotenamesonoonewilluseitsuckitave_{background-position:-0px -140px}
 .G_darkleclop_{background-position:-250px -180px}
-.G_darklehat_{display:block;clear:none;float:left;width:130px;height:150px;background-image:url(http://d.thumbs.redditmedia.com/v0xA6gFxlpBur8vi.png)}
+.G_darklehat_{width:130px;height:150px;background-image:url(http://d.thumbs.redditmedia.com/v0xA6gFxlpBur8vi.png)}
 .G_darklehat_{background-position:-131px -267px}
-.G_darkleok_{display:block;clear:none;float:left;width:60px;height:73px;background-image:url(http://d.thumbs.redditmedia.com/v0xA6gFxlpBur8vi.png)}
+.G_darkleok_{width:60px;height:73px;background-image:url(http://d.thumbs.redditmedia.com/v0xA6gFxlpBur8vi.png)}
 .G_darkleok_{background-position:-0px -266px}
-.G_darkleno_{display:block;clear:none;float:left;width:200px;height:175px;background-image:url(http://d.thumbs.redditmedia.com/v0xA6gFxlpBur8vi.png)}
+.G_darkleno_{width:200px;height:175px;background-image:url(http://d.thumbs.redditmedia.com/v0xA6gFxlpBur8vi.png)}
 .G_darkleno_{background-position:-250px -0px}
-.G_darkleye_{display:block;clear:none;float:left;width:70px;height:67px;background-image:url(http://d.thumbs.redditmedia.com/v0xA6gFxlpBur8vi.png)}
+.G_darkleye_{width:70px;height:67px;background-image:url(http://d.thumbs.redditmedia.com/v0xA6gFxlpBur8vi.png)}
 .G_darkleye_{background-position:-60px -266px}
-.G_dzz00_{display:block;clear:none;float:left;width:60px;height:65px;background-image:url(http://d.thumbs.redditmedia.com/v0xA6gFxlpBur8vi.png)}
+.G_dzz00_{width:60px;height:65px;background-image:url(http://d.thumbs.redditmedia.com/v0xA6gFxlpBur8vi.png)}
 .G_dzz00_{background-position:-450px -0px}
-.G_darklehate_{display:block;clear:none;float:left;width:290px;height:184px;background-image:url(http://d.thumbs.redditmedia.com/v0xA6gFxlpBur8vi.png)}
+.G_darklehate_{width:290px;height:184px;background-image:url(http://d.thumbs.redditmedia.com/v0xA6gFxlpBur8vi.png)}
 .G_darklehate_{background-position:-320px -176px}
-.G_darklemina_,.G_dv10_{display:block;clear:none;float:left;width:55px;height:69px;background-image:url(http://d.thumbs.redditmedia.com/v0xA6gFxlpBur8vi.png)}
+.G_darklemina_,.G_dv10_{width:55px;height:69px;background-image:url(http://d.thumbs.redditmedia.com/v0xA6gFxlpBur8vi.png)}
 .G_darklemina_,.G_dv10_{background-position:-450px -66px}
-.G_darkletrix_{display:block;clear:none;float:left;width:100px;height:89px;background-image:url(http://d.thumbs.redditmedia.com/v0xA6gFxlpBur8vi.png)}
+.G_darkletrix_{width:100px;height:89px;background-image:url(http://d.thumbs.redditmedia.com/v0xA6gFxlpBur8vi.png)}
 .G_darkletrix_{background-position:-510px -0px}
-.G_dw01_,.G_darkleclop_{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://d.thumbs.redditmedia.com/v0xA6gFxlpBur8vi.png)}
+.G_dw01_,.G_darkleclop_{width:70px;height:70px;background-image:url(http://d.thumbs.redditmedia.com/v0xA6gFxlpBur8vi.png)}
 .G_dw01_{background-position:-510px -95px}
-.G_dyy01_{display:block;clear:none;float:left;width:150px;height:145px;background-image:url(http://a.thumbs.redditmedia.com/tGZ6u-G8O0fpj4u6.png)}
+.G_dyy01_{width:150px;height:145px;background-image:url(http://a.thumbs.redditmedia.com/tGZ6u-G8O0fpj4u6.png)}
 .G_dyy01_{background-position:-465px -0px}
-.G_dyy02_{display:block;clear:none;float:left;width:149px;height:145px;background-image:url(http://a.thumbs.redditmedia.com/tGZ6u-G8O0fpj4u6.png)}
+.G_dyy02_{width:149px;height:145px;background-image:url(http://a.thumbs.redditmedia.com/tGZ6u-G8O0fpj4u6.png)}
 .G_dyy02_{background-position:-466px -145px}
 .G_dyy03_{background-position:-468px -295px}
 .G_dyy04_{background-position:-465px -450px}
 .G_dyy05_{background-position:-465px -600px}
 .G_dyy11_{background-position:-615px -0px}
-.G_dyy12_{display:block;clear:none;float:left;width:149px;height:150px;background-image:url(http://a.thumbs.redditmedia.com/tGZ6u-G8O0fpj4u6.png)}
+.G_dyy12_{width:149px;height:150px;background-image:url(http://a.thumbs.redditmedia.com/tGZ6u-G8O0fpj4u6.png)}
 .G_dyy12_{background-position:-616px -145px}
 .G_dyy13_{background-position:-615px -297px}
-.G_dyy14_,.G_dyy13_,.G_dyy11_,.G_dyy04_,.G_dyy03_{display:block;clear:none;float:left;width:150px;height:150px;background-image:url(http://a.thumbs.redditmedia.com/tGZ6u-G8O0fpj4u6.png)}
+.G_dyy14_,.G_dyy13_,.G_dyy11_,.G_dyy04_,.G_dyy03_{width:150px;height:150px;background-image:url(http://a.thumbs.redditmedia.com/tGZ6u-G8O0fpj4u6.png)}
 .G_dyy14_{background-position:-615px -450px}
-.G_dyy15_,.G_dyy05_{display:block;clear:none;float:left;width:150px;height:138px;background-image:url(http://a.thumbs.redditmedia.com/tGZ6u-G8O0fpj4u6.png)}
+.G_dyy15_,.G_dyy05_{width:150px;height:138px;background-image:url(http://a.thumbs.redditmedia.com/tGZ6u-G8O0fpj4u6.png)}
 .G_dyy15_{background-position:-615px -600px}
-.G_darkleflip_{display:block;clear:none;float:left;width:200px;height:135px;background-image:url(http://a.thumbs.redditmedia.com/tGZ6u-G8O0fpj4u6.png)}
-.G_darklehorn_{display:block;clear:none;float:left;width:200px;height:120px;background-image:url(http://a.thumbs.redditmedia.com/tGZ6u-G8O0fpj4u6.png)}
+.G_darkleflip_{width:200px;height:135px;background-image:url(http://a.thumbs.redditmedia.com/tGZ6u-G8O0fpj4u6.png)}
+.G_darklehorn_{width:200px;height:120px;background-image:url(http://a.thumbs.redditmedia.com/tGZ6u-G8O0fpj4u6.png)}
 .G_darklehorn_{background-position:-0px -136px}
-.G_darklewhy_{display:block;clear:none;float:left;width:185px;height:150px;background-image:url(http://a.thumbs.redditmedia.com/tGZ6u-G8O0fpj4u6.png)}
+.G_darklewhy_{width:185px;height:150px;background-image:url(http://a.thumbs.redditmedia.com/tGZ6u-G8O0fpj4u6.png)}
 .G_darklewhy_{background-position:-200px -0px}
-.G_darklelicious_{display:block;clear:none;float:left;width:600px;height:600px;background-image:url(http://e.thumbs.redditmedia.com/FkUaYPZv0ORPNau4.png);margin-left:3px;margin-right:3px}
-.G_darkletines_{display:block;clear:none;float:left;width:100px;height:105px;background-image:url(http://d.thumbs.redditmedia.com/nWmDa2kY7hKLHNr-.png)}
+.G_darklelicious_{width:600px;height:600px;background-image:url(http://e.thumbs.redditmedia.com/FkUaYPZv0ORPNau4.png);margin-left:3px;margin-right:3px}
+.G_darkletines_{width:100px;height:105px;background-image:url(http://d.thumbs.redditmedia.com/nWmDa2kY7hKLHNr-.png)}
 .G_darkletines_{background-position:-0px -85px}
-.G_pix_{display:block;clear:none;float:left;width:100px;height:129px;background-image:url(http://e.thumbs.redditmedia.com/nvPxI17wbGKU99Ev.png)}
-.G_lulu_{display:block;clear:none;float:left;width:60px;height:77px;background-image:url(http://f.thumbs.redditmedia.com/nxPak4vremqwjFUG.png)}
-.G_cupcake_{display:block;clear:none;float:left;width:100px;height:103px;background-image:url(http://b.thumbs.redditmedia.com/8sruN9l4eYazv587.png)}
-.G_discordYES_{display:block;clear:none;float:left;width:200px;height:200px;background-image:url(http://e.thumbs.redditmedia.com/X5-jLiBIpV0R3Rwp.png)}
-.G_cottoncandy_{display:block;clear:none;float:left;width:150px;height:83px;background-image:url(http://d.thumbs.redditmedia.com/ccYKKYs6rkQN7-RQ.png)}
-.G_refrefref_{display:block;clear:none;float:left;width:176px;height:174px;background-image:url(http://f.thumbs.redditmedia.com/DcGkHJT3e8lm8DU_.png)}
-.G_bigbacon_{display:block;clear:none;float:left;width:321px;height:300px;background-image:url(http://a.thumbs.redditmedia.com/J4JBs1YP2Pw-RLSN.png)}
-.G_chivswag_{display:block;clear:none;float:left;width:200px;height:207px;background-image:url(http://c.thumbs.redditmedia.com/dDcbgUrAIB-ERYuh.png)}
-.G_thiscord_{display:block;clear:none;float:left;width:149px;height:126px;background-image:url(http://d.thumbs.redditmedia.com/qttc5Gq4nfPVqEnW.png)}
+.G_pix_{width:100px;height:129px;background-image:url(http://e.thumbs.redditmedia.com/nvPxI17wbGKU99Ev.png)}
+.G_lulu_{width:60px;height:77px;background-image:url(http://f.thumbs.redditmedia.com/nxPak4vremqwjFUG.png)}
+.G_cupcake_{width:100px;height:103px;background-image:url(http://b.thumbs.redditmedia.com/8sruN9l4eYazv587.png)}
+.G_discordYES_{width:200px;height:200px;background-image:url(http://e.thumbs.redditmedia.com/X5-jLiBIpV0R3Rwp.png)}
+.G_cottoncandy_{width:150px;height:83px;background-image:url(http://d.thumbs.redditmedia.com/ccYKKYs6rkQN7-RQ.png)}
+.G_refrefref_{width:176px;height:174px;background-image:url(http://f.thumbs.redditmedia.com/DcGkHJT3e8lm8DU_.png)}
+.G_bigbacon_{width:321px;height:300px;background-image:url(http://a.thumbs.redditmedia.com/J4JBs1YP2Pw-RLSN.png)}
+.G_chivswag_{width:200px;height:207px;background-image:url(http://c.thumbs.redditmedia.com/dDcbgUrAIB-ERYuh.png)}
+.G_thiscord_{width:149px;height:126px;background-image:url(http://d.thumbs.redditmedia.com/qttc5Gq4nfPVqEnW.png)}
 .G_thiscord_,.G_chivswag_,.G_bigbacon_,.G_refrefref_,.G_cottoncandy_,.G_discordYES_,.G_cupcake_,.G_lulu_,.G_pix_,.G_darkleflip_,.G_darkleunimpressed_{background-position:-0px -0px}
-.G_iseewhatyoudidthere_,.G_nobiggie_,.G_ohfine_,.G_w999_{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://d.thumbs.redditmedia.com/qttc5Gq4nfPVqEnW.png)}
+.G_iseewhatyoudidthere_,.G_nobiggie_,.G_ohfine_,.G_w999_{width:70px;height:70px;background-image:url(http://d.thumbs.redditmedia.com/qttc5Gq4nfPVqEnW.png)}
 .G_ohfine_{background-position:-0px -127px}
 .G_nobiggie_{background-position:-0px -197px}
 .G_iseewhatyoudidthere_{background-position:-0px -267px}
 .G_w999_{background-position:-130px -129px}
-.G_dismad_{display:block;clear:none;float:left;width:50px;height:46px;background-image:url(http://d.thumbs.redditmedia.com/qttc5Gq4nfPVqEnW.png)}
+.G_dismad_{width:50px;height:46px;background-image:url(http://d.thumbs.redditmedia.com/qttc5Gq4nfPVqEnW.png)}
 .G_dismad_{background-position:-70px -127px}
-.G_hmmyesquite_{display:block;clear:none;float:left;width:60px;height:60px;background-image:url(http://d.thumbs.redditmedia.com/qttc5Gq4nfPVqEnW.png)}
+.G_hmmyesquite_{width:60px;height:60px;background-image:url(http://d.thumbs.redditmedia.com/qttc5Gq4nfPVqEnW.png)}
 .G_hmmyesquite_{background-position:-70px -173px}
-.G_flipscord_{display:block;clear:none;float:left;width:200px;height:129px;background-image:url(http://d.thumbs.redditmedia.com/qttc5Gq4nfPVqEnW.png)}
+.G_flipscord_{width:200px;height:129px;background-image:url(http://d.thumbs.redditmedia.com/qttc5Gq4nfPVqEnW.png)}
 .G_flipscord_{background-position:-150px -0px}
-.G_seriouslydiscord_{display:block;clear:none;float:left;width:178px;height:200px;background-image:url(http://d.thumbs.redditmedia.com/qttc5Gq4nfPVqEnW.png)}
+.G_seriouslydiscord_{width:178px;height:200px;background-image:url(http://d.thumbs.redditmedia.com/qttc5Gq4nfPVqEnW.png)}
 .G_seriouslydiscord_{background-position:-350px -0px}
