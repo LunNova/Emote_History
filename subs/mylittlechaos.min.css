@@ -1,5 +1,5 @@
-/*Parsed 24 emote aliases.*/
-.G_chaos00_,.G_chaos01_,.G_chaos02_,.G_chaos10_,.G_chaos10e_,.G_chaos11_,.G_chaos12_,.G_sayno_,.G_saynoe_{display:block;clear:none;float:left;background-image:url(http://f.thumbs.redditmedia.com/DzeuoOHG6Fujg_CA.png)}
+
+.G_chaos00_,.G_chaos01_,.G_chaos02_,.G_chaos10_,.G_chaos10e_,.G_chaos11_,.G_chaos12_,.G_sayno_,.G_saynoe_{background-image:url(http://f.thumbs.redditmedia.com/DzeuoOHG6Fujg_CA.png)}
 .G_chaos00_{width:133px;height:150px;background-position:-0px -0px}
 .G_chaos01_{width:110px;height:150px;background-position:-133px -0px}
 .G_chaos02_{width:95px;height:150px;background-position:-243px -0px}
@@ -9,9 +9,9 @@
 .G_chaos12_{width:75px;height:150px;background-position:-240px -150px}
 .G_sayno_{width:75px;height:75px;background-position:-338px -50px}
 .G_saynoe_{width:75px;height:125px;background-position:-338px -0px}
-.G_sphlyrafun_{clear:none;display:block;float:left;background-image:url(http://f.thumbs.redditmedia.com/XbRIUePsEIGJ1xSM.png);width:201px;height:136px}
-.G_nightmarenyx_{clear:none;display:block;float:left;background-image:url(http://d.thumbs.redditmedia.com/gDFiVvnVsfiZR08-.png);width:300px;height:450px}
-.G_twiday_{display:block;clear:none;float:left;background-image:url(http://b.thumbs.redditmedia.com/10eaVU_qR2dsskLO.png);width:600px;height:568px;margin-bottom:5px;margin-right:5px}
-.G_taco_{width:72px;height:41px;background-image:url(http://c.thumbs.redditmedia.com/nf4qPM2AARBoDPH2.png);display:block;clear:none;float:left;margin-bottom:5px;margin-right:5px}
-.G_rapidfire_{width:529px;height:293px;background-image:url(http://e.thumbs.redditmedia.com/7QEw1jFxlFYxgwbL.png);display:block;clear:none;float:left;margin-bottom:5px;margin-right:5px}
-.G_fillyderp_{width:281px;height:274px;background-image:url(http://b.thumbs.redditmedia.com/k9i_G9OPiiCJkY5m.png);display:block;clear:none;float:left;margin-bottom:5px;margin-right:5px}
+.G_sphlyrafun_{background-image:url(http://f.thumbs.redditmedia.com/XbRIUePsEIGJ1xSM.png);width:201px;height:136px}
+.G_nightmarenyx_{background-image:url(http://d.thumbs.redditmedia.com/gDFiVvnVsfiZR08-.png);width:300px;height:450px}
+.G_twiday_{background-image:url(http://b.thumbs.redditmedia.com/10eaVU_qR2dsskLO.png);width:600px;height:568px;margin-bottom:5px;margin-right:5px}
+.G_taco_{width:72px;height:41px;background-image:url(http://c.thumbs.redditmedia.com/nf4qPM2AARBoDPH2.png);margin-bottom:5px;margin-right:5px}
+.G_rapidfire_{width:529px;height:293px;background-image:url(http://e.thumbs.redditmedia.com/7QEw1jFxlFYxgwbL.png);margin-bottom:5px;margin-right:5px}
+.G_fillyderp_{width:281px;height:274px;background-image:url(http://b.thumbs.redditmedia.com/k9i_G9OPiiCJkY5m.png);margin-bottom:5px;margin-right:5px}
