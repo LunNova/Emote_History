@@ -1,4 +1,4 @@
-/*Parsed 12964 emote aliases.*/
+/*Parsed 12983 emote aliases.*/
 .G_today_{background-image:url(http://d.thumbs.redditmedia.com/dN7SE1I0H0ul7jP-.png);width:500px;height:270px}
 .G_imamakethisanemoterealquick_{background-image:url(http://e.thumbs.redditmedia.com/reUrhLuICVFtwobp.png);width:456px;height:304px}
 .G_lunafilly_{background-image:url(http://b.thumbs.redditmedia.com/z-06hS5Md37RrzKy.png)}
@@ -188,7 +188,17 @@
 .G_cuttershyfrown_{width:146px;height:139px;background-image:url(http://a.thumbs.redditmedia.com/xTnVkAdyBI-TBwaN.png)}
 .G_rockershy_{width:225px;height:236px;background-image:url(http://e.thumbs.redditmedia.com/cdnucbERsbTSUM1p.png)}
 .G_cuttershy_{width:263px;height:190px;background-image:url(http://d.thumbs.redditmedia.com/mAcfxcxOV-IYO70o.png)}
-.G_akshrug_{width:100px;height:98px;background-image:url(http://d.thumbs.redditmedia.com/hzT87jEcm90-84xE.png)}
+.G_fut10_,.G_fut11_,.G_fut12_,.G_fut2_,.G_fut3_,.G_fut5_,.G_fut6_,.G_fut7_,.G_fut8_,.G_fut9_{background-image:url(http://e.thumbs.redditmedia.com/SNPxQ14WGB7Hi-Ed.png)}
+.G_fut2_{height:225px;width:353px;background-position:-280px 0}
+.G_fut3_{height:300px;width:244px;background-position:-280px -225px}
+.G_fut5_{height:300px;width:282px;background-position:-827px -225px}
+.G_fut6_{height:200px;width:249px;background-position:-633px 0}
+.G_fut7_{height:250px;width:304px;background-position:-524px -625px}
+.G_fut8_{height:250px;width:242px;background-position:-280px -525px}
+.G_fut9_{height:250px;width:280px;background-position:-828px -625px}
+.G_fut10_{height:200px;width:170px;background-position:0 -400px}
+.G_fut11_{height:200px;width:178px;background-position:0 -600px}
+.G_fut12_{height:200px;width:242px;background-position:0 -800px}
 .G_bugs_,.G_coconutmonkey_,.G_hellocake_,.G_pan10_,.G_pancalcos_,.G_panwaffbattle_,.G_pfreeman_,.G_pgaben_,.G_smothered_,.G_torgo_{height:150px;background-image:url(http://c.thumbs.redditmedia.com/wRrTgO2sQY6IR0Mt.png)}
 .G_smothered_{background-position:-0px -0px;width:185px}
 .G_coconutmonkey_{background-position:-185px -0px;width:150px}
