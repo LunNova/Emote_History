@@ -1,4 +1,4 @@
-/*Parsed 78 emote aliases.*/
+/*Parsed 76 emote aliases.*/
 .G_dashurbate_{width:133px;height:150px;background-image:url(http://e.thumbs.redditmedia.com/5uosEn09yJf_tKUv.png)}
 .G_jizz_{width:160px;height:97px;background-image:url(http://d.thumbs.redditmedia.com/K3_bLeg6rbxjuJYc.png)}
 .G_bigenough_{width:1128px;height:1250px;background-image:url(http://c.thumbs.redditmedia.com/lfTijbZZCPlbHbYh.png)}
@@ -9,7 +9,7 @@
 .G_horsecock_,.G_horsedick_{background-image:url(http://c.thumbs.redditmedia.com/g94qfMSFxa5CMVR8.png)}
 .G_horsedick_{width:100px;height:40px;background-position:-0px -0px}
 .G_horsecock_{width:100px;height:65px;background-position:-0px -40px}
-/*Parsed 47 emote aliases.*/.G_caff_{width:388px;height:300px;background-image:url(http://d.thumbs.redditmedia.com/bUE83VcG6h4MMjGc.png)}
+.G_caff_{width:388px;height:300px;background-image:url(http://d.thumbs.redditmedia.com/bUE83VcG6h4MMjGc.png)}
 .G_ajmad_{width:615px;height:521px;background-image:url(http://e.thumbs.redditmedia.com/r5J7XSEF5hZeziYj.png)}
 .G_scootafine_{width:573px;height:635px;background-image:url(http://c.thumbs.redditmedia.com/EBQ-eyN3A3Mmz-ut.png)}
 .G_bob_{width:600px;height:300px;background-image:url(http://e.thumbs.redditmedia.com/KZObczZ0_FF4gnfv.png)}
@@ -18,7 +18,7 @@
 .G_andy_{width:396px;height:403px;background-position:-0px -0px}
 .G_kitty_{width:306px;height:300px;background-position:-430px -91px}
 .G_books_{width:70px;height:71px;background-position:-552px -0px}
-.G_fut10_,.G_fut11_,.G_fut12_,.G_fut1_,.G_fut2_,.G_fut3_,.G_fut4_,.G_fut5_,.G_fut6_,.G_fut7_,.G_fut8_,.G_fut9_,/*Parsed 136 emote aliases.*/.G_fut1_{background-image:url(http://e.thumbs.redditmedia.com/SNPxQ14WGB7Hi-Ed.png)}
+.G_fut10_,.G_fut11_,.G_fut12_,.G_fut1_,.G_fut2_,.G_fut3_,.G_fut4_,.G_fut5_,.G_fut6_,.G_fut7_,.G_fut8_,.G_fut9_{background-image:url(http://e.thumbs.redditmedia.com/SNPxQ14WGB7Hi-Ed.png)}
 .G_fut1_{height:400px;width:280px;background-position:0 0}
 .G_fut2_{height:225px;width:353px;background-position:-280px 0}
 .G_fut3_{height:300px;width:244px;background-position:-280px -225px}
@@ -35,11 +35,10 @@
 .G_fut13_,.G_futacute_{height:300px;width:253px;background-position:0 0}
 .G_fut14_,.G_futaplot_{height:345px;width:400px;background-position:-253px 0}
 .G_fut15_,.G_futapomf_{height:352px;width:350px;background-position:-253px -345px}
-.md a[href*="motherless.com"]:after,.md a[href*="static.fjcdn.com"]:after,/*Parsed 10 emote aliases.*/.md a[href*="images.4chan.org"]:after{color:gray;content:"] - |relocation advised; inclined to evanesce| "}
+.md a[href*="images.4chan.org"]:after,.md a[href*="motherless.com"]:after,.md a[href*="static.fjcdn.com"]:after{color:gray;content:"] - |relocation advised; inclined to evanesce| "}
 .md a[href*="images.4chan.org"]:before,.md a[href*="motherless.com"]:before,.md a[href*="static.fjcdn.com"]:before{color:gray;content:"["}
 .G_sandwich_{float:none;width:258px;height:212px;background-position:-0px -0px;background-image:url(http://a.thumbs.redditmedia.com/xqcT95cAGpl1Xmdf.png)}
 .G_swh7s_{float:none;width:300px;height:263px;background-position:-0px -0px;background-image:url(http://e.thumbs.redditmedia.com/XqDfRoy7kKraBSCL.png)}
-/*Parsed 1051 emote aliases.*/.G_abwut_{width:50px;height:50px;background-image:url(http://thumbs.reddit.com/t5_2skff_3.png)}
 .G_cl00_,.G_futashy_,.G_rcl00_,.G_rfutashy_{width:70px;height:70px;background-image:url(http://d.thumbs.redditmedia.com/gJdjW6-2MiXCes53.png)}
 .G_cl00_,.G_futashy_{background-position:-0px -0px}
 .G_rcl00_,.G_rfutashy_{background-position:-70px -0px}
