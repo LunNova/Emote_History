@@ -1,4 +1,4 @@
-/*Parsed 235 emote aliases.*/
+/*Parsed 237 emote aliases.*/
 .G_spoiler_{background:#000;color:#000;cursor:text}
 .G_spoiler_:hover{background:#fff;color:#000}
 .G_flutterumm_,.G_flutterwhat_,.G_sackflip_,.G_sackfun_,.G_shitemote_{background-image:url(http://d.thumbs.redditmedia.com/DUaiuDPgJYWcPwWu.png)}
@@ -64,7 +64,7 @@
 .G_cowpony_{width:147px;height:177px;background-position:-0px -0px}
 .G_creamsicle_{width:127px;height:163px;background-position:-0px -177px}
 .G_queencheer_{width:155px;height:127px;background-position:-0px -340px}
-.G_ajFoF_,.G_ajfof_,.G_bonheart_,.G_chaosgun_,.G_crackle_,.G_discordquite_,.G_fillyab_,.G_fillyaj_,.G_fillybonbon_,.G_fillycelestia_,.G_fillycheerile_,.G_fillydash_,.G_fillydashready_,.G_fillyderpy_,.G_fillydis_,.G_fillyflirt_,.G_fillyfluttershy_,.G_fillyfluttershysing_,.G_fillyfritter_,.G_fillykarma_,.G_fillyluna_,.G_fillylyra_,.G_fillyoctavia_,.G_fillypinkie_,.G_fillyrd_,.G_fillyrose_,.G_fillysbstare_,.G_fillyspitfire_,.G_fillystrudel_,.G_fillytrixie_,.G_fillytwidance_,.G_fillyvinyl_,.G_ppsoawesome_,.G_ppwhat_,.G_rarityfilly_,.G_scootasmile_,.G_scootawat_{background-image:url(http://a.thumbs.redditmedia.com/24oit14kyUU5Bzir.png)}
+.G_abthis_,.G_ajFoF_,.G_ajfof_,.G_bonheart_,.G_chaosgun_,.G_crackle_,.G_discordquite_,.G_fillyab_,.G_fillyaj_,.G_fillybonbon_,.G_fillycelestia_,.G_fillycheerile_,.G_fillydash_,.G_fillydashready_,.G_fillyderpy_,.G_fillydis_,.G_fillyflirt_,.G_fillyfluttershy_,.G_fillyfluttershysing_,.G_fillyfritter_,.G_fillykarma_,.G_fillyluna_,.G_fillylyra_,.G_fillyoctavia_,.G_fillypinkie_,.G_fillyrd_,.G_fillyrose_,.G_fillysbstare_,.G_fillyspitfire_,.G_fillystrudel_,.G_fillytrixie_,.G_fillytwidance_,.G_fillyvinyl_,.G_ppsoawesome_,.G_ppwhat_,.G_rarityfilly_,.G_scootasmile_,.G_scootawat_{background-image:url(http://c.thumbs.redditmedia.com/fibWbO9eVoHcqoNh.png)}
 .G_fillyab_{height:70px;width:52px;background-position:0px 0px}
 .G_fillyaj_{height:70px;width:58px;background-position:-52px 0px}
 .G_fillybonbon_{height:70px;width:62px;background-position:-110px 0px}
@@ -100,6 +100,7 @@
 .G_crackle_{height:150px;width:198px;background-position:-0px -677px}
 .G_scootawat_{height:115px;width:115px;background-position:-198px -711px}
 .G_discordquite_{height:150px;width:126px;background-position:-313px -676px}
+.G_abthis_{height:105px;width:123px;background-position:-0px -835px}
 .G_artfun_,.G_bryvoodfun_,.G_pixelfun_{background-image:url(http://a.thumbs.redditmedia.com/oKR1l6L29UAOWRwB.png);width:212px;height:166px}
 .G_bryvoodfun_{background-position:-2px -170px}
 .G_artfun_{background-position:-2px -2px}
