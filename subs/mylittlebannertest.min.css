@@ -24,7 +24,7 @@
 .G_ban_:before{content:"(USER WAS BANNED FOR THIS POST)";font-size:10pt;font-weight:bold;font-family:arial, helvetica, sans-serif;color:#F00000;visibility:visible}
 .G_alt_text_{color:gray;font-weight:normal;cursor:text}
 .G_upvote_{background-position:-32px -570px}
-.G_downvote_,.G_upvote_{width:14px;height:15px;background-image:url(http://b.thumbs.redditmedia.com/ckm8CrAbDaVtHTZI.png)}
+.G_upvote_,.G_downvote_{width:14px;height:15px;background-image:url(http://b.thumbs.redditmedia.com/ckm8CrAbDaVtHTZI.png)}
 .G_downvote_{background-position:0px -570px}
 .G_mirrorlee_{width:300px;height:226px;background-image:url(http://a.thumbs.redditmedia.com/oOB-gaiwZGVT3YlB.png)}
 .G_mirrorlee2_{width:300px;height:225px;background-image:url(http://a.thumbs.redditmedia.com/P4-LEcXHFPjHGZbx.png)}
@@ -32,7 +32,7 @@
 .md a[href|="/tinytxt!"]{font-family:"monospace", "Courier";color:inherit;cursor:text;font-size:1px}
 .md a[href|="/pinkhover!"]{color:#000000;cursor:text}
 .G_catleaves_{width:320px;height:199px;background-image:url(http://a.thumbs.redditmedia.com/uNKkT1pi0XDmD_nZ.png)}
-.G_catleaves_,.G_mirrorlee2_,.G_mirrorlee_{background-position:0px 0px}
+.G_mirrorlee_,.G_mirrorlee2_,.G_catleaves_{background-position:0px 0px}
 .md a[href="//#advicecmc"],.md a[href="//#advicedash"],.md a[href="//#advicederp"],.md a[href="//#advicegummy"],.md a[href="//#advicehoers"],.md a[href="//#adviceluna"],.md a[href="//#adviceoct"],.md a[href="//#advicepbb"],.md a[href="//#advicepinkamina"],.md a[href="//#advicescoot"],.md a[href="//#advicescratch"],.md a[href="//#advicescrew"],.md a[href="//#adviceshy"]{width:300px;height:300px;cursor:default;display:inline-block;background-image:url(http://f.thumbs.redditmedia.com/CRUrOZBk1L-y-b7k.png);background-repeat:no-repeat;text-align:center;color:white;font-family:Impact, sans-serif;font-size:25px;line-height:24px;text-shadow:2px 2px 2px black, -2px -2px 2px black, -2px 2px 2px black, 2px -2px 2px black;overflow:hidden;position:relative;text-transform:uppercase}
 .md a[href="//#advicehoers"]{width:300px;height:300px;background-position:-606px -304px}
 .md a[href="//#adviceluna"]{width:300px;height:300px;background-position:-2px -606px}
@@ -43,10 +43,10 @@
 .md a[href="//#advicescrew"]{width:300px;height:300px;background-position:-606px -908px}
 .md a[href="//#adviceshy"]{width:300px;height:300px;background-position:-2px -1210px}
 .md a[href="//#adviceajlie"],.md a[href="//#adviceberry"],.md a[href="//#advicepp"],.md a[href="//#advicetia"],.md a[href="//#philosopie"]{width:300px;height:300px;cursor:default;display:inline-block;background-image:url(http://f.thumbs.redditmedia.com/fhm1mn0i0O8jchT5.png);background-repeat:no-repeat;text-align:center;color:white;font-family:Impact, sans-serif;font-size:25px;line-height:24px;text-shadow:1px 1px 1px black, -1px -1px 1px black, -1px 1px 1px black, 1px -1px 1px black;overflow:hidden;position:relative;text-transform:uppercase}
-.md a[href="//#adviceajlie"],.md a[href="//#advicepbb"]{width:300px;height:300px;background-position:-2px -2px}
-.md a[href="//#adviceberry"],.md a[href="//#advicecmc"]{width:300px;height:300px;background-position:-304px -2px}
-.md a[href="//#advicepp"],.md a[href="//#advicedash"]{width:300px;height:300px;background-position:-606px -2px}
-.md a[href="//#advicetia"],.md a[href="//#advicederp"]{width:300px;height:300px;background-position:-2px -304px}
-.md a[href="//#philosopie"],.md a[href="//#advicegummy"]{width:300px;height:300px;background-position:-304px -304px}
-.md a[href="//#advicepp"] em,.md a[href="//#philosopie"] em,.md a[href="//#advicetia"] em,.md a[href="//#adviceberry"] em,.md a[href="//#adviceaajlie"] em,.md a[href="//#adviceshy"] em,.md a[href="//#advicescrew"] em,.md a[href="//#advicescratch"] em,.md a[href="//#advicescoot"] em,.md a[href="//#advicepinkamina"] em,.md a[href="//#adviceoct"] em,.md a[href="//#adviceluna"] em,.md a[href="//#advicehoers"] em,.md a[href="//#advicegummy"] em,.md a[href="//#advicederp"] em,.md a[href="//#advicedash"] em,.md a[href="//#advicecmc"] em,.md a[href="//#advicepbb"] em{font-style:normal;position:absolute;top:12px;width:280px;left:50%;margin-left:-140px}
-.md a[href="//#advicepp"] strong,.md a[href="//#philosopie"] strong,.md a[href="//#advicetia"] strong,.md a[href="//#adviceberry"] strong,.md a[href="//#adviceajlie"] strong,.md a[href="//#adviceshy"] strong,.md a[href="//#advicescrew"] strong,.md a[href="//#advicescratch"] strong,.md a[href="//#advicescoot"] strong,.md a[href="//#advicepinkamina"] strong,.md a[href="//#adviceoct"] strong,.md a[href="//#adviceluna"] strong,.md a[href="//#advicehoers"] strong,.md a[href="//#advicegummy"] strong,.md a[href="//#advicederp"] strong,.md a[href="//#advicedash"] strong,.md a[href="//#advicecmc"] strong,.md a[href="//#advicepbb"] strong{font-weight:normal;position:absolute;bottom:12px;width:280px;left:50%;margin-left:-140px}
+.md a[href="//#advicepbb"],.md a[href="//#adviceajlie"]{width:300px;height:300px;background-position:-2px -2px}
+.md a[href="//#advicecmc"],.md a[href="//#adviceberry"]{width:300px;height:300px;background-position:-304px -2px}
+.md a[href="//#advicedash"],.md a[href="//#advicepp"]{width:300px;height:300px;background-position:-606px -2px}
+.md a[href="//#advicederp"],.md a[href="//#advicetia"]{width:300px;height:300px;background-position:-2px -304px}
+.md a[href="//#advicegummy"],.md a[href="//#philosopie"]{width:300px;height:300px;background-position:-304px -304px}
+.md a[href="//#advicepbb"] em,.md a[href="//#advicecmc"] em,.md a[href="//#advicedash"] em,.md a[href="//#advicederp"] em,.md a[href="//#advicegummy"] em,.md a[href="//#advicehoers"] em,.md a[href="//#adviceluna"] em,.md a[href="//#adviceoct"] em,.md a[href="//#advicepinkamina"] em,.md a[href="//#advicescoot"] em,.md a[href="//#advicescratch"] em,.md a[href="//#advicescrew"] em,.md a[href="//#adviceshy"] em,.md a[href="//#adviceaajlie"] em,.md a[href="//#adviceberry"] em,.md a[href="//#advicetia"] em,.md a[href="//#philosopie"] em,.md a[href="//#advicepp"] em{font-style:normal;position:absolute;top:12px;width:280px;left:50%;margin-left:-140px}
+.md a[href="//#advicepbb"] strong,.md a[href="//#advicecmc"] strong,.md a[href="//#advicedash"] strong,.md a[href="//#advicederp"] strong,.md a[href="//#advicegummy"] strong,.md a[href="//#advicehoers"] strong,.md a[href="//#adviceluna"] strong,.md a[href="//#adviceoct"] strong,.md a[href="//#advicepinkamina"] strong,.md a[href="//#advicescoot"] strong,.md a[href="//#advicescratch"] strong,.md a[href="//#advicescrew"] strong,.md a[href="//#adviceshy"] strong,.md a[href="//#adviceajlie"] strong,.md a[href="//#adviceberry"] strong,.md a[href="//#advicetia"] strong,.md a[href="//#philosopie"] strong,.md a[href="//#advicepp"] strong{font-weight:normal;position:absolute;bottom:12px;width:280px;left:50%;margin-left:-140px}
