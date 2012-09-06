@@ -1,16 +1,16 @@
 /*Parsed 924 emote aliases.*/
 .G_sp_{display:inline-block;padding-right:100%}
-.G_shuffle_{float:left;width:225px;height:300px;background-image:url(http://c.thumbs.redditmedia.com/DO1kW--Q7aOtgd7J.png)}
-.G_nopespin_{float:left;width:300px;height:301px;background-image:url(http://e.thumbs.redditmedia.com/n-BFOLNGx0d2K49v.png)}
-.G_animote_{float:left;width:255px;height:171px;background-image:url(http://c.thumbs.redditmedia.com/YaBC0ntaYvWgrkIh.png)}
-.G_spidey_,.G_spidey2_{float:left;background-image:url(http://b.thumbs.redditmedia.com/Vxm1zWOFEkWjNz8C.jpg)}
+.G_shuffle_{display:block;float:left;width:225px;height:300px;background-image:url(http://c.thumbs.redditmedia.com/DO1kW--Q7aOtgd7J.png)}
+.G_nopespin_{display:block;float:left;width:300px;height:301px;background-image:url(http://e.thumbs.redditmedia.com/n-BFOLNGx0d2K49v.png)}
+.G_animote_{display:block;float:left;width:255px;height:171px;background-image:url(http://c.thumbs.redditmedia.com/YaBC0ntaYvWgrkIh.png)}
+.G_spidey_,.G_spidey2_{display:block;float:left;background-image:url(http://b.thumbs.redditmedia.com/Vxm1zWOFEkWjNz8C.jpg)}
 .G_spidey_{width:293px;height:198px;background-position:-472px -0px}
 .G_spidey2_{width:197px;height:299px;background-position:-4px -2px}
-.G_thefack_{float:left;width:770px;height:136px;background-image:url(http://f.thumbs.redditmedia.com/0m9p9dtDTXXb_0aq.png)}
+.G_thefack_{display:block;float:left;width:770px;height:136px;background-image:url(http://f.thumbs.redditmedia.com/0m9p9dtDTXXb_0aq.png)}
 .G_thefack_,.G_animote_,.G_nopespin_,.G_shuffle_{background-position:-0px -0px}
-.G_orschemote_{float:left;width:300px;height:400px;background-image:url(http://b.thumbs.redditmedia.com/2Tde7I6xFl9W0aoI.png)}
+.G_orschemote_{display:block;float:left;width:300px;height:400px;background-image:url(http://b.thumbs.redditmedia.com/2Tde7I6xFl9W0aoI.png)}
 .G_orschemote_{background-position:-0px -0px}
-.G_1a_,.G_1b_,.G_1c_,.G_1d_,.G_1e_,.G_1f_,.G_1g_,.G_1h_,.G_1i_,.G_1j_,.G_1k_,.G_2a_,.G_2b_,.G_2c_,.G_2d_,.G_2e_,.G_2f_,.G_2g_,.G_2h_,.G_2i_,.G_2j_,.G_2k_,.G_335_,.G_3a_,.G_3b_,.G_3c_,.G_3d_,.G_3e_,.G_3f_,.G_3g_,.G_3h_,.G_3i_,.G_3j_,.G_3k_,.G_ajraep_,.G_dashraep_,.G_flutterbucket_,.G_grumpytwi_,.G_ioi_,.G_ioib_,.G_ioib_,.G_pieraep_,.G_pptoothover_,.G_rarraep_,.G_rpptoothover_:hover,.G_shyraep_,.G_twiraep_,.G_yourface_{float:left;background-image:url(http://b.thumbs.redditmedia.com/TiiUeMVjYgIblgg1.png)}
+.G_1a_,.G_1b_,.G_1c_,.G_1d_,.G_1e_,.G_1f_,.G_1g_,.G_1h_,.G_1i_,.G_1j_,.G_1k_,.G_2a_,.G_2b_,.G_2c_,.G_2d_,.G_2e_,.G_2f_,.G_2g_,.G_2h_,.G_2i_,.G_2j_,.G_2k_,.G_335_,.G_3a_,.G_3b_,.G_3c_,.G_3d_,.G_3e_,.G_3f_,.G_3g_,.G_3h_,.G_3i_,.G_3j_,.G_3k_,.G_ajraep_,.G_dashraep_,.G_flutterbucket_,.G_grumpytwi_,.G_ioi_,.G_ioib_,.G_ioib_,.G_pieraep_,.G_pptoothover_,.G_rarraep_,.G_rpptoothover_:hover,.G_shyraep_,.G_twiraep_,.G_yourface_{display:block;float:left;background-image:url(http://b.thumbs.redditmedia.com/TiiUeMVjYgIblgg1.png)}
 .G_1a_{width:76px;height:139px;background-position:-2px -211px}
 .G_1b_{width:134px;height:103px;background-position:-758px -104px}
 .G_1c_{width:102px;height:150px;background-position:-601px -211px}
@@ -51,7 +51,7 @@
 .G_rarraep_{width:90px;height:100px;background-position:-279px -104px}
 .G_shyraep_{width:104px;height:100px;background-position:-371px -104px}
 .G_twiraep_{width:98px;height:100px;background-position:-179px -104px}
-.G_4a_,.G_4b_,.G_4c_,.G_4d_,.G_4e_,.G_4f_,.G_4g_,.G_4h_,.G_4i_,.G_4j_,.G_4k_,.G_4l_,.G_5a_,.G_5b_,.G_5c_,.G_5d_,.G_5e_,.G_5f_,.G_5g_,.G_5h_,.G_5i_,.G_5j_,.G_5k_,.G_applehat_,.G_doubledragon_,.G_doublespike_,.G_peckiepie_,.G_peckypie_,.G_rdoubledragon_,.G_rdoublespike_,.G_rdshadowbolt_,.G_rpeckiepie_,.G_rpeckypie_,.G_rrdshadowbolt_,.G_rscarecrowjack_,.G_rstarswirl_,.G_scarecrowjack_,.G_starswirl_{float:left;background-image:url(http://a.thumbs.redditmedia.com/5BAxBli-SHRFVODB.png)}
+.G_4a_,.G_4b_,.G_4c_,.G_4d_,.G_4e_,.G_4f_,.G_4g_,.G_4h_,.G_4i_,.G_4j_,.G_4k_,.G_4l_,.G_5a_,.G_5b_,.G_5c_,.G_5d_,.G_5e_,.G_5f_,.G_5g_,.G_5h_,.G_5i_,.G_5j_,.G_5k_,.G_applehat_,.G_doubledragon_,.G_doublespike_,.G_peckiepie_,.G_peckypie_,.G_rdoubledragon_,.G_rdoublespike_,.G_rdshadowbolt_,.G_rpeckiepie_,.G_rpeckypie_,.G_rrdshadowbolt_,.G_rscarecrowjack_,.G_rstarswirl_,.G_scarecrowjack_,.G_starswirl_{display:block;float:left;background-image:url(http://a.thumbs.redditmedia.com/5BAxBli-SHRFVODB.png)}
 .G_4a_{width:159px;height:151px;background-position:-2px -2px}
 .G_4b_{width:144px;height:150px;background-position:-163px -2px}
 .G_4c_{width:253px;height:150px;background-position:-309px -2px}
@@ -81,7 +81,7 @@
 .G_rdshadowbolt_,.G_rrdshadowbolt_{width:70px;height:70px;background-position:-2px -666px}
 .G_rscarecrowjack_,.G_scarecrowjack_{width:70px;height:70px;background-position:-74px -666px}
 .G_rstarswirl_,.G_starswirl_{width:70px;height:70px;background-position:-146px -666px}
-.G_335b_,.G_335c_,.G_aboooh_,.G_adorajack_,.G_ajcider_,.G_bootsncats_,.G_canit_,.G_cod_,.G_dashhfof_,.G_derpwat_,.G_deviouspie_,.G_dgusta_,.G_duck_,.G_grinaloo_,.G_grumpybloom_,.G_grumpypie_,.G_grumpyrar_,.G_grumpyscoot_,.G_grumpyshy_,.G_grumpytia_,.G_hipsterpie_,.G_oinkoink_,.G_onewat_,.G_ppdance_,.G_pppie_,.G_ppplot_,.G_ppsurprise_,.G_prettypony_,.G_roseeyes_,.G_rosetough_,.G_rppsalute_,.G_rworstpony_,.G_rzoidberg_,.G_scootasad_,.G_slumberparty_,.G_sparkwat_,.G_speedy_,.G_spikestache_,.G_spikeyu_,.G_teehee_,.G_twipoker_,.G_umyeah_,.G_whyhello_,.G_yopiegimmeafreshbeat_,.G_zoidberg_{float:left;background-image:url(http://f.thumbs.redditmedia.com/iUX64LF8j-6kbJZq.png)}
+.G_335b_,.G_335c_,.G_aboooh_,.G_adorajack_,.G_ajcider_,.G_bootsncats_,.G_canit_,.G_cod_,.G_dashhfof_,.G_derpwat_,.G_deviouspie_,.G_dgusta_,.G_duck_,.G_grinaloo_,.G_grumpybloom_,.G_grumpypie_,.G_grumpyrar_,.G_grumpyscoot_,.G_grumpyshy_,.G_grumpytia_,.G_hipsterpie_,.G_oinkoink_,.G_onewat_,.G_ppdance_,.G_pppie_,.G_ppplot_,.G_ppsurprise_,.G_prettypony_,.G_roseeyes_,.G_rosetough_,.G_rppsalute_,.G_rworstpony_,.G_rzoidberg_,.G_scootasad_,.G_slumberparty_,.G_sparkwat_,.G_speedy_,.G_spikestache_,.G_spikeyu_,.G_teehee_,.G_twipoker_,.G_umyeah_,.G_whyhello_,.G_yopiegimmeafreshbeat_,.G_zoidberg_{display:block;float:left;background-image:url(http://f.thumbs.redditmedia.com/iUX64LF8j-6kbJZq.png)}
 .G_335b_{width:74px;height:149px;background-position:-2px -2px}
 .G_335c_{width:77px;height:100px;background-position:-78px -2px}
 .G_aboooh_{width:65px;height:125px;background-position:-157px -2px}
@@ -125,7 +125,7 @@
 .G_whyhello_{width:121px;height:100px;background-position:-614px -660px}
 .G_yopiegimmeafreshbeat_,.G_bootsncats_{width:175px;height:117px;background-position:-459px -2px}
 .G_rzoidberg_,.G_zoidberg_{width:70px;height:69px;background-position:-737px -660px}
-.G_5ofclubs_,.G_bonsing_,.G_derpsess_,.G_lunasalute_,.G_lyplay_,.G_lyrawithit_,.G_ootdluna_,.G_parrrtycannon_,.G_piplean_,.G_ppjam_,.G_ppsalute_,.G_ppshock_,.G_ppshocked_,.G_pptoothover_:hover,.G_pudding_,.G_r2a_,.G_royalpain_,.G_rpptoothover_,.G_shyrose_,.G_shystrut_,.G_sursalute_,.G_sursprisesalute_,.G_this_,.G_trix1_{float:left;background-image:url(http://b.thumbs.redditmedia.com/LxzHhnJr-rZAeIbU.png)}
+.G_5ofclubs_,.G_bonsing_,.G_derpsess_,.G_lunasalute_,.G_lyplay_,.G_lyrawithit_,.G_ootdluna_,.G_parrrtycannon_,.G_piplean_,.G_ppjam_,.G_ppsalute_,.G_ppshock_,.G_ppshocked_,.G_pptoothover_:hover,.G_pudding_,.G_r2a_,.G_royalpain_,.G_rpptoothover_,.G_shyrose_,.G_shystrut_,.G_sursalute_,.G_sursprisesalute_,.G_this_,.G_trix1_{display:block;float:left;background-image:url(http://b.thumbs.redditmedia.com/LxzHhnJr-rZAeIbU.png)}
 .G_5ofclubs_{width:174px;height:175px;background-position:-2px -2px}
 .G_bonsing_{width:127px;height:151px;background-position:-178px -2px}
 .G_derpsess_{width:167px;height:200px;background-position:-307px -2px}
@@ -146,7 +146,7 @@
 .G_sursalute_,.G_sursprisesalute_{width:195px;height:150px;background-position:-326px -654px}
 .G_this_{width:128px;height:166px;background-position:-523px -654px}
 .G_trix1_{width:205px;height:142px;background-position:-653px -654px}
-.G_abchill_,.G_angrypie_,.G_berrysmug_,.G_damusics_,.G_dashconfused_,.G_dashhug_,.G_disdrink_,.G_flapple_,.G_flutterdance_,.G_flutterrape_,.G_foreverpie_,.G_molestshy_,.G_pinkieoutofnowhere_,.G_ppoutofnowhere_,.G_ppshiteater_,.G_rarsalute_,.G_rartears_,.G_rflutterbucket_,.G_rosesmug_,.G_rosewat_,.G_ryourface_,.G_shydaw_,.G_shyexcited_,.G_stageleft_,.G_stretch_,.G_surreally_,.G_twidance_,.G_twidrunk_,.G_twigrimace_,.G_twisquee_,.G_twistsalute_{float:left;background-image:url(http://e.thumbs.redditmedia.com/3NoiDkrAVyPz_2hv.png)}
+.G_abchill_,.G_angrypie_,.G_berrysmug_,.G_damusics_,.G_dashconfused_,.G_dashhug_,.G_disdrink_,.G_flapple_,.G_flutterdance_,.G_flutterrape_,.G_foreverpie_,.G_molestshy_,.G_pinkieoutofnowhere_,.G_ppoutofnowhere_,.G_ppshiteater_,.G_rarsalute_,.G_rartears_,.G_rflutterbucket_,.G_rosesmug_,.G_rosewat_,.G_ryourface_,.G_shydaw_,.G_shyexcited_,.G_stageleft_,.G_stretch_,.G_surreally_,.G_twidance_,.G_twidrunk_,.G_twigrimace_,.G_twisquee_,.G_twistsalute_{display:block;float:left;background-image:url(http://e.thumbs.redditmedia.com/3NoiDkrAVyPz_2hv.png)}
 .G_abchill_{width:112px;height:100px;background-position:-2px -2px}
 .G_angrypie_{width:169px;height:154px;background-position:-116px -2px}
 .G_berrysmug_{width:129px;height:150px;background-position:-287px -2px}
@@ -175,7 +175,7 @@
 .G_twigrimace_{width:106px;height:100px;background-position:-430px -740px}
 .G_twisquee_{width:108px;height:175px;background-position:-538px -740px}
 .G_twistsalute_{width:140px;height:130px;background-position:-648px -740px}
-.G_335a_,.G_bawkwithit_,.G_bonwithit_,.G_boxedluna_,.G_brony_,.G_brony2_,.G_dat_,.G_dosh_,.G_ididntputthoseinmybagwithit_,.G_ioia_,.G_mahhorn_,.G_pants_,.G_pinkiehover_,.G_rareew_,.G_rargrin_,.G_rbawkwithit_,.G_rdfriendship_,.G_rpinkiehover_,.G_sweetcelestia_,.G_thatswhatisaid_{float:left;background-image:url(http://d.thumbs.redditmedia.com/nUjvozHB3_MDN-3E.png)}
+.G_335a_,.G_bawkwithit_,.G_bonwithit_,.G_boxedluna_,.G_brony_,.G_brony2_,.G_dat_,.G_dosh_,.G_ididntputthoseinmybagwithit_,.G_ioia_,.G_mahhorn_,.G_pants_,.G_pinkiehover_,.G_rareew_,.G_rargrin_,.G_rbawkwithit_,.G_rdfriendship_,.G_rpinkiehover_,.G_sweetcelestia_,.G_thatswhatisaid_{display:block;float:left;background-image:url(http://d.thumbs.redditmedia.com/nUjvozHB3_MDN-3E.png)}
 .G_335a_{width:195px;height:156px;background-position:-2px -2px}
 .G_bawkwithit_{width:279px;height:268px;background-position:-199px -2px}
 .G_bonwithit_,.G_ididntputthoseinmybagwithit_{width:243px;height:268px;background-position:-480px -2px}
@@ -192,7 +192,7 @@
 .G_rbawkwithit_{width:279px;height:268px;background-position:-637px -434px}
 .G_sweetcelestia_{width:320px;height:200px;background-position:-2px -704px}
 .G_thatswhatisaid_{width:175px;height:175px;background-position:-324px -704px}
-.G_DarqWolff_,.G_chess_,.G_dashdrunk_,.G_lawl_,.G_offthewagon_,.G_pon3withit_,.G_ppcandy_,.G_ppnew_,.G_ppnewhere_,.G_ppumad_,.G_rarhmph_,.G_tia1_,.G_twieyes_{float:left;background-image:url(http://b.thumbs.redditmedia.com/kdJoi5VIytPv5HhO.png)}
+.G_DarqWolff_,.G_chess_,.G_dashdrunk_,.G_lawl_,.G_offthewagon_,.G_pon3withit_,.G_ppcandy_,.G_ppnew_,.G_ppnewhere_,.G_ppumad_,.G_rarhmph_,.G_tia1_,.G_twieyes_{display:block;float:left;background-image:url(http://b.thumbs.redditmedia.com/kdJoi5VIytPv5HhO.png)}
 .G_chess_{width:306px;height:150px;background-position:-2px -2px}
 .G_dashdrunk_{width:255px;height:175px;background-position:-310px -2px}
 .G_DarqWolff_,.G_lawl_{width:330px;height:128px;background-position:-567px -2px}
@@ -204,7 +204,7 @@
 .G_rarhmph_{width:269px;height:150px;background-position:-254px -449px}
 .G_tia1_{width:204px;height:200px;background-position:-525px -449px}
 .G_twieyes_{width:334px;height:203px;background-position:-2px -651px}
-.G_abno_,.G_ajno_,.G_bird_,.G_bonno_,.G_dashno_,.G_derpno_,.G_dontask_,.G_flutno_,.G_lunano_,.G_lyrano_,.G_ppno_,.G_rarno_,.G_rlyrano_,.G_sbno_,.G_scootno_,.G_tiano_,.G_wop_{float:left;background-image:url(http://f.thumbs.redditmedia.com/tjuUEa-adJZDqct_.png)}
+.G_abno_,.G_ajno_,.G_bird_,.G_bonno_,.G_dashno_,.G_derpno_,.G_dontask_,.G_flutno_,.G_lunano_,.G_lyrano_,.G_ppno_,.G_rarno_,.G_rlyrano_,.G_sbno_,.G_scootno_,.G_tiano_,.G_wop_{display:block;float:left;background-image:url(http://f.thumbs.redditmedia.com/tjuUEa-adJZDqct_.png)}
 .G_abno_{width:220px;height:200px;background-position:-668px -254px}
 .G_ajno_{width:222px;height:200px;background-position:-2px -658px}
 .G_bird_{width:167px;height:250px;background-position:-2px -2px}
@@ -222,7 +222,7 @@
 .G_scootno_{width:220px;height:200px;background-position:-224px -254px}
 .G_tiano_{width:198px;height:200px;background-position:-371px -2px}
 .G_wop_{width:220px;height:200px;background-position:-224px -456px}
-.G_abflip_,.G_ajflip_,.G_allthetables_,.G_berryflip_,.G_bonflip_,.G_dashflip_,.G_derpflip_,.G_disflip_,.G_dpflip_,.G_flutflip_,.G_hothorn_,.G_karmaflip_,.G_lunaflip_,.G_lyraflip_,.G_notone_,.G_octflip_,.G_pieflip_,.G_pon3flip_,.G_rarflip_,.G_rderpflip_,.G_roseflip_,.G_sbflip_,.G_scootflip_,.G_scratchflip_,.G_shyflip_,.G_somethingnotretarded_,.G_tiaflip_,.G_vsflip_{float:left;background-image:url(http://b.thumbs.redditmedia.com/DyA4zhqo3sFazT67.png)}
+.G_abflip_,.G_ajflip_,.G_allthetables_,.G_berryflip_,.G_bonflip_,.G_dashflip_,.G_derpflip_,.G_disflip_,.G_dpflip_,.G_flutflip_,.G_hothorn_,.G_karmaflip_,.G_lunaflip_,.G_lyraflip_,.G_notone_,.G_octflip_,.G_pieflip_,.G_pon3flip_,.G_rarflip_,.G_rderpflip_,.G_roseflip_,.G_sbflip_,.G_scootflip_,.G_scratchflip_,.G_shyflip_,.G_somethingnotretarded_,.G_tiaflip_,.G_vsflip_{display:block;float:left;background-image:url(http://b.thumbs.redditmedia.com/DyA4zhqo3sFazT67.png)}
 .G_abflip_{width:179px;height:130px;background-position:-364px -2px}
 .G_ajflip_{width:187px;height:145px;background-position:-2px -285px}
 .G_berryflip_{width:199px;height:145px;background-position:-191px -285px}
@@ -246,7 +246,7 @@
 .G_tiaflip_{width:200px;height:169px;background-position:-607px -432px}
 .G_allthetables_{width:1011px;height:603px;background-position:-0px -0px}
 .G_pon3flip_,.G_scratchflip_,.G_vsflip_{width:200px;height:145px;background-position:-812px -451px}
-.G_ajpose_,.G_ajsalute_,.G_berrygasp_,.G_derpysalute_,.G_fancyfluff_,.G_fluffy_,.G_moar_,.G_ninjapie_,.G_ppelementary_,.G_ppthis_,.G_ppwooo_,.G_roseflirt_,.G_rosesit_,.G_rosestrut_,.G_shyrock_,.G_shysalute_,.G_sofresh_,.G_surwtf_,.G_twisalute_{float:left;background-image:url(http://d.thumbs.redditmedia.com/P-kuHC-BgmPMCOlc.png)}
+.G_ajpose_,.G_ajsalute_,.G_berrygasp_,.G_derpysalute_,.G_fancyfluff_,.G_fluffy_,.G_moar_,.G_ninjapie_,.G_ppelementary_,.G_ppthis_,.G_ppwooo_,.G_roseflirt_,.G_rosesit_,.G_rosestrut_,.G_shyrock_,.G_shysalute_,.G_sofresh_,.G_surwtf_,.G_twisalute_{display:block;float:left;background-image:url(http://d.thumbs.redditmedia.com/P-kuHC-BgmPMCOlc.png)}
 .G_ajpose_{width:101px;height:150px;background-position:-858px -154px}
 .G_ajsalute_{width:146px;height:143px;background-position:-546px -2px}
 .G_berrygasp_{width:119px;height:150px;background-position:-846px -2px}
@@ -266,8 +266,8 @@
 .G_sofresh_{width:207px;height:200px;background-position:-775px -306px}
 .G_surwtf_{width:173px;height:175px;background-position:-305px -306px}
 .G_twisalute_{width:204px;height:139px;background-position:-176px -2px}
-.G_ajbemused_,.G_ajsleepy_,.G_applejackconfused_,.G_applejackunsure_,.G_coolphoto_,.G_derpyderp1_,.G_derpyderp2_,.G_derpytongue2_,.G_ff00_,.G_ff01_,.G_ff02_,.G_ff04_,.G_ff05_,.G_ff10_,.G_ff11_,.G_ff12_,.G_ff13_,.G_ff14_,.G_ff15_,.G_ff20_,.G_ff21_,.G_ff22_,.G_ff23_,.G_ff24_,.G_ff25_,.G_ff30_,.G_ff31_,.G_ff32_,.G_ff33_,.G_ff34_,.G_ff35_,.G_ff40_,.G_ff41_,.G_ff42_,.G_ff43_,.G_ff44_,.G_ff45_,.G_ff50_,.G_ff51_,.G_ff52_,.G_ff53_,.G_ff54_,.G_ff55_,.G_ff60_,.G_ff61_,.G_ff62_,.G_ff63_,.G_ff64_,.G_ff65_,.G_ff70_,.G_ff71_,.G_ff72_,.G_ff73_,.G_ff74_,.G_ff75_,.G_fimajsmug_,.G_fimduck_,.G_fimeeyup_,.G_fimfacehoof_,.G_fimyay_,.G_fluttercry_,.G_flutterrage_,.G_fluttershbad_,.G_fluttershyouch_,.G_fluttershysad_,.G_heart_,.G_moustache_,.G_pinkiecrazy_,.G_pinkiegasp_,.G_pinkiehappy_,.G_pinkiesad2_,.G_pinkiesick_,.G_pinkiesmile_,.G_rainbowderp_,.G_rainbowdetermined2_,.G_rainbowhuh_,.G_rainbowkiss_,.G_rainbowlaugh_,.G_rainbowwild_,.G_raritycry_,.G_raritydespair_,.G_raritystarry_,.G_raritywink_,.G_scootangel_,.G_trixieshiftleft_,.G_trixieshiftright_,.G_trollestia_,.G_twilightangry2_,.G_twilightblush_,.G_twilightoops_,.G_twilightsheepish_,.G_twilightsmile_,.G_twistnerd_,.G_unsuresweetie_{float:left;width:27px;height:27px;background-image:url(http://b.thumbs.redditmedia.com/3EDHTCwpCs_YfBMs.png)}
-.G_applecry_,.G_crash_,.G_ff03_,.G_flutterthink_,.G_wmesplin_{float:left;background-image:url(http://b.thumbs.redditmedia.com/3EDHTCwpCs_YfBMs.png)}
+.G_ajbemused_,.G_ajsleepy_,.G_applejackconfused_,.G_applejackunsure_,.G_coolphoto_,.G_derpyderp1_,.G_derpyderp2_,.G_derpytongue2_,.G_ff00_,.G_ff01_,.G_ff02_,.G_ff04_,.G_ff05_,.G_ff10_,.G_ff11_,.G_ff12_,.G_ff13_,.G_ff14_,.G_ff15_,.G_ff20_,.G_ff21_,.G_ff22_,.G_ff23_,.G_ff24_,.G_ff25_,.G_ff30_,.G_ff31_,.G_ff32_,.G_ff33_,.G_ff34_,.G_ff35_,.G_ff40_,.G_ff41_,.G_ff42_,.G_ff43_,.G_ff44_,.G_ff45_,.G_ff50_,.G_ff51_,.G_ff52_,.G_ff53_,.G_ff54_,.G_ff55_,.G_ff60_,.G_ff61_,.G_ff62_,.G_ff63_,.G_ff64_,.G_ff65_,.G_ff70_,.G_ff71_,.G_ff72_,.G_ff73_,.G_ff74_,.G_ff75_,.G_fimajsmug_,.G_fimduck_,.G_fimeeyup_,.G_fimfacehoof_,.G_fimyay_,.G_fluttercry_,.G_flutterrage_,.G_fluttershbad_,.G_fluttershyouch_,.G_fluttershysad_,.G_heart_,.G_moustache_,.G_pinkiecrazy_,.G_pinkiegasp_,.G_pinkiehappy_,.G_pinkiesad2_,.G_pinkiesick_,.G_pinkiesmile_,.G_rainbowderp_,.G_rainbowdetermined2_,.G_rainbowhuh_,.G_rainbowkiss_,.G_rainbowlaugh_,.G_rainbowwild_,.G_raritycry_,.G_raritydespair_,.G_raritystarry_,.G_raritywink_,.G_scootangel_,.G_trixieshiftleft_,.G_trixieshiftright_,.G_trollestia_,.G_twilightangry2_,.G_twilightblush_,.G_twilightoops_,.G_twilightsheepish_,.G_twilightsmile_,.G_twistnerd_,.G_unsuresweetie_{display:block;float:left;width:27px;height:27px;background-image:url(http://b.thumbs.redditmedia.com/3EDHTCwpCs_YfBMs.png)}
+.G_applecry_,.G_crash_,.G_ff03_,.G_flutterthink_,.G_wmesplin_{display:block;float:left;background-image:url(http://b.thumbs.redditmedia.com/3EDHTCwpCs_YfBMs.png)}
 .G_ajbemused_,.G_ff00_{background-position:-1px -1px}
 .G_ajsleepy_,.G_ff01_{background-position:-29px -1px}
 .G_ff02_,.G_fimajsmug_{background-position:-57px -1px}
@@ -319,7 +319,7 @@
 .G_crash_{background-position:-10px -175px;width:235px;height:300px}
 .G_wmesplin_{background-position:-260px -0px;width:169px;height:200px}
 .G_flutterthink_{background-position:-247px -206px;width:184px;height:145px}
-.G_ajheart_,.G_berryheart_,.G_colheart_,.G_dashheart_,.G_derpheart_,.G_lunaheart_,.G_lyraheart_,.G_octheart_,.G_pon3heart_,.G_ppheart_,.G_rarheart_,.G_shyheart_,.G_trixieheart_,.G_twiheart_,.G_wmgummy_{float:left;background-image:url(http://b.thumbs.redditmedia.com/aDSRusoAEgQkaoma.png)}
+.G_ajheart_,.G_berryheart_,.G_colheart_,.G_dashheart_,.G_derpheart_,.G_lunaheart_,.G_lyraheart_,.G_octheart_,.G_pon3heart_,.G_ppheart_,.G_rarheart_,.G_shyheart_,.G_trixieheart_,.G_twiheart_,.G_wmgummy_{display:block;float:left;background-image:url(http://b.thumbs.redditmedia.com/aDSRusoAEgQkaoma.png)}
 .G_ajheart_{width:132px;height:200px;background-position:-2px -2px}
 .G_berryheart_{width:132px;height:200px;background-position:-136px -2px}
 .G_colheart_{width:123px;height:200px;background-position:-270px -2px}
@@ -335,7 +335,7 @@
 .G_trixieheart_{width:123px;height:200px;background-position:-124px -608px}
 .G_twiheart_{width:124px;height:200px;background-position:-249px -608px}
 .G_wmgummy_{width:106px;height:100px;background-position:-391px -624px}
-.G_wmaj_,.G_wmberry_,.G_wmbm_,.G_wmbon_,.G_wmcand_,.G_wmcarrot_,.G_wmcheer_,.G_wmchrys_,.G_wmcol_,.G_wmdash_,.G_wmderp_,.G_wmdis_,.G_wmgs_,.G_wmlyra_,.G_wmtrix_{float:left;background-image:url(http://b.thumbs.redditmedia.com/4rNWS8OrK6lleD47.png)}
+.G_wmaj_,.G_wmberry_,.G_wmbm_,.G_wmbon_,.G_wmcand_,.G_wmcarrot_,.G_wmcheer_,.G_wmchrys_,.G_wmcol_,.G_wmdash_,.G_wmderp_,.G_wmdis_,.G_wmgs_,.G_wmlyra_,.G_wmtrix_{display:block;float:left;background-image:url(http://b.thumbs.redditmedia.com/4rNWS8OrK6lleD47.png)}
 .G_wmaj_{width:174px;height:200px;background-position:-2px -2px}
 .G_wmberry_{width:176px;height:200px;background-position:-178px -2px}
 .G_wmbm_{width:159px;height:210px;background-position:-356px -2px}
@@ -351,7 +351,7 @@
 .G_wmgs_{width:176px;height:200px;background-position:-358px -416px}
 .G_wmlyra_{width:177px;height:200px;background-position:-536px -416px}
 .G_wmtrix_{width:176px;height:200px;background-position:-715px -416px}
-.G_wmapth_,.G_wmkarma_,.G_wmluna_,.G_wmoct_,.G_wmpinkamina_,.G_wmpon3_,.G_wmpp_,.G_wmrar_,.G_wmrose_,.G_wmscrewball_,.G_wmshy_,.G_wmspitfire_,.G_wmsur_,.G_wmtia_,.G_wmtwi_{float:left;background-image:url(http://f.thumbs.redditmedia.com/YVqHShW6AXWU2I8q.png)}
+.G_wmapth_,.G_wmkarma_,.G_wmluna_,.G_wmoct_,.G_wmpinkamina_,.G_wmpon3_,.G_wmpp_,.G_wmrar_,.G_wmrose_,.G_wmscrewball_,.G_wmshy_,.G_wmspitfire_,.G_wmsur_,.G_wmtia_,.G_wmtwi_{display:block;float:left;background-image:url(http://f.thumbs.redditmedia.com/YVqHShW6AXWU2I8q.png)}
 .G_wmapth_{width:176px;height:200px;background-position:-2px -2px}
 .G_wmkarma_{width:177px;height:200px;background-position:-180px -2px}
 .G_wmluna_{width:176px;height:200px;background-position:-359px -2px}
@@ -367,7 +367,7 @@
 .G_wmsur_{width:176px;height:200px;background-position:-358px -406px}
 .G_wmtia_{width:176px;height:200px;background-position:-536px -406px}
 .G_wmtwi_{width:176px;height:200px;background-position:-714px -406px}
-.G_abpoker_,.G_ajpoker_,.G_bbpoker_,.G_berrypoker_,.G_bmpoker_,.G_bonpoker_,.G_braepoker_,.G_carrotpoker_,.G_cheerileepoker_,.G_colpoker_,.G_dashpoker_,.G_derppoker_,.G_dispoker_,.G_fritpoker_,.G_lunapoker_,.G_lyrapoker_,.G_pppoker_,.G_rarpoker_,.G_rosepoker_,.G_sbpoker_,.G_scootpocker_,.G_screwpoker_,.G_shypoker_,.G_sparkpoker_,.G_spikepoker_,.G_tiapoker_,.G_trixpoker_{float:left;background-image:url(http://e.thumbs.redditmedia.com/IQIHCaA5R6-Xulvp.png)}
+.G_abpoker_,.G_ajpoker_,.G_bbpoker_,.G_berrypoker_,.G_bmpoker_,.G_bonpoker_,.G_braepoker_,.G_carrotpoker_,.G_cheerileepoker_,.G_colpoker_,.G_dashpoker_,.G_derppoker_,.G_dispoker_,.G_fritpoker_,.G_lunapoker_,.G_lyrapoker_,.G_pppoker_,.G_rarpoker_,.G_rosepoker_,.G_sbpoker_,.G_scootpocker_,.G_screwpoker_,.G_shypoker_,.G_sparkpoker_,.G_spikepoker_,.G_tiapoker_,.G_trixpoker_{display:block;float:left;background-image:url(http://e.thumbs.redditmedia.com/IQIHCaA5R6-Xulvp.png)}
 .G_abpoker_{width:74px;height:105px;background-position:-264px -2px}
 .G_ajpoker_{width:118px;height:137px;background-position:-351px -450px}
 .G_berrypoker_{width:111px;height:110px;background-position:-250px -226px}

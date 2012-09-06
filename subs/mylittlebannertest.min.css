@@ -1,36 +1,36 @@
 /*Parsed 110 emote aliases.*/
-.G_BlockJuice_{float:left;width:526px;height:380px;background-image:url(http://e.thumbs.redditmedia.com/hlrAgE8sTtVYdE8X.png)}
-.G_ppohu_{float:left;width:150px;height:147px;background-image:url(http://b.thumbs.redditmedia.com/Pm3nkna3kZVhpZhs.png)}
-.G_ppsong_{float:left;width:600px;height:600px;background-image:url(http://a.thumbs.redditmedia.com/hsj4owiuTkss42Kf.png)}
-.G_dashurbate_{float:left;width:133px;height:150px;background-image:url(http://e.thumbs.redditmedia.com/5uosEn09yJf_tKUv.png)}
-.G_roguepie_{float:left;width:384px;height:411px;background-image:url(http://f.thumbs.redditmedia.com/39KDITX1Vm8WTcS5.png)}
-.G_pone_{float:left;width:558px;height:391px;background-image:url(http://d.thumbs.redditmedia.com/_X5pItgw8FQ2L1Pu.png)}
-.G_ppneck_{float:left;width:150px;height:150px;background-image:url(http://d.thumbs.redditmedia.com/1wwaohyTcWbmq793.png)}
-.G_ppneckturn_{float:left;width:150px;height:150px;background-image:url(http://e.thumbs.redditmedia.com/bH0INA0lQ3VyPSdL.png)}
-.G_ppcross_{float:left;width:150px;height:150px;background-image:url(http://f.thumbs.redditmedia.com/K18ksxgScxEnhhUA.png)}
-.G_ppend_{float:left;width:150px;height:150px;background-image:url(http://e.thumbs.redditmedia.com/9riW3I6Q773MDz-F.png)}
-.G_ppend2_{float:left;width:150px;height:150px;background-image:url(http://c.thumbs.redditmedia.com/pj_IylWLwDh16_0b.png)}
-.G_ppt_{float:left;width:150px;height:150px;background-image:url(http://e.thumbs.redditmedia.com/XYwvJk8Q4-ZL5rK4.png)}
-.G_ppoverlap_{float:left;width:150px;height:150px;background-image:url(http://d.thumbs.redditmedia.com/ABmeTs-YHcg8qdQW.png)}
-.G_blank_{float:left;width:150px;height:150px;background-image:url(http://d.thumbs.redditmedia.com/pbotzChiVRXp4RXW.png)}
-.G_ppwalk_{float:left;width:108px;height:126px;background-image:url(http://b.thumbs.redditmedia.com/zQIQ_PvEanq4G7Qg.png)}
-.G_doapinkieroll_,.G_pproll_{float:left;width:106px;height:138px;background-image:url(http://c.thumbs.redditmedia.com/M6VGiFy_D0aHhee8.png)}
-.G_ppderp_{float:left;width:150px;height:149px;background-image:url(http://c.thumbs.redditmedia.com/gcGtDr1kcWEQKdP8.png)}
-.G_honk_{float:left;width:200px;height:168px;background-image:url(http://e.thumbs.redditmedia.com/nXsBtD9rKg9ZqzZL.png)}
-.G_trixiestache_{float:left;width:170px;height:200px;background-image:url(http://a.thumbs.redditmedia.com/RAFWgVx70Jag8Mv6.png)}
-.G_jizz_{float:left;width:160px;height:97px;background-image:url(http://d.thumbs.redditmedia.com/K3_bLeg6rbxjuJYc.png)}
-.G_llladies_{float:left;width:150px;height:150px;background-image:url(http://e.thumbs.redditmedia.com/JCMq43CUFl10BMrd.png)}
+.G_BlockJuice_{display:block;float:left;width:526px;height:380px;background-image:url(http://e.thumbs.redditmedia.com/hlrAgE8sTtVYdE8X.png)}
+.G_ppohu_{display:block;float:left;width:150px;height:147px;background-image:url(http://b.thumbs.redditmedia.com/Pm3nkna3kZVhpZhs.png)}
+.G_ppsong_{display:block;float:left;width:600px;height:600px;background-image:url(http://a.thumbs.redditmedia.com/hsj4owiuTkss42Kf.png)}
+.G_dashurbate_{display:block;float:left;width:133px;height:150px;background-image:url(http://e.thumbs.redditmedia.com/5uosEn09yJf_tKUv.png)}
+.G_roguepie_{display:block;float:left;width:384px;height:411px;background-image:url(http://f.thumbs.redditmedia.com/39KDITX1Vm8WTcS5.png)}
+.G_pone_{display:block;float:left;width:558px;height:391px;background-image:url(http://d.thumbs.redditmedia.com/_X5pItgw8FQ2L1Pu.png)}
+.G_ppneck_{display:block;float:left;width:150px;height:150px;background-image:url(http://d.thumbs.redditmedia.com/1wwaohyTcWbmq793.png)}
+.G_ppneckturn_{display:block;float:left;width:150px;height:150px;background-image:url(http://e.thumbs.redditmedia.com/bH0INA0lQ3VyPSdL.png)}
+.G_ppcross_{display:block;float:left;width:150px;height:150px;background-image:url(http://f.thumbs.redditmedia.com/K18ksxgScxEnhhUA.png)}
+.G_ppend_{display:block;float:left;width:150px;height:150px;background-image:url(http://e.thumbs.redditmedia.com/9riW3I6Q773MDz-F.png)}
+.G_ppend2_{display:block;float:left;width:150px;height:150px;background-image:url(http://c.thumbs.redditmedia.com/pj_IylWLwDh16_0b.png)}
+.G_ppt_{display:block;float:left;width:150px;height:150px;background-image:url(http://e.thumbs.redditmedia.com/XYwvJk8Q4-ZL5rK4.png)}
+.G_ppoverlap_{display:block;float:left;width:150px;height:150px;background-image:url(http://d.thumbs.redditmedia.com/ABmeTs-YHcg8qdQW.png)}
+.G_blank_{display:block;float:left;width:150px;height:150px;background-image:url(http://d.thumbs.redditmedia.com/pbotzChiVRXp4RXW.png)}
+.G_ppwalk_{display:block;float:left;width:108px;height:126px;background-image:url(http://b.thumbs.redditmedia.com/zQIQ_PvEanq4G7Qg.png)}
+.G_doapinkieroll_,.G_pproll_{display:block;float:left;width:106px;height:138px;background-image:url(http://c.thumbs.redditmedia.com/M6VGiFy_D0aHhee8.png)}
+.G_ppderp_{display:block;float:left;width:150px;height:149px;background-image:url(http://c.thumbs.redditmedia.com/gcGtDr1kcWEQKdP8.png)}
+.G_honk_{display:block;float:left;width:200px;height:168px;background-image:url(http://e.thumbs.redditmedia.com/nXsBtD9rKg9ZqzZL.png)}
+.G_trixiestache_{display:block;float:left;width:170px;height:200px;background-image:url(http://a.thumbs.redditmedia.com/RAFWgVx70Jag8Mv6.png)}
+.G_jizz_{display:block;float:left;width:160px;height:97px;background-image:url(http://d.thumbs.redditmedia.com/K3_bLeg6rbxjuJYc.png)}
+.G_llladies_{display:block;float:left;width:150px;height:150px;background-image:url(http://e.thumbs.redditmedia.com/JCMq43CUFl10BMrd.png)}
 .G_ban_{color:red;font-size:0px;font-weight:bold;cursor:text}
 .G_ban_:before{content:"(USER WAS BANNED FOR THIS POST)";font-size:10pt;font-weight:bold;font-family:arial, helvetica, sans-serif;color:#F00000;visibility:visible}
 .G_alt_text_{color:gray;font-weight:normal;cursor:text}
 .G_upvote_{background-position:-32px -570px}
-.G_downvote_,.G_upvote_{float:left;width:14px;height:15px;background-image:url(http://b.thumbs.redditmedia.com/ckm8CrAbDaVtHTZI.png)}
+.G_downvote_,.G_upvote_{display:block;float:left;width:14px;height:15px;background-image:url(http://b.thumbs.redditmedia.com/ckm8CrAbDaVtHTZI.png)}
 .G_downvote_{background-position:0px -570px}
-.G_mirrorlee_{float:left;width:300px;height:226px;background-image:url(http://a.thumbs.redditmedia.com/oOB-gaiwZGVT3YlB.png)}
-.G_mirrorlee2_{float:left;width:300px;height:225px;background-image:url(http://a.thumbs.redditmedia.com/P4-LEcXHFPjHGZbx.png)}
+.G_mirrorlee_{display:block;float:left;width:300px;height:226px;background-image:url(http://a.thumbs.redditmedia.com/oOB-gaiwZGVT3YlB.png)}
+.G_mirrorlee2_{display:block;float:left;width:300px;height:225px;background-image:url(http://a.thumbs.redditmedia.com/P4-LEcXHFPjHGZbx.png)}
 .md a[href|="/tinytxt!"]{font-family:"monospace", "Courier";color:inherit;cursor:text;font-size:1px}
 .md a[href|="/pinkhover!"]{color:#000000;cursor:text}
-.G_catleaves_{float:left;width:320px;height:199px;background-image:url(http://a.thumbs.redditmedia.com/uNKkT1pi0XDmD_nZ.png)}
+.G_catleaves_{display:block;float:left;width:320px;height:199px;background-image:url(http://a.thumbs.redditmedia.com/uNKkT1pi0XDmD_nZ.png)}
 .G_catleaves_,.G_mirrorlee2_,.G_mirrorlee_{background-position:0px 0px}
 .md a[href="//#advicecmc"],.md a[href="//#advicedash"],.md a[href="//#advicederp"],.md a[href="//#advicegummy"],.md a[href="//#advicehoers"],.md a[href="//#adviceluna"],.md a[href="//#adviceoct"],.md a[href="//#advicepbb"],.md a[href="//#advicepinkamina"],.md a[href="//#advicescoot"],.md a[href="//#advicescratch"],.md a[href="//#advicescrew"],.md a[href="//#adviceshy"]{width:300px;height:300px;cursor:default;display:inline-block;background-image:url(http://f.thumbs.redditmedia.com/CRUrOZBk1L-y-b7k.png);background-repeat:no-repeat;text-align:center;color:white;font-family:Impact, sans-serif;font-size:25px;line-height:24px;text-shadow:2px 2px 2px black, -2px -2px 2px black, -2px 2px 2px black, 2px -2px 2px black;overflow:hidden;position:relative;text-transform:uppercase}
 .md a[href="//#advicehoers"]{width:300px;height:300px;background-position:-606px -304px}
