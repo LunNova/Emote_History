@@ -1,6 +1,6 @@
 /*Parsed 56 emote aliases.*/
-.G_dashurbate_{width:133px;height:150px;background-image:url(http://e.thumbs.redditmedia.com/5uosEn09yJf_tKUv.png)}
-.G_jizz_{width:160px;height:97px;background-image:url(http://d.thumbs.redditmedia.com/K3_bLeg6rbxjuJYc.png)}
+.G_dashurbate_{float:left;width:133px;height:150px;background-image:url(http://e.thumbs.redditmedia.com/5uosEn09yJf_tKUv.png)}
+.G_jizz_{float:left;width:160px;height:97px;background-image:url(http://d.thumbs.redditmedia.com/K3_bLeg6rbxjuJYc.png)}
 .G_bigenough_{float:left;width:1128px;height:1250px;background-image:url(http://c.thumbs.redditmedia.com/lfTijbZZCPlbHbYh.png)}
 .G_hugehorsedick_{float:left;width:1588px;height:2338px;background-image:url(http://f.thumbs.redditmedia.com/c5K0xsvBeSKZ3Yow.png)}
 .G_selfsuck_{float:left;width:580px;height:492px;background-image:url(http://b.thumbs.redditmedia.com/QpSUTDbkEevI5gEs.png)}
@@ -29,7 +29,7 @@
 .md a[href*="images.4chan.org"]:before,.md a[href*="motherless.com"]:before,.md a[href*="static.fjcdn.com"]:before{color:gray;content:"["}
 .G_sandwich_{float:none;width:258px;height:212px;background-position:-0px -0px;background-image:url(http://a.thumbs.redditmedia.com/xqcT95cAGpl1Xmdf.png)}
 .G_swh7s_{float:none;width:300px;height:263px;background-position:-0px -0px;background-image:url(http://e.thumbs.redditmedia.com/XqDfRoy7kKraBSCL.png)}
-.G_cl00_,.G_futashy_,.G_rcl00_,.G_rfutashy_{width:70px;height:70px;background-image:url(http://d.thumbs.redditmedia.com/gJdjW6-2MiXCes53.png)}
+.G_cl00_,.G_futashy_,.G_rcl00_,.G_rfutashy_{float:left;width:70px;height:70px;background-image:url(http://d.thumbs.redditmedia.com/gJdjW6-2MiXCes53.png)}
 .G_cl00_,.G_futashy_{background-position:-0px -0px}
 .G_rcl00_,.G_rfutashy_{background-position:-70px -0px}
 .G_jizz_[href*="-combine"] + a{z-index:1;position:relative;left:-110px;top:-5px;margin-right:0px;margin-bottom:0px}

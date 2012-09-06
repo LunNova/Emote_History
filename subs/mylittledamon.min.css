@@ -1,12 +1,12 @@
 /*Parsed 39 emote aliases.*/
-.G_cheeriwat_,.G_eeewat_{background-image:url(http://a.thumbs.redditmedia.com/3DMawCWtihrXBe1N.png)}
+.G_cheeriwat_,.G_eeewat_{float:left;background-image:url(http://a.thumbs.redditmedia.com/3DMawCWtihrXBe1N.png)}
 .G_eeewat_{width:266px;height:389px;background-position:0px -24px}
 .G_cheeriwat_{width:266px;height:312px;background-position:-266px -92px}
-.G_damoneyes_,.G_damonflip_,.G_damonfun_,.G_damonnannersspiders_,.G_damonplot_,.G_damonsalute_,.G_damonstop_,.G_damonwithit_{background-image:url(http://f.thumbs.redditmedia.com/T1WNIh53sRcVlJhY.png)}
+.G_damoneyes_,.G_damonflip_,.G_damonfun_,.G_damonnannersspiders_,.G_damonplot_,.G_damonsalute_,.G_damonstop_,.G_damonwithit_{float:left;background-image:url(http://f.thumbs.redditmedia.com/T1WNIh53sRcVlJhY.png)}
 .G_damonsalute_{width:172px;height:200px;background-position:-265px -254px}
 .G_damonstop_{width:200px;height:190px;background-position:-439px -254px}
 .G_damonwithit_{width:149px;height:200px;background-position:-641px -254px}
-.G_rdamoneyes_,.G_rdamonflip_,.G_rdamonfun_,.G_rdamonnannersspiders_,.G_rdamonplot_,.G_rdamonsalute_,.G_rdamonstop_,.G_rdamonwithit_{background-image:url(http://d.thumbs.redditmedia.com/vORpieYzfTya9Bqu.png)}
+.G_rdamoneyes_,.G_rdamonflip_,.G_rdamonfun_,.G_rdamonnannersspiders_,.G_rdamonplot_,.G_rdamonsalute_,.G_rdamonstop_,.G_rdamonwithit_{float:left;background-image:url(http://d.thumbs.redditmedia.com/vORpieYzfTya9Bqu.png)}
 .G_rdamoneyes_,.G_damoneyes_{width:168px;height:250px;background-position:-2px -2px}
 .G_rdamonflip_,.G_damonflip_{width:253px;height:200px;background-position:-172px -2px}
 .G_rdamonfun_,.G_damonfun_{width:250px;height:171px;background-position:-427px -2px}
@@ -15,6 +15,6 @@
 .G_rdamonsalute_{width:283px;height:200px;background-position:-265px -254px}
 .G_rdamonstop_{width:200px;height:190px;background-position:-550px -254px}
 .G_rdamonwithit_{width:149px;height:200px;background-position:-752px -254px}
-.G_damoncorn_{width:250px;height:315px;background-image:url(http://a.thumbs.redditmedia.com/rGA4LAPcCkYCIsVB.png);margin-left:3px;margin-right:3px}
-.G_damonwhat_{width:450px;height:320px;background-image:url(http://e.thumbs.redditmedia.com/t_2V13gM2jrZzu3R.png);margin-left:3px;margin-right:3px}
-.G_damonshrug_{width:200px;height:207px;background-image:url(http://f.thumbs.redditmedia.com/K05mIvLOPSyB0oJ_.png);margin-left:3px;margin-right:3px}
+.G_damoncorn_{width:250px;height:315px;background-image:url(http://a.thumbs.redditmedia.com/rGA4LAPcCkYCIsVB.png);float:left;margin-left:3px;margin-right:3px}
+.G_damonwhat_{width:450px;height:320px;background-image:url(http://e.thumbs.redditmedia.com/t_2V13gM2jrZzu3R.png);float:left;margin-left:3px;margin-right:3px}
+.G_damonshrug_{width:200px;height:207px;background-image:url(http://f.thumbs.redditmedia.com/K05mIvLOPSyB0oJ_.png);float:left;margin-left:3px;margin-right:3px}
