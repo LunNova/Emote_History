@@ -1,7 +1,7 @@
-/*Parsed 127 emote aliases.*/
+/*Parsed 129 emote aliases.*/
 .G_spoiler_{background:black;color:black}
 .G_spoiler_:hover{color:white}
-.G_laying_,.G_shrug_,.G_tableflip_,.G_vs00_,.G_vs01_,.G_vs02_,.G_vs03_,.G_vs04_,.G_vs05_,.G_vs06_,.G_vs07_,.G_vs08_,.G_vs10_,.G_vs11_,.G_vs12_,.G_vs13_,.G_vs14_,.G_vs15_,.G_vs16_,.G_vs17_,.G_vs18_,.G_vs20_,.G_vs21_,.G_vs22_,.G_vs23_,.G_vs24_,.G_vs25_,.G_vs26_,.G_vs27_,.G_vsbass_,.G_vscurious_,.G_vscute_,.G_vsdeal_,.G_vsderp_,.G_vsfilly_,.G_vshair_,.G_vshappy_,.G_vshey_,.G_vshooves_,.G_vsjuice_,.G_vslaying_,.G_vslook_,.G_vslying_,.G_vsmeh_,.G_vsmine_,.G_vsmog_,.G_vsnope_,.G_vsohyou_,.G_vsomg_,.G_vsoooo_,.G_vsplot_,.G_vssad_,.G_vsshrug_,.G_vssup_,.G_vstear_,.G_vswhathefuck_,.G_vswink_,.G_vswtf_,.G_vsyds_,.G_vsyoudontsay_{display:block;float:left;background-image:url(http://a.thumbs.redditmedia.com/Xkuxv8E9tvjFX39r.png)}
+.G_laying_,.G_shrug_,.G_tableflip_,.G_vs00_,.G_vs01_,.G_vs02_,.G_vs03_,.G_vs04_,.G_vs05_,.G_vs06_,.G_vs07_,.G_vs08_,.G_vs10_,.G_vs11_,.G_vs12_,.G_vs13_,.G_vs14_,.G_vs15_,.G_vs16_,.G_vs17_,.G_vs18_,.G_vs20_,.G_vs21_,.G_vs22_,.G_vs23_,.G_vs24_,.G_vs25_,.G_vs26_,.G_vs27_,.G_vsbass_,.G_vscurious_,.G_vscute_,.G_vsdeal_,.G_vsderp_,.G_vsfilly_,.G_vshair_,.G_vshappy_,.G_vshey_,.G_vshooves_,.G_vsjuice_,.G_vslaying_,.G_vslook_,.G_vslying_,.G_vsmeh_,.G_vsmine_,.G_vsmog_,.G_vsnope_,.G_vsohyou_,.G_vsomg_,.G_vsoooo_,.G_vsplot_,.G_vssad_,.G_vssalute_,.G_vsshrug_,.G_vssup_,.G_vstear_,.G_vswhathefuck_,.G_vswink_,.G_vswtf_,.G_vsyds_,.G_vsyoudontsay_{display:block;float:left;background-image:url(http://c.thumbs.redditmedia.com/tt4s3hgEsXnKxZxt.png)}
 .G_vs22_,.G_vswink_{width:70px;height:70px;background-position:-2px -2px}
 .G_shrug_,.G_vsshrug_{width:250px;height:250px;background-position:-74px -2px}
 .G_tableflip_{width:298px;height:200px;background-position:-2px -254px}
@@ -32,6 +32,7 @@
 .G_laying_,.G_vslaying_{width:200px;height:164px;background-position:-74px -672px}
 .G_vsplot_{width:124px;height:91px;background-position:-280px -679px}
 .G_vs18_,.G_vscute_{width:60px;height:70px;background-position:-0px -78px}
+.G_vssalute_{width:187px;height:142px;background-position:-337px -0px}
 .G_hnnng_,.G_vshnngg_{display:block;float:left;width:70px;height:70px;background-image:url(http://d.thumbs.redditmedia.com/00T3gLdOawm80o--.png)}
 .G_hnnng_,.G_vshnngg_{background-position:-0px -0px}
 .G_sp_{display:inline-block;padding-right:100%}
