@@ -1,4 +1,4 @@
-/*Parsed 13004 emote aliases.*/
+/*Parsed 12982 emote aliases.*/
 .G_today_{float:left;background-image:url(http://d.thumbs.redditmedia.com/dN7SE1I0H0ul7jP-.png);width:500px;height:270px}
 .G_imamakethisanemoterealquick_{float:left;background-image:url(http://e.thumbs.redditmedia.com/reUrhLuICVFtwobp.png);width:456px;height:304px}
 .G_lunafilly_{float:left;background-image:url(http://b.thumbs.redditmedia.com/z-06hS5Md37RrzKy.png)}
@@ -1365,14 +1365,8 @@
 .G_napoleon_{background-position:-75px -300px;width:75px;height:100px}
 .G_s_{color:#222222;background:#CCCCCC;background-repeat:no-repeat;padding:0px 0px 0px 20px;cursor:text}
 .G_s_:hover{color:#8F8F8F}
+.G_s_::after{content:attr(title);background:#CCCCCC;color:#CCCCCC;padding:0px 10px 0px 10px}
 .G_s_:hover::after,.G_sl_:active::after,.G_sr_:active::after,.G_st_:active::after{color:black}
-.G_sl_,.G_sr_,.G_st_{color:#222222;background:#CCCCCC;cursor:text;display:block;min-width:70px;min-height:70px;border-radius:8px;margin-bottom:2px}
-.G_sl_:before,.G_sr_:before,.G_st_:before{content:"Spoiler!";text-align:center;text-shadow:0px -4px 4px #ffffff, 0px 4px 4px #ffffff;font-size:16px;color:#000000;background-image:url(http://d.thumbs.redditmedia.com/YKSDpjdgMQmII9YE.png);background-position:-70px -350px;display:block;margin-right:4px;vertical-align:bottom;line-height:115px;float:left;width:70px;height:70px}
-.G_st_:before{background-image:url(http://a.thumbs.redditmedia.com/afdAdOERezqeUcgB.png);background-position:-140px -70px}
-.G_sl_:before{background-image:url(http://a.thumbs.redditmedia.com/afdAdOERezqeUcgB.png);background-position:-70px -140px}
-.G_sl_:hover,.G_sr_:hover,.G_st_:hover{color:#8F8F8F;background:#EEEEEE}
-.G_s_::after,.G_sl_::after,.G_sr_::after,.G_st_::after{content:attr(title);background:#CCCCCC;color:#CCCCCC;padding:0px 10px 0px 10px}
-.G_s_:active::after,.G_sl_:hover::after,.G_sr_:hover::after,.G_st_:hover::after{color:black;background:#EEEEEE}
 .G_anteup_,.G_bjclassy_,.G_bjscared_,.G_bjstare_,.G_calamity_,.G_charity_,.G_fe00_,.G_fe01_,.G_fe02_,.G_fe03_,.G_fe04_,.G_fe10_,.G_fe11_,.G_fe12_,.G_fe13_,.G_fe20_,.G_fe21_,.G_fe30_,.G_fe31_,.G_fe40_,.G_fe41_,.G_fightcalamity_,.G_foe00_,.G_foe01_,.G_foe02_,.G_foe03_,.G_foe04_,.G_foe05_,.G_foe09_,.G_foe10_,.G_foe11_,.G_foe12_,.G_foe13_,.G_foe14_,.G_foe15_,.G_foe20_,.G_foe23_,.G_foe24_,.G_gawd_,.G_givemeec1101_,.G_glory_,.G_homage_,.G_lparmed_,.G_lphappy_,.G_lphurt_,.G_lpnotwant_,.G_lpwet_,.G_lpwut_,.G_mmdash_,.G_omnomnom_,.G_p21_,.G_p21fun_,.G_p21notamused_,.G_pinkeyes_,.G_psychoshy_,.G_qnwhsk_,.G_queenwhiskey_,.G_rampage_,.G_steelhooves_,.G_velvetremedy_{display:block;float:left;width:70px;height:70px;background-image:url(http://d.thumbs.redditmedia.com/RcQxtSagCYQyGGk9.png)}
 .G_fe11_,.G_foe04_,.G_qnwhsk_,.G_queenwhiskey_{background-position:-70px -70px;width:69px;height:70px}
 .G_fe21_,.G_foe24_,.G_p21fun_,.G_p21notamused_{background-position:-139px -70px;width:67px;height:70px}
@@ -2580,4 +2574,4 @@
 .md a[href^="/smooze"]{background-position:0px 0px;display:block;float:left;width:70px;height:70px;background-image:url(http://c.thumbs.redditmedia.com/5wA7HWAl2WD-UzA8.png)}
 .md a[href^="/rsmooze"]{background-position:-0px -70px;display:block;float:left;width:70px;height:70px;background-image:url(http://c.thumbs.redditmedia.com/5wA7HWAl2WD-UzA8.png)}
 .G_sp_{display:inline-block;padding-right:100%}
-.G_sp_ + .reddit_show_hidden_emotes_span,.md a[href*="oI3zA.png"][class~="thumbnail"],.G_s_ + .SuperRedditAltTextDisplay_Text,.G_sl_ + .SuperRedditAltTextDisplay_Text,.G_sr_ + .SuperRedditAltTextDisplay_Text,.G_st_ + .SuperRedditAltTextDisplay_Text{display:none}
+.G_sp_ + .reddit_show_hidden_emotes_span,.md a[href*="oI3zA.png"][class~="thumbnail"]{display:none}
