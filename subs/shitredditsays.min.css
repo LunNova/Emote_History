@@ -1,4 +1,4 @@
-/*Parsed 165 emote aliases.*/
+/*Parsed 167 emote aliases.*/
 .G_trigger_{color:black;background:black}
 .G_trigger_:hover{color:white;background:black}
 .G_trigger_:before{content:"[TW]";color:black;background:salmon}
@@ -152,3 +152,5 @@
 .G_bennsville_:after{width:333px;height:250px;content:" ";background-image:url(http://c.thumbs.redditmedia.com/lnqQNZ9SXYJhTXY2.png);display:inline-block}
 .G_batnned_:after{width:700px;height:250px;content:" ";background-image:url(http://a.thumbs.redditmedia.com/xOx8H_LHkWmf36UB.png);display:inline-block}
 .G_catbenned_:after{width:436px;height:449px;content:" ";background-image:url(http://b.thumbs.redditmedia.com/LsZl1hujmhFSgAi1.png);display:inline-block}
+.md a[href$="/spoiler"]{background:#000;color:#000}
+.md a[href$="/spoiler"]:hover{color:#FFF}
