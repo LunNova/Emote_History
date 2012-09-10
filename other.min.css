@@ -1,8 +1,8 @@
-body::after{content:"Your GrEmB is out of date, or you have multiple versions installed. Please go to http://nallar.me/scripts/ and update it!"; width: 400px; display:block; height: 40px; background-color: white; position: fixed; left:20px; top: 100px; border: 1px solid #E1B000;}/*Parsed 1607 emote aliases.*/
-.md a[href$="/hhspoiler"],.md a[href$="/spoiler"]{background:#000;color:#000;cursor:default;padding-left:3px;padding-right:3px}
-.res-nightmode .md a[href$="/hhspoiler"],.res-nightmode .md a[href$="/spoiler"]{background:#BBB;color:#BBB}
-.md a[href$="/hhspoiler"]:hover,.md a[href$="/spoiler"]:hover{color:#FFF;text-decoration:none}
-.res-nightmode .md a[href$="/hhspoiler"]:hover,.res-nightmode .md a[href$="/spoiler"]:hover{color:black}
+body::after{content:"Your GrEmB is out of date, or you have multiple versions installed. Please go to http://nallar.me/scripts/ and update it!"; width: 400px; display:block; height: 40px; background-color: white; position: fixed; left:20px; top: 100px; border: 1px solid #E1B000;}/*Parsed 1635 emote aliases.*/
+.G_hhspoiler_{background:#000;color:#000;cursor:default;padding-left:3px;padding-right:3px}
+.res-nightmode .G_hhspoiler_,.res-nightmode .G_spoiler_{background:#BBB;color:#BBB}
+.G_hhspoiler_:hover{color:#FFF;text-decoration:none}
+.res-nightmode .G_hhspoiler_:hover,.res-nightmode .G_spoiler_:hover{color:black}
 .G_apple_,.G_arrow_,.G_b_powder_,.G_b_rod_,.G_b_stand_,.G_bed_,.G_beef_,.G_blank_,.G_boat_,.G_bone_,.G_bonemeal_,.G_book_,.G_book_quill_,.G_book_written_,.G_bottle_,.G_bottle_enchanting_,.G_bow_,.G_bow_arrow2_,.G_bow_arrow3_,.G_bow_arrow_,.G_bowl_,.G_bread_,.G_brick_,.G_bucket_,.G_c_chicken_,.G_c_dye_,.G_c_fish_,.G_c_green_,.G_c_pork_,.G_cake_,.G_cauldron_,.G_clay_,.G_cm_boots_,.G_cm_chest_,.G_cm_helm_,.G_cm_pants_,.G_coal_,.G_cocoa_b_,.G_compass_,.G_cookie_,.G_d_axe_,.G_d_boots_,.G_d_chest_,.G_d_helm_,.G_d_hoe_,.G_d_pants_,.G_d_pick_,.G_d_shovel_,.G_d_sword_,.G_d_yellow_,.G_diamond_,.G_e_eye_,.G_e_pearl_,.G_egg_,.G_emerald_,.G_f_minecart_,.G_f_s_eye_,.G_feather_,.G_fireball_,.G_fish_,.G_fish_pole2_,.G_fish_pole_,.G_flint_,.G_flint_steel_,.G_g_apple_,.G_g_axe_,.G_g_boots_,.G_g_chest_,.G_g_dye_,.G_g_helm_,.G_g_hoe_,.G_g_ingot_,.G_g_melon_,.G_g_nugget_,.G_g_pants_,.G_g_pick_,.G_g_shovel_,.G_g_sword_,.G_g_tear_,.G_gs_dust_,.G_gunpowder_,.G_i_axe_,.G_i_boots_,.G_i_chest_,.G_i_door_,.G_i_helm_,.G_i_hoe_,.G_i_ingot_,.G_i_pants_,.G_i_pick_,.G_i_shovel_,.G_i_sword_,.G_ink_sac_,.G_l_boots_,.G_l_bucket_,.G_l_chest_,.G_l_dye_,.G_l_helm_,.G_l_pants_,.G_lapis_,.G_lb_dye_,.G_leather_,.G_lg_dye_,.G_m_11_,.G_m_13_,.G_m_blocks_,.G_m_bucket_,.G_m_cat_,.G_m_chirp_,.G_m_cream_,.G_m_dye_,.G_m_far_,.G_m_mall_,.G_m_mellohi_,.G_m_seeds_,.G_m_stal_,.G_m_strad_,.G_m_ward_,.G_map_,.G_melon_s_,.G_minecart_,.G_n_wart_,.G_o_dye_,.G_p_seeds_,.G_painting_,.G_paper_,.G_pi_dye_,.G_pork_,.G_pu_dye_,.G_quiver_,.G_r_chicken_,.G_r_flesh_,.G_r_red_,.G_redstone_,.G_repeater_,.G_ruby_,.G_s_axe_,.G_s_bowl_,.G_s_eye_,.G_s_hoe_,.G_s_minecart_,.G_s_pick_,.G_s_shovel_,.G_s_sword_,.G_saddle_,.G_seeds_,.G_shears_,.G_sign_,.G_slimeball_,.G_snowball_,.G_steak_,.G_stick_,.G_string_,.G_sugar_,.G_sugarcane_,.G_w_axe_,.G_w_bucket_,.G_w_door_,.G_w_hoe_,.G_w_pick_,.G_w_shovel_,.G_w_sword_,.G_watch_,.G_wheat_{width:16px;height:16px;content:" ";background-image:url(http://e.thumbs.redditmedia.com/Jg3CSTmImsMeh9yp.png);display:inline-block;cursor:default}
 .G_d_hoe_{background-position:-48px -128px}
 .G_stick_{background-position:-80px -48px}
@@ -383,9 +383,9 @@ body::after{content:"Your GrEmB is out of date, or you have multiple versions in
 .G_zombievillager_{background-position:0px -800px}
 .G_wither_{background-position:0px -816px}
 .G_witherskeleton_{background-position:0px -832px}
-.md a[href$="/hhstatus_green"],.md a[href$="/hhstatus_red"]{background:url(http://d.thumbs.redditmedia.com/xoUOGqcP0tYdO2L3.png) no-repeat scroll -9999px -9999px transparent;height:32px;vertical-align:middle;width:32px;border:0px;cursor:default;text-indent:-9999px;border-radius:0px;-moz-border-radius:0px;-webkit-border-radius:0px;padding:0px;margin-bottom:2px;margin-top:0px;font-size:1.1em}
-.G_blank_,.G_blaze_,.G_crossoff_,.G_l_helm_,.md a[href$="/hhstatus_red"]{background-position:0px 0px}
-.G_chicken_,.G_l_pants_,.G_leftdownoff_,.G_ore_gold_,.md a[href$="/hhstatus_green"]{background-position:0px -32px}
+.G_hhstatus_green_,.G_hhstatus_red_{background:url(http://d.thumbs.redditmedia.com/xoUOGqcP0tYdO2L3.png) no-repeat scroll -9999px -9999px transparent;height:32px;vertical-align:middle;width:32px;border:0px;cursor:default;text-indent:-9999px;border-radius:0px;-moz-border-radius:0px;-webkit-border-radius:0px;padding:0px;margin-bottom:2px;margin-top:0px;font-size:1.1em}
+.G_blank_,.G_blaze_,.G_crossoff_,.G_hhstatus_red_,.G_l_helm_{background-position:0px 0px}
+.G_chicken_,.G_hhstatus_green_,.G_l_pants_,.G_leftdownoff_,.G_ore_gold_{background-position:0px -32px}
 .G_cock_{background-image:url(http://c.thumbs.redditmedia.com/-0WIf4XIKAekBHkP.png);background-position:right center;background-repeat:no-repeat;display:inline-block;height:24px;text-indent:-9999px;vertical-align:middle;width:21px}
 .G_goat_{background-image:url(http://a.thumbs.redditmedia.com/gwfebV-7d1nF0WeH.png);background-position:right center;background-repeat:no-repeat;display:inline-block;height:24px;text-indent:-9999px;vertical-align:middle;width:21px}
 .G_cock_:hover,.G_goat_:hover{text-indent:0;width:auto;padding-right:30px;max-width:none}
@@ -595,6 +595,36 @@ body::after{content:"Your GrEmB is out of date, or you have multiple versions in
 .G_sweetcatch_:after{width:80px;height:35px;content:"";background-image:url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);background-position:0px -282px;display:inline-block}
 .G_dogs_:after{content:"";background-image:url(http://a.thumbs.redditmedia.com/cWmZwgBCRVpGSofl.png);width:110px;height:89px;display:inline-block}
 .G_mspareader_:after{width:32px;height:32px;content:"";background-image:url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);background-position:0 -320px;display:inline-block}
+.G_spoiler_{background:#000;color:#000}
+.G_spoiler_:hover{color:#FFF}
+.G_cc_{color:#77003c;font-family:"monospace", "courier new"}
+.G_cg_{color:#626262;font-family:"monospace", "courier new"}
+.G_ct_{color:#000056;font-family:"monospace", "courier new"}
+.G_ca_{color:#6a006a;font-family:"monospace", "courier new"}
+.G_gc_{color:#008282;font-family:"monospace", "courier new"}
+.G_gg_{color:#4AC925;font-family:"monospace", "courier new"}
+.G_gt_{color:#0715CD;font-family:"monospace", "courier new"}
+.G_ga_{color:#008141;font-family:"monospace", "courier new"}
+.G_tc_{color:#2b0057;font-family:"monospace", "courier new"}
+.G_tg_{color:#e00707;font-family:"monospace", "courier new"}
+.G_tt_{color:#b536da;font-family:"monospace", "courier new"}
+.G_ta_{color:#a1a100;font-family:"monospace", "courier new"}
+.G_ac_{color:#416600;font-family:"monospace", "courier new"}
+.G_ag_{color:#005682;font-family:"monospace", "courier new"}
+.G_at_{color:#a15000;font-family:"monospace", "courier new"}
+.G_aa_{color:#a10000;font-family:"monospace", "courier new"}
+.G_stt_{color:#f2a400;font-family:"monospace", "courier new"}
+.G_stg_{color:#ff6ff2;font-family:"monospace", "courier new"}
+.G_sgt_{color:#1f9400;font-family:"monospace", "courier new"}
+.G_sgg_{color:#00d5f2;font-family:"monospace", "courier new"}
+.G_UU_{color:#929292;font-family:"monospace", "courier new"}
+.G_uu_{color:#323232;font-family:"monospace", "courier new"}
+.G_docscratch_{color:#ffffff;font-family:"monospace", "courier new"}
+.G_docscratch_:hover{background:#0e4603;color:#ffffff}
+.G_scratchbg_{background:#0e4603;color:#ffffff;font-family:"monospace", "courier new"}
+.G_dunkass_{color:#000000;font-family:"Comic Sans", "Comic Sans MS", cursive}
+.G_lime_{color:#568200;font-family:"monospace", "courier new"}
+.G_ff_{color:#4b4b4b;font-family:"monospace", "courier new"}
 .G_hhs_{display:inline-block;background:lightgrey;color:black;cursor:text}
 .G_hhs_::after{content:attr(title);background:black;color:black;visibility:visible;border-radius:3px;padding:0 3px;margin-left:5px}
 .G_hhs_:active::after,.G_hhs_:hover::after{color:white}

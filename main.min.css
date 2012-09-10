@@ -1,4 +1,4 @@
-body::after{content:"Your GrEmB is out of date, or you have multiple versions installed. Please go to http://nallar.me/scripts/ and update it!"; width: 400px; display:block; height: 40px; background-color: white; position: fixed; left:20px; top: 100px; border: 1px solid #E1B000;}/*Parsed 13077 emote aliases.*/
+body::after{content:"Your GrEmB is out of date, or you have multiple versions installed. Please go to http://nallar.me/scripts/ and update it!"; width: 400px; display:block; height: 40px; background-color: white; position: fixed; left:20px; top: 100px; border: 1px solid #E1B000;}/*Parsed 13075 emote aliases.*/
 .G_today_{float:left;background-image:url(http://d.thumbs.redditmedia.com/dN7SE1I0H0ul7jP-.png);width:500px;height:270px}
 .G_imamakethisanemoterealquick_{float:left;background-image:url(http://e.thumbs.redditmedia.com/reUrhLuICVFtwobp.png);width:456px;height:304px}
 .G_lunafilly_{float:left;background-image:url(http://b.thumbs.redditmedia.com/z-06hS5Md37RrzKy.png)}
@@ -1133,8 +1133,6 @@ body::after{content:"Your GrEmB is out of date, or you have multiple versions in
 .G_nsc00_,.G_nsc01_,.G_nsc02_,.G_nsc03_,.G_nsc04_,.G_nsc05_,.G_nsc06_,.G_nsc07_,.G_nsc08_,.G_nsc09_,.G_nsc10_,.G_nsc11_,.G_nsc12_,.G_nsc13_,.G_nsc14_,.G_nsc15_,.G_nsc16_,.G_nsc17_,.G_nsc18_,.G_nsc19_,.G_nsc20_,.G_nsc21_,.G_nsc22_,.G_nsc23_,.G_nsc24_,.G_nsc25_,.G_nsc26_,.G_nsc27_,.G_nsc28_,.G_nsc29_{display:block;float:left;width:70px;height:70px;background-image:url(http://b.thumbs.redditmedia.com/BYQKdFxQZlPEdS2I.png)}
 .G_nsb00_,.G_nsb01_,.G_nsb02_,.G_nsb03_,.G_nsb04_,.G_nsb05_,.G_nsb06_,.G_nsb07_,.G_nsb08_,.G_nsb09_,.G_nsb10_,.G_nsb11_,.G_nsb12_,.G_nsb13_,.G_nsb14_,.G_nsb15_,.G_nsb16_,.G_nsb17_,.G_nsb18_,.G_nsb19_,.G_nsb20_,.G_nsb21_,.G_nsb22_,.G_nsb23_,.G_nsb24_,.G_nsb25_,.G_nsb26_,.G_nsb27_,.G_nsb28_,.G_nsb29_,.G_nsb30_,.G_nsb31_,.G_nsb32_,.G_nsb33_,.G_nsb34_,.G_nsb35_,.G_nsb36_,.G_nsb37_,.G_nsb38_,.G_nsb39_{display:block;float:left;width:50px;height:50px;background-image:url(http://e.thumbs.redditmedia.com/dCzKL-gNqv9H53ZR.png)}
 .G_nsb09_{background-position:-0px -4500px}
-.md a[href$="/spoiler"]{background:#000;color:#000}
-.md a[href$="/spoiler"]:hover{color:#FFF}
 .G_twiquery_{display:block;float:left;width:100px;height:100px;background-image:url(http://b.thumbs.redditmedia.com/EelvUlFuo9OchBBm.png)}
 .G_vinylwhat_{display:block;float:left;width:100px;height:100px;background-image:url(http://f.thumbs.redditmedia.com/oBaxGysrPZEUlrDw.png)}
 .G_pinkiehi_{display:block;float:left;width:100px;height:100px;background-image:url(http://d.thumbs.redditmedia.com/YYmG1OT96oJgSapE.png)}
