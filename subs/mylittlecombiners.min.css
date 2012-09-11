@@ -16,12 +16,12 @@
 .md a[href|="/stmount-combine"]:after,.md a[href|="/stmount-combine"]:before,.G_stmount_{background-position:-0px -610px}
 .md a[href|="/whoovesmount-combine"]:after,.md a[href|="/whoovesmount-combine"]:before,.G_whoovesmount_{background-position:-0px -305px}
 .md a[href|="/fpnmount-combine"]:after,.md a[href|="/fpnmount-combine"]:before,.G_fpnmount_{background-position:-0px -0px}
-.md a[href*="mount-combine"] + a[href^="/ajfun"]{margin-left:0px}
-.md a[href*="mount-combine"] + a[href^="/darklefun"],.md a[href*="mount-combine"] + a[href^="/dashfun"],.md a[href*="mount-combine"] + a[href^="/twifun"]{margin-left:-26px}
-.md a[href*="mount-combine"] + a[href^="/shyfun"]{margin-left:-18px}
-.md a[href*="mount-combine"] + a[href^="/rarfun"]{margin-left:-34px}
-.md a[href*="mount-combine"] + a[href^="/ppfun"]{margin-left:-10px}
-.md a[href*="mount-combine"] + a[href^="/pp"][href*="-combine"] + a{width:150px;position:relative;left:-70px;top:135px;z-index:4}
-.md a[href^="/emptytable"][href*="-combine"],.G_jizz_[href*="-combine"]{z-index:2;position:relative}
-.md a[href^="/emptytable"][href*="-combine"] + a{z-index:1;position:relative;margin-right:-999px;margin-bottom:-999px;left:-120px;top:20px;max-height:119px}
-.md a[href^="/emptytable"][href*="-combine"] + a[href^="/pp"][href*="-combine"] + a{width:150px;position:relative;left:14px;top:5px}
+.md a[href*="mount-combine"] + .G_ajfun_{margin-left:0px}
+.md a[href*="mount-combine"] + .G_darklefun_,.md a[href*="mount-combine"] + .G_dashfun_,.md a[href*="mount-combine"] + .G_twifun_{margin-left:-26px}
+.md a[href*="mount-combine"] + .G_shyfun_{margin-left:-18px}
+.md a[href*="mount-combine"] + .G_rarfun_{margin-left:-34px}
+.md a[href*="mount-combine"] + .G_ppfun_{margin-left:-10px}
+.md a[href*="mount-combine"] + .G_pp_[href*="-combine"] + a{width:150px;position:relative;left:-70px;top:135px;z-index:4}
+.G_emptytable_[href*="-combine"],.G_jizz_[href*="-combine"]{z-index:2;position:relative}
+.G_emptytable_[href*="-combine"] + a{z-index:1;position:relative;margin-right:-999px;margin-bottom:-999px;left:-120px;top:20px;max-height:119px}
+.G_emptytable_[href*="-combine"] + .G_pp_[href*="-combine"] + a{width:150px;position:relative;left:14px;top:5px}

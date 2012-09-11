@@ -1,5 +1,8 @@
 *.sh
 *.php
+main.min.css
+other.min.css
+main_nsfw.min.css
 map.css
 cachedsubs/
 unstable/
