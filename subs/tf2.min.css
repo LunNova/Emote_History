@@ -1,0 +1,79 @@
+/*Parsed 150 emote aliases.*/
+.md a[href^="/ambassador"]:after,.md a[href^="/axe"]:after,.md a[href^="/axe"]:before,.md a[href^="/backstab"]:after,.md a[href^="/backstab"]:before,.md a[href^="/bat"]:after,.md a[href^="/bestfriends"]:before,.md a[href^="/bodyshot"]:after,.md a[href^="/bottle"]:after,.md a[href^="/brokeup"]:before,.md a[href^="/caber"]:after,.md a[href^="/dominating"]:before,.md a[href^="/equalizer"]:after,.md a[href^="/eyelander"]:after,.md a[href^="/fencing"]:after,.md a[href^="/fish"]:after,.md a[href^="/fist"]:after,.md a[href^="/flamethrower"]:after,.md a[href^="/flare"]:after,.md a[href^="/grenade"]:after,.md a[href^="/gunslinger"]:after,.md a[href^="/hadouken"]:after,.md a[href^="/headshot"]:after,.md a[href^="/headshot"]:before,.md a[href^="/huntsman"]:after,.md a[href^="/kgb"]:after,.md a[href^="/knife"]:after,.md a[href^="/kukri"]:after,.md a[href^="/mangler"]:after,.md a[href^="/mantreads"]:after,.md a[href^="/minigun"]:after,.md a[href^="/needles"]:after,.md a[href^="/pan"]:after,.md a[href^="/pistol"]:after,.md a[href^="/pow"]:after,.md a[href^="/reflect"]:after,.md a[href^="/reflect"]:before,.md a[href^="/revenge"]:before,.md a[href^="/revolver"]:after,.md a[href^="/rocket"]:after,.md a[href^="/sapper"]:after,.md a[href^="/saxxy"]:after,.md a[href^="/scattergun"]:after,.md a[href^="/shotgun"]:after,.md a[href^="/shovel"]:after,.md a[href^="/sleeper"]:after,.md a[href^="/smg"]:after,.md a[href^="/sticky"]:after,.md a[href^="/targe"]:after,.md a[href^="/ubersaw"]:after,.md a[href^="/wrench"]:after,.md a[href^="/wtf"]:after,.md a[href^="/wtf"]:before{height:32px;width:94px;margin:0 4px;content:" ";display:inline-block;vertical-align:-11px;background-image:url(http://b.thumbs.redditmedia.com/6sKOQLIy__ubzfrs.png);background-position:-3px 1px}
+.md a[href^="/huntsman"]:after{width:94px;background-position:-3px 1px}
+.md a[href^="/bat"]:after{width:86px;background-position:-100px 0}
+.md a[href^="/bat"]:before{margin:0 -75px 0 17px}
+.md a[href^="/eyelander"]:after{width:63px;background-position:-191px 0}
+.md a[href^="/eyelander"]:before{margin:0 -57px 0 -1px}
+.md a[href^="/ambassador"]:after{width:93px;background-position:-1px -33px}
+.md a[href^="/axe"]:after{width:76px;background-position:-97px -32px}
+.md a[href^="/axe"]:before{width:58px;background-position:-137px -416px;margin:0 -76px 0 18px}
+.md a[href^="/sapper"]:after{width:77px;background-position:-177px -32px}
+.md a[href^="/mangler"]:after{width:126px;background-position:-1px -64px}
+.md a[href^="/targe"]:after{width:61px;background-position:-130px -64px}
+.md a[href^="/bottle"]:after{width:58px;background-position:-194px -64px}
+.md a[href^="/bottle"]:before{margin:0 -70px 0 12px}
+.md a[href^="/ubersaw"]:after{width:73px;background-position:-1px -96px}
+.md a[href^="/wtf"]:after{width:60px;background-position:-80px -96px}
+.md a[href^="/wtf"]:before{width:58px;background-position:-137px -416px;margin:0 -68px 0 10px}
+.md a[href^="/reflect"]:after{width:60px;background-position:-146px -96px}
+.md a[href^="/reflect"]:before{width:58px;background-position:-137px -416px;margin:0 -62px 0 4px}
+.md a[href^="/backstab"]:after{width:42px;background-position:-211px -96px}
+.md a[href^="/equalizer"]:after{width:62px;background-position:0 -128px}
+.md a[href^="/fencing"]:after{width:90px;background-position:-66px -128px}
+.md a[href^="/fist"]:after{width:60px;background-position:-161px -128px}
+.md a[href^="/bodyshot"]:after{width:28px;background-position:-225px -128px}
+.md a[href^="/bodyshot"]:before{margin:0 -47px 0 -11px}
+.md a[href^="/flamethrower"]:after{width:88px;background-position:-1px -160px}
+.md a[href^="/flare"]:after{width:87px;background-position:-93px -160px}
+.md a[href^="/pan"]:after{width:68px;background-position:-186px -160px}
+.md a[href^="/pan"]:before{margin:0 -69px 0 11px}
+.md a[href^="/grenade"]:after{width:95px;background-position:-4px -193px}
+.md a[href^="/grenade"]:before{margin:0 -87px 0 29px}
+.md a[href^="/gunslinger"]:after{width:58px;background-position:-110px -192px}
+.md a[href^="/gunslinger"]:before,.md a[href^="/fist"]:before{margin:0 -77px 0 19px}
+.md a[href^="/hadouken"]:after{width:69px;background-position:-185px -192px}
+.md a[href^="/hadouken"]:before,.md a[href^="/fencing"]:before,.md a[href^="/mangler"]:before,.md a[href^="/sapper"]:before,.md a[href^="/ambassador"]:before{display:none}
+.md a[href^="/fish"]:after{width:81px;background-position:-1px -224px}
+.md a[href^="/fish"]:before,.md a[href^="/ubersaw"]:before{margin:0 -73px 0 15px}
+.md a[href^="/kgb"]:after{width:76px;background-position:-89px -224px}
+.md a[href^="/knife"]:after{width:81px;background-position:-171px -224px}
+.md a[href^="/scattergun"]:after{width:84px;background-position:-1px -256px}
+.md a[href^="/scattergun"]:before{margin:0 -78px 0 20px}
+.md a[href^="/headshot"]:after{width:41px;background-position:-91px -256px}
+.md a[href^="/headshot"]:before,.md a[href^="/backstab"]:before{width:58px;background-position:-137px -416px;margin:0 -54px 0 -4px}
+.md a[href^="/sleeper"]:after{width:110px;background-position:-137px -256px}
+.md a[href^="/revolver"]:after{width:66px;background-position:-2px -288px}
+.md a[href^="/revolver"]:before,.md a[href^="/equalizer"]:before{margin:0 -65px 0 7px}
+.md a[href^="/kukri"]:after{width:87px;background-position:-71px -289px}
+.md a[href^="/kukri"]:before{margin:0 -82px 0 24px}
+.md a[href^="/minigun"]:after{width:90px;background-position:-164px -288px}
+.md a[href^="/minigun"]:before,.md a[href^="/knife"]:before,.md a[href^="/targe"]:before{margin:0 -74px 0 16px}
+.md a[href^="/saxxy"]:after{width:72px;background-position:-1px -320px}
+.md a[href^="/saxxy"]:before{margin:0 -71px 0 13px}
+.md a[href^="/needles"]:after{width:96px;background-position:-75px -320px}
+.md a[href^="/rocket"]:after{width:80px;background-position:-174px -320px}
+.md a[href^="/rocket"]:before,.md a[href^="/sleeper"]:before,.md a[href^="/kgb"]:before{margin:0 -84px 0 26px}
+.md a[href^="/sticky"]:after{width:84px;background-position:-1px -352px}
+.md a[href^="/sticky"]:before,.md a[href^="/flamethrower"]:before{margin:0 -81px 0 23px}
+.md a[href^="/smg"]:after{width:70px;background-position:-89px -352px}
+.md a[href^="/smg"]:before{margin:0 -64px 0 6px}
+.md a[href^="/shotgun"]:after{width:94px;background-position:-160px -352px}
+.md a[href^="/shotgun"]:before,.md a[href^="/flare"]:before{margin:0 -76px 0 18px}
+.md a[href^="/pistol"]:after{width:44px;background-position:-1px -384px}
+.md a[href^="/pistol"]:before{margin:0 -53px 0 -5px}
+.md a[href^="/pow"]:after{width:55px;background-position:-47px -384px}
+.md a[href^="/pow"]:before{width:0;display:none}
+.md a[href^="/wrench"]:after{width:82px;background-position:-102px -384px}
+.md a[href^="/wrench"]:before{margin:0 -67px 0 9px}
+.md a[href^="/caber"]:after{width:69px;background-position:-186px -384px}
+.md a[href^="/caber"]:before{margin:0 -59px 0 1px}
+.md a[href^="/shovel"]:after{width:86px;background-position:-1px -416px}
+.md a[href^="/shovel"]:before,.md a[href^="/needles"]:before,.md a[href^="/huntsman"]:before{margin:0 -86px 0 28px}
+.md a[href^="/mantreads"]:after{width:43px;background-position:-92px -416px}
+.md a[href^="/mantreads"]:before{margin:0 -49px 0 -9px}
+.md a[href^="/dominating"]:after{content:"is DOMINATING";margin:0 5px 0 0;color:#3f3923}
+.md a[href^="/revenge"]:after{content:"got REVENGE on";margin:0 5px 0 0;color:#3f3923}
+.md a[href^="/bestfriends"]:after{content:"is BEST FRIENDS with";margin:0 5px 0 0;color:#3f3923}
+.md a[href^="/brokeup"]:after{content:"BROKE UP with";margin:0 5px 0 0;color:#3f3923}
+.md a[href^="/brokeup"]:before,.md a[href^="/bestfriends"]:before,.md a[href^="/revenge"]:before,.md a[href^="/dominating"]:before{width:30px;background-position:-201px -416px}
