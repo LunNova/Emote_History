@@ -1,4 +1,4 @@
-/*Parsed 150 emote aliases.*/
+/*Parsed 151 emote aliases.*/
 .G_trigger_{color:black;background:black}
 .G_trigger_:hover{color:white;background:black}
 .G_trigger_:before{content:"[TW]";color:black;background:salmon}
@@ -69,6 +69,7 @@
 .G_yesgaga_:after{width:386px;height:363px;content:" ";background-position:0px -84px;background-image:url(http://b.thumbs.redditmedia.com/JbfEZgXXcwqgGdOs.png);display:inline-block}
 .G_woah_:after{width:392px;height:500px;content:" ";background-position:0px 0px;background-image:url(http://f.thumbs.redditmedia.com/YQeY4TF_q3VW7t7_.jpg);display:inline-block}
 .G_rulex_{width:392px;height:216px;content:" ";background-image:url(http://f.thumbs.redditmedia.com/EukPyUT0-6N5Dwi_.png);display:inline-block}
+.G_rushit_{width:273px;height:125px;content:" ";background-image:url(http://e.thumbs.redditmedia.com/iMvIgMua7BCTKnjd.png);display:inline-block}
 .G_racism_,.G_dontknow_{width:392px;height:294px;content:" ";background-position:0px -716px;background-image:url(http://f.thumbs.redditmedia.com/YQeY4TF_q3VW7t7_.jpg);display:inline-block}
 .G_invasion_:after{width:392px;height:378px;content:" ";background-position:0px -1010px;background-image:url(http://f.thumbs.redditmedia.com/YQeY4TF_q3VW7t7_.jpg);display:inline-block}
 .G_nogaga_:after{width:392px;height:345px;content:" ";background-position:0px -1388px;background-image:url(http://f.thumbs.redditmedia.com/YQeY4TF_q3VW7t7_.jpg);display:inline-block}
