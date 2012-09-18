@@ -1,4 +1,4 @@
-body::after{content:"Your GrEmB is out of date, or you have multiple versions installed. Please go to http://nallar.me/scripts/ and update it!"; width: 400px; display:block; height: 40px; background-color: white; position: fixed; left:20px; top: 100px; border: 1px solid #E1B000;}/*Parsed 13082 emote aliases.*/
+body::after{content:"Your GrEmB is out of date, or you have multiple versions installed. Please go to http://nallar.me/scripts/ and update it!"; width: 400px; display:block; height: 40px; background-color: white; position: fixed; left:20px; top: 100px; border: 1px solid #E1B000;}/*Parsed 13086 emote aliases.*/
 .G_today_{float:left;background-image:url(http://d.thumbs.redditmedia.com/dN7SE1I0H0ul7jP-.png);width:500px;height:270px}
 .G_imamakethisanemoterealquick_{float:left;background-image:url(http://e.thumbs.redditmedia.com/reUrhLuICVFtwobp.png);width:456px;height:304px}
 .G_lunafilly_{float:left;background-image:url(http://b.thumbs.redditmedia.com/z-06hS5Md37RrzKy.png)}
@@ -220,14 +220,14 @@ body::after{content:"Your GrEmB is out of date, or you have multiple versions in
 .G_pancalcos_{background-position:-1383px -0px;width:93px}
 .G_pgaben_{background-position:-1476px -0px;width:184px}
 .G_doctordrunk_{background-position:-1660px -0px;width:154px}
-.G_dintrot_,.G_flutterhey_,.G_gdbsmirk_,.G_pghoofpump_,.G_pglegcross_,.G_pgshock_,.G_pgshuffle_,.G_ponykakke_,.G_sistersprankton_,.G_sisterzealot_{display:block;float:left;height:150px;background-image:url(http://a.thumbs.redditmedia.com/dT4E79uUiKKJvD06.png)}
+.G_dinsfire_,.G_dintrot_,.G_flutterhey_,.G_gdb_,.G_gdbsmirk_,.G_pghoofpump_,.G_pglegcross_,.G_pgshock_,.G_pgshuffle_,.G_ponykakke_,.G_sistersprankton_,.G_sisterzealot_{display:block;float:left;height:150px;background-image:url(http://a.thumbs.redditmedia.com/dT4E79uUiKKJvD06.png)}
 .G_pghoofpump_{background-position:-0px -0px;width:71px}
 .G_pgshock_{background-position:-71px -0px;width:127px}
 .G_pglegcross_{background-position:-198px -0px;width:67px}
 .G_pgshuffle_{background-position:-265px -0px;width:78px}
 .G_ponykakke_{background-position:-343px -0px;width:139px}
-.G_gdbsmirk_{background-position:-482px -0px;width:119px}
-.G_dintrot_{background-position:-601px -0px;width:141px}
+.G_gdb_,.G_gdbsmirk_{background-position:-482px -0px;width:119px}
+.G_dinsfire_,.G_dintrot_{background-position:-601px -0px;width:141px}
 .G_sistersprankton_{background-position:-742px -0px;width:87px}
 .G_flutterhey_{background-position:-829px -0px;width:150px}
 .G_sisterzealot_{background-position:-979px -0px;width:186px}
