@@ -1,4 +1,4 @@
-/*Parsed 151 emote aliases.*/
+/*Parsed 152 emote aliases.*/
 .G_trigger_{color:black;background:black}
 .G_trigger_:hover{color:white;background:black}
 .G_trigger_:before{content:"[TW]";color:black;background:salmon}
@@ -41,6 +41,7 @@
 .G_dogout_:after{width:100px;height:25px;background-position:-67px -439px;content:" ";background-image:url(http://b.thumbs.redditmedia.com/detvcVr0wHxOoZKU.png);display:inline-block}
 .G_creeper_:after{width:80px;height:55px;background-position:-0px -545px;content:" ";background-image:url(http://b.thumbs.redditmedia.com/detvcVr0wHxOoZKU.png);display:inline-block}
 .G_creepess_:after{width:150px;height:86px;content:" ";background-position:0px -1003px;background-image:url(http://a.thumbs.redditmedia.com/UcrwmwUyUMMwwDfl.png);display:inline-block}
+.G_bird_:after{width:300px;height:305px;content:" ";background-position:0px 0px;background-image:url(http://c.thumbs.redditmedia.com/zp94BaEzwVhpvPSz.png);display:inline-block}
 .G_buttman_:after{width:60px;height:73px;content:" ";background-image:url(http://c.thumbs.redditmedia.com/KJUqGgL2ZvZCsGuP.png);display:inline-block}
 .G_dealwithit_:after{width:100px;height:25px;background-position:-67px -409px;content:" ";background-image:url(http://b.thumbs.redditmedia.com/detvcVr0wHxOoZKU.png);display:inline-block}
 .G_humour_:after,.G_humor_:after{width:70px;height:53px;background-position:-3px -602px;content:" ";background-image:url(http://b.thumbs.redditmedia.com/detvcVr0wHxOoZKU.png);display:inline-block}
