@@ -1,4 +1,4 @@
-/*Parsed 97 emote aliases.*/
+/*Parsed 98 emote aliases.*/
 .G_acceptant_:after,.G_q00_:after{width:16px;height:16px;content:"";background-image:url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);background-position:0px 0px;display:inline-block}
 .G_detestful_:after,.G_q10_:after{width:16px;height:16px;content:"";background-image:url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);background-position:-16px 0px;display:inline-block}
 .G_devious_:after,.G_q20_:after{width:16px;height:16px;content:"";background-image:url(http://a.thumbs.redditmedia.com/zcZQKYokNzKGzI5l.png);background-position:-32px 0px;display:inline-block}
@@ -69,6 +69,7 @@
 .G_dunkass_{color:#000000;font-family:"Comic Sans", "Comic Sans MS", cursive}
 .G_lime_{color:#568200;font-family:"monospace", "courier new"}
 .G_ff_{color:#4b4b4b;font-family:"monospace", "courier new"}
+.G_tw_{color:#ff0000;font-family:"monospace", "courier new"}
 .G_hhs_{display:inline-block;background:lightgrey;color:black;cursor:text}
 .G_hhs_::after{content:attr(title);background:black;color:black;visibility:visible;border-radius:3px;padding:0 3px;margin-left:5px}
 .G_hhs_:active::after,.G_hhs_:hover::after{color:white}
