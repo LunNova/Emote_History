@@ -1,4 +1,4 @@
-/*Parsed 152 emote aliases.*/
+/*Parsed 154 emote aliases.*/
 .G_trigger_{color:black;background:black}
 .G_trigger_:hover{color:white;background:black}
 .G_trigger_:before{content:"[TW]";color:black;background:salmon}
@@ -103,7 +103,8 @@
 .G_dogpalm_:after{width:149px;height:152px;content:" ";background-image:url(http://a.thumbs.redditmedia.com/LIVEidKRiCPYPLVx.png);display:inline-block;background-position:-302px -281px}
 .G_gawk_:after{width:147px;height:148px;content:" ";background-image:url(http://a.thumbs.redditmedia.com/LIVEidKRiCPYPLVx.png);display:inline-block;background-position:-302px -432px}
 .G_happy_:after{width:152px;height:149px;content:" ";background-image:url(http://a.thumbs.redditmedia.com/LIVEidKRiCPYPLVx.png);display:inline-block;background-position:-302px -580px}
-.G_benned_:after{width:625px;height:280px;content:" ";background-image:url(http://b.thumbs.redditmedia.com/bORmKDSAGCm6IP4U.png);display:inline-block}
+.G_brd_:after,.G_benned_:after{width:503px;height:511px;content:" ";background-image:url(http://d.thumbs.redditmedia.com/lN2PqMhj17PukfrQ.png);display:inline-block}
+.G_bennedict_:after{width:625px;height:280px;content:" ";background-image:url(http://b.thumbs.redditmedia.com/bORmKDSAGCm6IP4U.png);display:inline-block}
 .G_staybenned_:after{width:500px;height:517px;content:" ";background-image:url(http://e.thumbs.redditmedia.com/SV5V-deXDZjzdIFv.png);display:inline-block}
 .G_dinobenned_:after{width:600px;height:496px;content:" ";background-image:url(http://f.thumbs.redditmedia.com/Jein4Gbno47DcNkM.png);display:inline-block;background-position:0px 0px}
 .G_privilegeception_:after{width:348px;height:348px;content:" ";background-image:url(http://c.thumbs.redditmedia.com/kg-JOMLkztMRc67b.jpg);display:inline-block;background-position:0px 0px}
