@@ -1,4 +1,4 @@
-body::after{content:"Your GrEmB is out of date, or you have multiple versions installed. Please go to http://nallar.me/scripts/ and update it!"; width: 400px; display:block; height: 40px; background-color: white; position: fixed; left:20px; top: 100px; border: 1px solid #E1B000;}/*Parsed 13099 emote aliases.*/
+body::after{content:"Your GrEmB is out of date, or you have multiple versions installed. Please go to http://nallar.me/scripts/ and update it!"; width: 400px; display:block; height: 40px; background-color: white; position: fixed; left:20px; top: 100px; border: 1px solid #E1B000;}/*Parsed 13103 emote aliases.*/
 .G_today_{float:left;background-image:url(http://d.thumbs.redditmedia.com/dN7SE1I0H0ul7jP-.png);width:500px;height:270px}
 .G_imamakethisanemoterealquick_{float:left;background-image:url(http://e.thumbs.redditmedia.com/reUrhLuICVFtwobp.png);width:456px;height:304px}
 .G_lunafilly_{float:left;background-image:url(http://b.thumbs.redditmedia.com/z-06hS5Md37RrzKy.png)}
@@ -1845,7 +1845,7 @@ body::after{content:"Your GrEmB is out of date, or you have multiple versions in
 .G_twiglare_{width:124px;height:102px;background-position:-0px -3353px}
 .G_twiteehee_{width:104px;height:152px;background-position:-124px -3353px}
 .G_twiteeth_{width:141px;height:177px;background-position:-0px -3505px}
-.G_abthis_,.G_ajFoF_,.G_ajfof_,.G_bonheart_,.G_chaosgun_,.G_crackle_,.G_discordquite_,.G_fillyab_,.G_fillybonbon_,.G_fillycelestia_,.G_fillycheerile_,.G_fillydashready_,.G_fillyderpy_,.G_fillydis_,.G_fillyflirt_,.G_fillyfluttershysing_,.G_fillyfritter_,.G_fillykarma_,.G_fillylyra_,.G_fillyoctavia_,.G_fillyrd_,.G_fillyrose_,.G_fillysbstare_,.G_fillyspitfire_,.G_fillystrudel_,.G_fillytrixie_,.G_fillytwidance_,.G_fillyvinyl_,.G_ppsoawesome_,.G_ppwhat_,.G_rarisup_,.G_rarityfilly_,.G_scootasmile_,.G_scootawat_{display:block;float:left;background-image:url(http://a.thumbs.redditmedia.com/AqKoGSeYfOyDgB4H.png)}
+.G_abthis_,.G_ajFoF_,.G_ajfof_,.G_bonheart_,.G_chaosgun_,.G_crackle_,.G_discordquite_,.G_fillyab_,.G_fillybonbon_,.G_fillycelestia_,.G_fillycheerile_,.G_fillydashready_,.G_fillyderpy_,.G_fillydis_,.G_fillyflirt_,.G_fillyfluttershysing_,.G_fillyfritter_,.G_fillykarma_,.G_fillylyra_,.G_fillyoctavia_,.G_fillyrd_,.G_fillyrose_,.G_fillysbstare_,.G_fillyspitfire_,.G_fillystrudel_,.G_fillytrixie_,.G_fillytwidance_,.G_fillyvinyl_,.G_ppfacehoof_,.G_ppsoawesome_,.G_ppwhat_,.G_rarisup_,.G_rarityfilly_,.G_scootasmile_,.G_scootawat_,.G_umad_{display:block;float:left;background-image:url(http://d.thumbs.redditmedia.com/J1FVwBg6sOk2C8VE.png)}
 .G_fillyab_{height:70px;width:52px;background-position:0px 0px}
 .G_fillybonbon_{height:70px;width:62px;background-position:-110px 0px}
 .G_fillycelestia_{height:70px;width:65px;background-position:-172px 0px}
@@ -1879,6 +1879,8 @@ body::after{content:"Your GrEmB is out of date, or you have multiple versions in
 .G_discordquite_{height:150px;width:126px;background-position:-313px -676px}
 .G_abthis_{height:105px;width:123px;background-position:-0px -835px}
 .G_rarisup_{height:116px;width:130px;background-position:-144px -838px}
+.G_umad_{height:120px;width:134px;background-position:-278px -834px}
+.G_ppfacehoof_{height:100px;width:93px;background-position:-381px -210px}
 .G_artfun_,.G_bryvoodfun_,.G_pixelfun_{background-image:url(http://a.thumbs.redditmedia.com/oKR1l6L29UAOWRwB.png);display:block;float:left;width:212px;height:166px}
 .G_bryvoodfun_{background-position:-2px -170px}
 .G_artfun_{background-position:-2px -2px}
