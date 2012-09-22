@@ -1,4 +1,4 @@
-body::after{content:"Your GrEmB is out of date, or you have multiple versions installed. Please go to http://nallar.me/scripts/ and update it!"; width: 400px; display:block; height: 40px; background-color: white; position: fixed; left:20px; top: 100px; border: 1px solid #E1B000;}/*Parsed 13092 emote aliases.*/
+body::after{content:"Your GrEmB is out of date, or you have multiple versions installed. Please go to http://nallar.me/scripts/ and update it!"; width: 400px; display:block; height: 40px; background-color: white; position: fixed; left:20px; top: 100px; border: 1px solid #E1B000;}/*Parsed 13094 emote aliases.*/
 .G_today_{float:left;background-image:url(http://d.thumbs.redditmedia.com/dN7SE1I0H0ul7jP-.png);width:500px;height:270px}
 .G_imamakethisanemoterealquick_{float:left;background-image:url(http://e.thumbs.redditmedia.com/reUrhLuICVFtwobp.png);width:456px;height:304px}
 .G_lunafilly_{float:left;background-image:url(http://b.thumbs.redditmedia.com/z-06hS5Md37RrzKy.png)}
@@ -209,7 +209,7 @@ body::after{content:"Your GrEmB is out of date, or you have multiple versions in
 .G_fut10_{height:200px;width:170px;background-position:0 -400px}
 .G_fut11_{height:200px;width:178px;background-position:0 -600px}
 .G_fut12_{height:200px;width:242px;background-position:0 -800px}
-.G_bugs_,.G_coconutmonkey_,.G_doctordrunk_,.G_hellocake_,.G_pan10_,.G_pancalcos_,.G_panwaffbattle_,.G_pfreeman_,.G_pgaben_,.G_smothered_,.G_torgo_{display:block;float:left;height:150px;background-image:url(http://b.thumbs.redditmedia.com/xF5xLEVh2vd-NwuO.png)}
+.G_bugs_,.G_coconutmonkey_,.G_doctordrunk_,.G_hellocake_,.G_notthebees_,.G_pan10_,.G_pancalcos_,.G_panwaffbattle_,.G_pfreeman_,.G_pgaben_,.G_smothered_,.G_torgo_{display:block;float:left;height:150px;background-image:url(http://e.thumbs.redditmedia.com/nbwPOMgNB9CCaUW4.png)}
 .G_smothered_{background-position:-0px -0px;width:185px}
 .G_coconutmonkey_{background-position:-185px -0px;width:150px}
 .G_pan10_{background-position:-335px -0px;width:107px}
@@ -221,6 +221,7 @@ body::after{content:"Your GrEmB is out of date, or you have multiple versions in
 .G_pancalcos_{background-position:-1383px -0px;width:93px}
 .G_pgaben_{background-position:-1476px -0px;width:184px}
 .G_doctordrunk_{background-position:-1660px -0px;width:154px}
+.G_notthebees_{background-position:-1814px -0px;width:190px}
 .G_dinsfire_,.G_dintrot_,.G_flutterhey_,.G_gdb_,.G_gdbsmirk_,.G_pghoofpump_,.G_pglegcross_,.G_pgshock_,.G_pgshuffle_,.G_ponykakke_,.G_sistersprankton_,.G_sisterzealot_{display:block;float:left;height:150px;background-image:url(http://a.thumbs.redditmedia.com/dT4E79uUiKKJvD06.png)}
 .G_pghoofpump_{background-position:-0px -0px;width:71px}
 .G_pgshock_{background-position:-71px -0px;width:127px}
