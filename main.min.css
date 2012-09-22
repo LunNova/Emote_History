@@ -1,4 +1,4 @@
-body::after{content:"Your GrEmB is out of date, or you have multiple versions installed. Please go to http://nallar.me/scripts/ and update it!"; width: 400px; display:block; height: 40px; background-color: white; position: fixed; left:20px; top: 100px; border: 1px solid #E1B000;}/*Parsed 13094 emote aliases.*/
+body::after{content:"Your GrEmB is out of date, or you have multiple versions installed. Please go to http://nallar.me/scripts/ and update it!"; width: 400px; display:block; height: 40px; background-color: white; position: fixed; left:20px; top: 100px; border: 1px solid #E1B000;}/*Parsed 13098 emote aliases.*/
 .G_today_{float:left;background-image:url(http://d.thumbs.redditmedia.com/dN7SE1I0H0ul7jP-.png);width:500px;height:270px}
 .G_imamakethisanemoterealquick_{float:left;background-image:url(http://e.thumbs.redditmedia.com/reUrhLuICVFtwobp.png);width:456px;height:304px}
 .G_lunafilly_{float:left;background-image:url(http://b.thumbs.redditmedia.com/z-06hS5Md37RrzKy.png)}
@@ -1226,7 +1226,7 @@ body::after{content:"Your GrEmB is out of date, or you have multiple versions in
 .G_spitfireum_{background-position:0 -364px}
 .G_jfish_,.G_twielaine_{background-position:-91px -364px}
 .G_twigrin_{background-position:-182px -364px}
-.G_fistpump_,.G_fluttershock_,.G_iapprove_,.G_ironwilllisten_,.G_motherof_,.G_pinkieshock_,.G_pinkiesing_,.G_scratchyay_,.G_soexcited_,.G_tavibored_,.G_wubseverywhere_{background-image:url(http://a.thumbs.redditmedia.com/neArTCTLtPUxkALf.png);display:block;float:left;height:90px;width:90px}
+.G_fistpump_,.G_fluttershock_,.G_iapprove_,.G_ironwilllisten_,.G_motherof_,.G_pinkieshock_,.G_pinkiesing_,.G_scratchspin_,.G_scratchyay_,.G_soexcited_,.G_tavibored_,.G_vinylspin_,.G_wubseverywhere_{background-image:url(http://a.thumbs.redditmedia.com/neArTCTLtPUxkALf.png);display:block;float:left;height:90px;width:90px}
 .G_cranky_,.G_soexcited_,.G_system_,.G_ottsens_{background-position:-91px 0}
 .G_bloomdance_,.G_classyspitfire_,.G_pinkieshock_,.G_sjsharks_{background-position:-182px 0}
 .G_pinkiesing_,.G_rarityumm_,.G_rdheadbang_,.G_njdevils_{background-position:0 -91px}
@@ -1237,6 +1237,7 @@ body::after{content:"Your GrEmB is out of date, or you have multiple versions in
 .G_ironwilllisten_,.G_pokerlee_,.G_sadjack_{background-position:-182px -182px}
 .G_itsbeautiful_,.G_spit18_,.G_wubseverywhere_{background-position:0 -273px}
 .G_fluttershock_,.G_iwantit_,.G_pens_{background-position:-91px -273px}
+.G_scratchspin_,.G_vinylspin_{background-image:url(http://b.thumbs.redditmedia.com/Lceo86M3mxvLEpEO.png)}
 .G_bajentjfun_{background-image:url(http://e.thumbs.redditmedia.com/XO7jBzc0viJL_kRF.png);display:block;float:left;height:131px;width:264px}
 .G_toaster_{background-image:url(http://d.thumbs.redditmedia.com/JrLO9B3o2_MsAkCu.jpg);display:block;float:left;height:392px;width:528px}
 .G_adagio_{background-image:url(http://c.thumbs.redditmedia.com/5cyD4ZGMPahaXfqD.png);display:block;float:left;height:156px;width:120px}
