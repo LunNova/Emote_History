@@ -1,4 +1,4 @@
-/*Parsed 154 emote aliases.*/
+/*Parsed 156 emote aliases.*/
 .G_trigger_{color:black;background:black}
 .G_trigger_:hover{color:white;background:black}
 .G_trigger_:before{content:"[TW]";color:black;background:salmon}
@@ -67,13 +67,13 @@
 .G_genderpolicing_:after{width:284px;height:284px;content:" ";background-position:0px -658px;background-image:url(http://f.thumbs.redditmedia.com/MlH25U7wtxv5shEG.png);display:inline-block}
 .G_feministfun_:after{width:259px;height:109px;content:" ";background-position:0px -987px;background-image:url(http://f.thumbs.redditmedia.com/MlH25U7wtxv5shEG.png);display:inline-block}
 .G_sobrave_:after{width:415px;height:74px;content:" ";background-position:0px 0px;background-image:url(http://b.thumbs.redditmedia.com/JbfEZgXXcwqgGdOs.png);display:inline-block}
-.G_yesgaga_:after{width:300px;height:305px;content:" ";background-position:0px 0px;background-image:url(http://b.thumbs.redditmedia.com/btu3td8eJy-vC7Om.png);display:inline-block}
+.G_yesbird_:after,.G_yesgaga_:after{width:300px;height:305px;content:" ";background-position:0px 0px;background-image:url(http://b.thumbs.redditmedia.com/btu3td8eJy-vC7Om.png);display:inline-block}
 .G_woah_:after{width:392px;height:500px;content:" ";background-position:0px 0px;background-image:url(http://f.thumbs.redditmedia.com/YQeY4TF_q3VW7t7_.jpg);display:inline-block}
 .G_rulex_{width:392px;height:216px;content:" ";background-image:url(http://f.thumbs.redditmedia.com/EukPyUT0-6N5Dwi_.png);display:inline-block}
 .G_rushit_{width:273px;height:125px;content:" ";background-image:url(http://e.thumbs.redditmedia.com/iMvIgMua7BCTKnjd.png);display:inline-block}
 .G_racism_,.G_dontknow_{width:392px;height:294px;content:" ";background-position:0px -716px;background-image:url(http://f.thumbs.redditmedia.com/YQeY4TF_q3VW7t7_.jpg);display:inline-block}
 .G_invasion_:after{width:392px;height:378px;content:" ";background-position:0px -1010px;background-image:url(http://f.thumbs.redditmedia.com/YQeY4TF_q3VW7t7_.jpg);display:inline-block}
-.G_nogaga_:after{width:300px;height:305px;content:" ";background-position:0px 0px;background-image:url(http://f.thumbs.redditmedia.com/lq9MIlqPhecCxAYq.png);display:inline-block}
+.G_nobird_:after,.G_nogaga_:after{width:300px;height:305px;content:" ";background-position:0px 0px;background-image:url(http://f.thumbs.redditmedia.com/lq9MIlqPhecCxAYq.png);display:inline-block}
 .G_reddittears_:after{width:392px;height:409px;content:" ";background-position:0px -1733px;background-image:url(http://f.thumbs.redditmedia.com/YQeY4TF_q3VW7t7_.jpg);display:inline-block}
 .G_misandry_:after{width:234px;height:66px;content:" ";background-image:url(http://f.thumbs.redditmedia.com/4ztsck-TFO01aQqM.png);display:inline-block}
 .G_bigstare_:after{width:753px;height:753px;content:" ";background-image:url(http://b.thumbs.redditmedia.com/cIIeJLUgGDWoK9qy.png);display:inline-block}
