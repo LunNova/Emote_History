@@ -1,4 +1,4 @@
-body::after{content:"Your GrEmB is out of date, or you have multiple versions installed. Please go to http://nallar.me/scripts/ and update it!"; width: 400px; display:block; height: 40px; background-color: white; position: fixed; left:20px; top: 100px; border: 1px solid #E1B000;}/*Parsed 13113 emote aliases.*/
+body::after{content:"Your GrEmB is out of date, or you have multiple versions installed. Please go to http://nallar.me/scripts/ and update it!"; width: 400px; display:block; height: 40px; background-color: white; position: fixed; left:20px; top: 100px; border: 1px solid #E1B000;}/*Parsed 13117 emote aliases.*/
 .G_today_{float:left;background-image:url(http://d.thumbs.redditmedia.com/dN7SE1I0H0ul7jP-.png);width:500px;height:270px}
 .G_imamakethisanemoterealquick_{float:left;background-image:url(http://e.thumbs.redditmedia.com/reUrhLuICVFtwobp.png);width:456px;height:304px}
 .G_lunafilly_{float:left;background-image:url(http://b.thumbs.redditmedia.com/z-06hS5Md37RrzKy.png)}
@@ -1623,6 +1623,8 @@ body::after{content:"Your GrEmB is out of date, or you have multiple versions in
 .G_sqtrixiefun_{width:261px;height:150px;background-position:-756px -593px}
 .G_sqtwifun_{width:229px;height:150px;background-position:-2px -745px}
 .G_squidfun_{width:150px;height:122px;background-position:-233px -745px}
+.G_e6_,.G_itsrapingtime_{display:block;float:left;background-image:url(http://b.thumbs.redditmedia.com/iJuO8kBsvwbgIkrO.png)}
+.G_e6_,.G_itsrapingtime_{width:994px;height:1054px;background-position:0px 0px}
 .G_laying_,.G_tableflip_,.G_vs00_,.G_vs01_,.G_vs02_,.G_vs03_,.G_vs04_,.G_vs05_,.G_vs06_,.G_vs07_,.G_vs08_,.G_vs10_,.G_vs11_,.G_vs12_,.G_vs13_,.G_vs14_,.G_vs15_,.G_vs16_,.G_vs17_,.G_vs18_,.G_vs20_,.G_vs21_,.G_vs22_,.G_vs23_,.G_vs24_,.G_vs25_,.G_vs26_,.G_vs27_,.G_vs28_,.G_vsbass_,.G_vsboring_,.G_vscurious_,.G_vscute_,.G_vsdeal_,.G_vsderp_,.G_vsfilly_,.G_vshair_,.G_vshappy_,.G_vshey_,.G_vshooves_,.G_vsjuice_,.G_vslaying_,.G_vslook_,.G_vslying_,.G_vsmeh_,.G_vsmine_,.G_vsmog_,.G_vsnope_,.G_vsohyou_,.G_vsomg_,.G_vsoooo_,.G_vsplot_,.G_vssad_,.G_vssalute_,.G_vsshrug_,.G_vssup_,.G_vstear_,.G_vswhathefuck_,.G_vswink_,.G_vswtf_,.G_vsyds_,.G_vsyoudontsay_{display:block;float:left;background-image:url(http://e.thumbs.redditmedia.com/G_rsYZol8TuWOhov.png)}
 .G_vs22_,.G_vswink_,.G_davenport_,.G_sur00_{width:70px;height:70px;background-position:-2px -2px}
 .G_vsshrug_{width:250px;height:250px;background-position:-74px -2px}
