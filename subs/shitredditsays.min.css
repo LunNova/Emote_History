@@ -1,4 +1,4 @@
-/*Parsed 156 emote aliases.*/
+/*Parsed 157 emote aliases.*/
 .G_trigger_{color:black;background:black}
 .G_trigger_:hover{color:white;background:black}
 .G_trigger_:before{content:"[TW]";color:black;background:salmon}
@@ -37,7 +37,7 @@
 .G_thesconi_:after{width:60px;height:57px;background-position:-154px -344px;content:" ";background-image:url(http://b.thumbs.redditmedia.com/detvcVr0wHxOoZKU.png);display:inline-block}
 .G_baby_:after{width:47px;height:60px;background-position:0px -378px;content:" ";background-image:url(http://b.thumbs.redditmedia.com/detvcVr0wHxOoZKU.png);display:inline-block}
 .G_goodnews_:after{width:194px;height:50px;background-position:-230px -375px;content:" ";background-image:url(http://b.thumbs.redditmedia.com/detvcVr0wHxOoZKU.png);display:inline-block}
-.G_edgypost_:after{width:373px;height:327px;background-position:0px 0px;content:" ";background-image:url(http://b.thumbs.redditmedia.com/Bl9l0IOD5uBQ45-I.png);display:inline-block}
+.G_edgy_:after,.G_edgypost_:after{width:350px;height:336px;background-position:0px 0px;content:" ";background-image:url(http://a.thumbs.redditmedia.com/HZ40Ijm0wtGE3j_0.png);display:inline-block}
 .G_dogout_:after{width:100px;height:25px;background-position:-67px -439px;content:" ";background-image:url(http://b.thumbs.redditmedia.com/detvcVr0wHxOoZKU.png);display:inline-block}
 .G_creeper_:after{width:80px;height:55px;background-position:-0px -545px;content:" ";background-image:url(http://b.thumbs.redditmedia.com/detvcVr0wHxOoZKU.png);display:inline-block}
 .G_creepess_:after{width:150px;height:86px;content:" ";background-position:0px -1003px;background-image:url(http://a.thumbs.redditmedia.com/UcrwmwUyUMMwwDfl.png);display:inline-block}
