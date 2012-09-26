@@ -84,4 +84,4 @@
 .G_smooze_{background-position:0px 0px;display:block;float:left;width:70px;height:70px;background-image:url(http://c.thumbs.redditmedia.com/5wA7HWAl2WD-UzA8.png)}
 .G_rsmooze_{background-position:-0px -70px;display:block;float:left;width:70px;height:70px;background-image:url(http://c.thumbs.redditmedia.com/5wA7HWAl2WD-UzA8.png)}
 .G_sp_{display:inline-block;padding-right:100%}
-.G_sp_ + .reddit_show_hidden_emotes_span{display:none}
+.G_sp_+.reddit_show_hidden_emotes_span{display:none}
