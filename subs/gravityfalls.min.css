@@ -17,4 +17,4 @@
 .G_hhgf13_,.G_hhgrunklemad_,.G_hhrgf13_,.G_hhrgrunklemad_,.G_hhrstanmad_,.G_hhstanmad_{background-position:-70px -210px}
 .G_hhgf23_,.G_hhmabelwat_,.G_hhmablewat_,.G_hhrgf23_,.G_hhrmabelwat_,.G_hhrmablewat_{background-position:-140px -210px}
 .G_hhsp_,.G_sp_{display:inline-block;padding-right:100%}
-.G_hhsp_ + .reddit_show_hidden_emotes_span,.G_sp_ + .reddit_show_hidden_emotes_span{display:none}
+.G_hhsp_+.reddit_show_hidden_emotes_span,.G_sp_+.reddit_show_hidden_emotes_span{display:none}
