@@ -1385,7 +1385,7 @@ body::after{content:"Your GrEmB is out of date, or you have multiple versions in
 .G_nietzche_{background-position:-150px -200px;width:90px;height:100px}
 .G_einstein_{background-position:-0px -300px;width:75px;height:100px}
 .G_napoleon_{background-position:-75px -300px;width:75px;height:100px}
-.G_s_{color:#222222;background:#CCCCCC;background-repeat:no-repeat;padding:0px 0px 0px 20px;cursor:text}
+.G_s_{color:#222222;background:#CCCCCC;background-repeat:no-repeat;padding:0px 0px 0px 0px;cursor:text}
 .G_s_:hover{color:#8F8F8F}
 .G_s_::after{content:attr(title);background:#CCCCCC;color:#CCCCCC;padding:0px 10px 0px 10px}
 .G_s_:hover::after,.G_sl_:active::after,.G_sr_:active::after,.G_st_:active::after{color:black}

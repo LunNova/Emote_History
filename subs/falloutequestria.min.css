@@ -1,7 +1,7 @@
 /*Parsed 190 emote aliases.*/
 .G_spoiler_{background:#000;color:#000}
 .G_spoiler_:hover{color:#FFF}
-.G_s_{color:#222222;background:#CCCCCC;background-repeat:no-repeat;padding:0px 0px 0px 20px;cursor:text}
+.G_s_{color:#222222;background:#CCCCCC;background-repeat:no-repeat;padding:0px 0px 0px 0px;cursor:text}
 .G_s_:hover{color:#8F8F8F}
 .G_s_::after{content:attr(title);background:#CCCCCC;color:#CCCCCC;padding:0px 10px 0px 10px}
 .G_s_:hover::after,.G_sl_:active::after,.G_sr_:active::after,.G_st_:active::after{color:black}
